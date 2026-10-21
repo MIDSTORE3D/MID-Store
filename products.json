@@ -9,6 +9,18 @@
   ],
   "products": [
     {
+      "id": "mid-fcb3b915-3daf-429d-8fba-0b7d963eb120",
+      "name": "Gatos Brincalhões e Borboleta",
+      "description": "Um charmoso e elegante conjunto de decoração de parede apresentando silhuetas de gatos brincalhonas e uma delicada borboleta. Este design minimalista é perfeito para amantes de gatos que desejam adicionar um toque de personalidade e arte moderna à sua sala de estar, quarto ou quarto infantil. O conjunto inclui três molduras distintas e uma peça de borboleta separada, permitindo que você crie sua própria cena única. Cada moldura tem aproximadamente 18 cm e 2 mm de espessura, tornando o conjunto inteiro excepcionalmente leve e simples de instalar",
+      "price": 25,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-fcb3b915-3daf-429d-8fba-0b7d963eb120-1456ebe1.jpg",
+        "images/products/mid-fcb3b915-3daf-429d-8fba-0b7d963eb120-79716e05.jpg",
+        "images/products/mid-fcb3b915-3daf-429d-8fba-0b7d963eb120-cd4ec2f5.jpg"
+      ]
+    },
+    {
       "id": "mid-cabd6493-2f10-4e35-8255-b679c7bb54fb",
       "name": "Organizador de Jóias - Suporte para Colar, Pulseira e Anel",
       "description": "Mantenha sua coleção de joias organizada e livre de nós com este suporte organizador de joias all-in-one. Projetado para acomodar colares, pulseiras, anéis e brincos, este suporte compacto oferece uma maneira elegante e funcional de exibir suas peças favoritas. Perfeito para organizar tudo em um só lugar, é ideal para sua cômoda, penteadeira ou closet.",
