@@ -9,6 +9,18 @@
   ],
   "products": [
     {
+      "id": "mid-81a24979-3026-458c-963a-ceb9c37eafc7",
+      "name": "Porta - Chaves Flor de Cerejeira",
+      "description": "Adicione um toque de delicadeza, elegância e muita funcionalidade à sua entrada ou ambiente com este lindo porta-chaves com prateleira decorado com galho de cerejeira!",
+      "price": 36,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-81a24979-3026-458c-963a-ceb9c37eafc7-2b64cb28.webp",
+        "images/products/mid-81a24979-3026-458c-963a-ceb9c37eafc7-f4af1210.webp",
+        "images/products/mid-81a24979-3026-458c-963a-ceb9c37eafc7-cde314ab.webp"
+      ]
+    },
+    {
       "id": "mid-b80f902c-f3dc-4f12-b302-3211c307f15c",
       "name": "Porta - Jóias Gato",
       "description": "​Traga muito charme, mistério e praticidade para o seu espaço com este incrível Porta-Joias e Organizador em formato de gato! Além de ser um item decorativo super estiloso, ele é perfeito para manter os seus pequenos acessórios sempre em ordem.",
