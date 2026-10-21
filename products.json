@@ -9,6 +9,18 @@
   ],
   "products": [
     {
+      "id": "mid-443b7419-bdf1-4035-873e-e1a4480bf2d4",
+      "name": "Caixa de Cosméticos",
+      "description": "Mantenha sua penteadeira ou mesa organizada com estilo com esta elegante caixa de cosméticos com tampa deslizante. Projetada com uma tampa de correr suave e um visual limpo e moderno, é perfeita para guardar maquiagem, produtos de cuidados com a pele, material de escritório ou pequenos acessórios, mantendo-os livres de poeira",
+      "price": 56,
+      "category": "Beleza",
+      "images": [
+        "images/products/mid-443b7419-bdf1-4035-873e-e1a4480bf2d4-309e111f.webp",
+        "images/products/mid-443b7419-bdf1-4035-873e-e1a4480bf2d4-3cabf0e1.webp",
+        "images/products/mid-443b7419-bdf1-4035-873e-e1a4480bf2d4-948a63a5.webp"
+      ]
+    },
+    {
       "id": "mid-a81457c0-ac9d-44eb-8e66-cd414557c75f",
       "name": "Calendário + Porta Canetas",
       "description": "Suporte para canetas com calendário ou calendário porta-canetas, espero que todos gostem",
