@@ -9,6 +9,19 @@
   ],
   "products": [
     {
+      "id": "mid-ec9acb33-f9dc-4141-9fcf-090166c2330a",
+      "name": "Porta-joias Raposa",
+      "description": "Transforme a organização do seu cantinho com este adorável Porta-Joias e Organizador em formato de raposa! Unindo criatividade, fofura e muita funcionalidade, ele é perfeito para guardar pequenos acessórios com muito estilo.  ",
+      "price": 60,
+      "category": "Beleza",
+      "images": [
+        "images/products/mid-ec9acb33-f9dc-4141-9fcf-090166c2330a-4a5865ae.webp",
+        "images/products/mid-ec9acb33-f9dc-4141-9fcf-090166c2330a-30e1b5ce.webp",
+        "images/products/mid-ec9acb33-f9dc-4141-9fcf-090166c2330a-9bfa0f38.webp",
+        "images/products/mid-ec9acb33-f9dc-4141-9fcf-090166c2330a-f4d1b5c1.webp"
+      ]
+    },
+    {
       "id": "mid-443b7419-bdf1-4035-873e-e1a4480bf2d4",
       "name": "Caixa de Cosméticos",
       "description": "Mantenha sua penteadeira ou mesa organizada com estilo com esta elegante caixa de cosméticos com tampa deslizante. Projetada com uma tampa de correr suave e um visual limpo e moderno, é perfeita para guardar maquiagem, produtos de cuidados com a pele, material de escritório ou pequenos acessórios, mantendo-os livres de poeira",
