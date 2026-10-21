@@ -1,5 +1,5 @@
-const CACHE='mid-store-v3-fotos-multidispositivo';
-const SHELL=['./','./index.html','./styles.css','./app.js','./config.js','./icon.svg','./manifest.webmanifest'];
+const CACHE='mid-store-v4-seletor-fotos';
+const SHELL=['./','./index.html','./styles.css','./app.js','./photo-picker-fix.js','./config.js','./icon.svg','./manifest.webmanifest'];
 self.addEventListener('install',event=>{
   event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL)));
   self.skipWaiting();
