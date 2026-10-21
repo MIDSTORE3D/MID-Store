@@ -9,6 +9,17 @@
   ],
   "products": [
     {
+      "id": "mid-d86a28a4-5cb8-4107-825b-ee3af12fc880",
+      "name": "Porta Palitos",
+      "description": "Traga mais praticidade, charme e organização para a sua mesa ou bancada com este suporte canelado multiuso! Perfeito para o uso diário, ele combina um design moderno com uma excelente funcionalidade.  ",
+      "price": 18,
+      "category": "Cozinha",
+      "images": [
+        "images/products/mid-d86a28a4-5cb8-4107-825b-ee3af12fc880-54858878.webp",
+        "images/products/mid-d86a28a4-5cb8-4107-825b-ee3af12fc880-130459da.webp"
+      ]
+    },
+    {
       "id": "mid-98742782-0db5-40f3-9305-86de13ec504a",
       "name": "Caneca Monster + Abridor de Latas",
       "description": "​Mostre toda a sua energia e estilo com esta incrível caneca temática inspirada na Monster Energy! Perfeita para fãs de esportes radicais, games e energia, ela une um design robusto a um visual super moderno.  ",
