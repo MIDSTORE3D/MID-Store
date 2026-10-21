@@ -1,4 +1,4 @@
-const CACHE='mid-store-v4-seletor-fotos';
+const CACHE='mid-store-v5-previsualizacao-fotos';
 const SHELL=['./','./index.html','./styles.css','./app.js','./photo-picker-fix.js','./config.js','./icon.svg','./manifest.webmanifest'];
 self.addEventListener('install',event=>{
   event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL)));
