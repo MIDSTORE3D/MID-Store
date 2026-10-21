@@ -9,6 +9,19 @@
   ],
   "products": [
     {
+      "id": "mid-b80f902c-f3dc-4f12-b302-3211c307f15c",
+      "name": "Porta - Jóias Gato",
+      "description": "​Traga muito charme, mistério e praticidade para o seu espaço com este incrível Porta-Joias e Organizador em formato de gato! Além de ser um item decorativo super estiloso, ele é perfeito para manter os seus pequenos acessórios sempre em ordem.",
+      "price": 60,
+      "category": "Beleza",
+      "images": [
+        "images/products/mid-b80f902c-f3dc-4f12-b302-3211c307f15c-e45ff156.webp",
+        "images/products/mid-b80f902c-f3dc-4f12-b302-3211c307f15c-a40dcfde.webp",
+        "images/products/mid-b80f902c-f3dc-4f12-b302-3211c307f15c-23e980de.webp",
+        "images/products/mid-b80f902c-f3dc-4f12-b302-3211c307f15c-e4bf72dd.webp"
+      ]
+    },
+    {
       "id": "mid-ec9acb33-f9dc-4141-9fcf-090166c2330a",
       "name": "Porta-joias Raposa",
       "description": "Transforme a organização do seu cantinho com este adorável Porta-Joias e Organizador em formato de raposa! Unindo criatividade, fofura e muita funcionalidade, ele é perfeito para guardar pequenos acessórios com muito estilo.  ",
