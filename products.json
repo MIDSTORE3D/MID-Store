@@ -9,6 +9,21 @@
   ],
   "products": [
     {
+      "id": "mid-8a60172c-73c5-4d06-91b1-293e6190bfe1",
+      "name": "Kit Organizador",
+      "description": "​Deixe o quartinho ou o cantinho das crianças ainda mais organizado e cheio de fofura com este lindo Kit de Caixas Organizadoras decoradas com ursinhos! Perfeito para unir praticidade no dia a dia e uma decoração aconchegante.  ",
+      "price": 86,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-8a60172c-73c5-4d06-91b1-293e6190bfe1-8ce0e5ae.webp",
+        "images/products/mid-8a60172c-73c5-4d06-91b1-293e6190bfe1-6046abfa.webp",
+        "images/products/mid-8a60172c-73c5-4d06-91b1-293e6190bfe1-176173c1.webp",
+        "images/products/mid-8a60172c-73c5-4d06-91b1-293e6190bfe1-2101aa4d.webp",
+        "images/products/mid-8a60172c-73c5-4d06-91b1-293e6190bfe1-dc8a5a19.webp",
+        "images/products/mid-8a60172c-73c5-4d06-91b1-293e6190bfe1-c283f6aa.webp"
+      ]
+    },
+    {
       "id": "mid-81a24979-3026-458c-963a-ceb9c37eafc7",
       "name": "Porta - Chaves Flor de Cerejeira",
       "description": "Adicione um toque de delicadeza, elegância e muita funcionalidade à sua entrada ou ambiente com este lindo porta-chaves com prateleira decorado com galho de cerejeira!",
