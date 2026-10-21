@@ -1,0 +1,288 @@
+{
+  "categories": [
+    "Cozinha",
+    "Decoração",
+    "Beleza",
+    "Banheiro",
+    "Acessórios",
+    "Brinquedos"
+  ],
+  "products": [
+    {
+      "id": "mid-cabd6493-2f10-4e35-8255-b679c7bb54fb",
+      "name": "Organizador de Jóias - Suporte para Colar, Pulseira e Anel",
+      "description": "Mantenha sua coleção de joias organizada e livre de nós com este suporte organizador de joias all-in-one. Projetado para acomodar colares, pulseiras, anéis e brincos, este suporte compacto oferece uma maneira elegante e funcional de exibir suas peças favoritas. Perfeito para organizar tudo em um só lugar, é ideal para sua cômoda, penteadeira ou closet.",
+      "price": 40,
+      "category": "Beleza",
+      "images": [
+        "images/products/mid-cabd6493-2f10-4e35-8255-b679c7bb54fb-addc828f.webp",
+        "images/products/mid-cabd6493-2f10-4e35-8255-b679c7bb54fb-bbfc6b9d.webp",
+        "images/products/mid-cabd6493-2f10-4e35-8255-b679c7bb54fb-4fc653df.webp",
+        "images/products/mid-cabd6493-2f10-4e35-8255-b679c7bb54fb-aa8df7e4.webp"
+      ]
+    },
+    {
+      "id": "produto-1",
+      "name": "Limpador de pinceis",
+      "price": 9.99,
+      "description": "Limpador de Pinceis Maquiagem feito para agilizar a limpeza dos seus pinceis de forma rapida e pratica, tornando seu dia mais facil.",
+      "category": "Beleza",
+      "images": [
+        "images/products/p1-1.webp",
+        "images/products/p1-2.webp",
+        "images/products/p1-3.webp",
+        "images/products/p1-4.webp",
+        "images/products/p1-5.webp",
+        "images/products/p1-6.webp"
+      ]
+    },
+    {
+      "id": "produto-2",
+      "name": "Suporte para copos",
+      "price": 14.99,
+      "description": "Um suporte moderno e minimalista feito para deixar seu drink ainda mais sofisticado, alem de preservar seus moveis, deixando seu momento do tranquilidade em outro nivel.",
+      "category": "Cozinha",
+      "images": [
+        "images/products/p2-1.webp",
+        "images/products/p2-2.webp",
+        "images/products/p2-3.webp"
+      ]
+    },
+    {
+      "id": "produto-3",
+      "name": "Pote organizador de maquiagem rotativo",
+      "price": 59.99,
+      "description": "Organizador de Maquiagem Canelado 360° 💄\r\nO fim do caos na sua penteadeira.\r\n✨ Rotação suave para achar tudo em segundos\r\n🤍 Design minimalista premium com pés amadeirados\r\n🛒 Garanta o seu e mude sua rotina 👇",
+      "category": "Beleza",
+      "images": [
+        "images/products/p3-1.webp",
+        "images/products/p3-2.webp",
+        "images/products/p3-3.webp",
+        "images/products/p3-4.webp"
+      ]
+    },
+    {
+      "id": "produto-4",
+      "name": "Organizador centro de mesa",
+      "price": 35,
+      "description": "Organizador Centro de Mesa Filté 🌸\r\nO toque de design que faltava no seu ambiente.\r\n✨ Trama geométrica exclusiva com acabamento impecável\r\n🤍 Tom rosa delicado com puxador minimalista clean\r\n🛒 Transforme sua decoração e organize com estilo 👇",
+      "category": "Decoração",
+      "images": [
+        "images/products/p4-1.webp",
+        "images/products/p4-2.webp",
+        "images/products/p4-3.webp",
+        "images/products/p4-4.webp"
+      ]
+    },
+    {
+      "id": "produto-5",
+      "name": "Despensador de ovos",
+      "price": 59.99,
+      "description": "O design inteligente que faz a rotina rodar sozinha.\r\n✨ Sistema por gravidade: pegue um e o próximo desce automaticamente\r\n🤍 Linhas fluidas e minimalistas com acabamento totalmente clean\r\n🛒 Otimize o espaço da sua geladeira ou bancada com estilo 👇",
+      "category": "Cozinha",
+      "images": [
+        "images/products/p5-1.webp",
+        "images/products/p5-2.webp",
+        "images/products/p5-3.webp",
+        "images/products/p5-4.webp"
+      ]
+    },
+    {
+      "id": "produto-6",
+      "name": "Conjunto de decoração para recipiente com tampa",
+      "price": 49.99,
+      "description": "O toque de delicadeza e ordem que faltava no seu camarim.\r\n✨ Trio exclusivo: acompanha bandeja oval, mini vaso e pote com tampa\r\n🤍 Textura em relevo premium com um tom rosa pastel super delicado\r\n🛒 Transforme seu momento de autocuidado e decore sua penteadeira 👇",
+      "category": "Decoração",
+      "images": [
+        "images/products/p6-1.webp",
+        "images/products/p6-2.webp",
+        "images/products/p6-3.webp"
+      ]
+    },
+    {
+      "id": "produto-7",
+      "name": "Chaveiro boneco enderman",
+      "price": 5,
+      "description": "Chaveiro personalizado boneco Endermen do jogo Minecraft",
+      "category": "Brinquedos",
+      "images": [
+        "images/products/p7-1.webp",
+        "images/products/p7-2.webp",
+        "images/products/p7-3.webp"
+      ]
+    },
+    {
+      "id": "produto-8",
+      "name": "Jogo de chá infantil",
+      "price": 15,
+      "description": "Jogo de Chá Infantil Pastel Garden ☕🌸\r\nO encanto das brincadeiras clássicas com o design que você ama.\r\n✨ Kit completo: acompanha bule floral, açucareiro, xícaras, pires e pratinhos coordenados\r\n💛 Tons pastel super delicados com detalhes botânicos gravados em relevo\r\n🛒 Estimule a imaginação ou decore o quarto com pura fofura 👇",
+      "category": "Brinquedos",
+      "images": [
+        "images/products/p8-1.webp",
+        "images/products/p8-2.webp",
+        "images/products/p8-3.webp",
+        "images/products/p8-4.webp"
+      ]
+    },
+    {
+      "id": "produto-9",
+      "name": "Dragão Articulado",
+      "price": 50,
+      "description": "Dragão Articulado Flarewing Flex 🐲🔥\r\nCriaturas místicas que ganham vida e movimento na palma da sua mão.\r\n✨ Sistema Print-in-Place: corpo 100% flexível e articulado que se move de forma super satisfatória\r\n🎨 Design premium com alta definição de detalhes, perfeito como item antiestresse (fidget toy)",
+      "category": "Brinquedos",
+      "images": [
+        "images/products/p9-1.webp",
+        "images/products/p9-2.webp",
+        "images/products/p9-3.webp"
+      ]
+    },
+    {
+      "id": "produto-10",
+      "name": "Conjunto de Saleiro e Pimenteiro",
+      "price": 41.99,
+      "description": "Conjunto de Saleiro e Pimenteiro Hexagonal 🧂🖤\r\nO clássico preto e branco com um toque moderno de geometria na sua mesa.\r\n✨ Formato hexagonal minimalista que garante pegada ergonômica e encaixe perfeito\r\n🤍 Duo indispensável (Black & White) com furação precisa e acabamento totalmente clean\r\n🛒 Dê um upgrade na sua cozinha e tempere seus pratos com estilo 👇",
+      "category": "Cozinha",
+      "images": [
+        "images/products/p10-1.webp",
+        "images/products/p10-2.webp"
+      ]
+    },
+    {
+      "id": "produto-11",
+      "name": "Axolote Articulado",
+      "price": 22.5,
+      "description": "Axolote Místico Flexi-Articulado\r\nO mascote aquático que ganha vida e movimento na sua mão!\r\n✨ Corpo totalmente articulado e flexível que se move de forma incrivelmente suave e satisfatória\r\n🎨 Duo exclusivo: vem em dois estilos marcantes — o doce rosa clássico com franjas pink e o misterioso preto com franjas vermelhas (como visto em image_cb58ec.jpg)\r\n🎁 O mascote perfeito para aliviar o estresse (fidget toy) ou decorar setups com pura fofura\r\n🛒 Escolha seu elemento ou garanta o par para uma coleção mágica 👇",
+      "category": "Brinquedos",
+      "images": [
+        "images/products/p11-1.webp",
+        "images/products/p11-2.webp",
+        "images/products/p11-3.webp",
+        "images/products/p11-4.webp",
+        "images/products/p11-5.webp"
+      ]
+    },
+    {
+      "id": "produto-12",
+      "name": "Dragão articulado flexível SHENRON",
+      "price": 45,
+      "description": "Dragão Articulado Shenron Flex 🐉⭐\r\nO realizador de desejos lendário diretamente para o seu setup ou coleção.\r\n✨ Sistema Flexy Articulated: corpo totalmente maleável e articulado que se move de forma fluida e super satisfatória\r\n🟢 Design nostálgico de alta fidelidade, com o clássico corpo verde, olhos vermelhos marcantes e chifres detalhados (como visto em image_cb3bdc.jpg)\r\n🛒 Reúna as esferas do dragão e invoque o seu guardião místico agora mesmo 👇",
+      "category": "Brinquedos",
+      "images": [
+        "images/products/p12-1.webp",
+        "images/products/p12-2.webp",
+        "images/products/p12-3.webp",
+        "images/products/p12-4.webp",
+        "images/products/p12-5.webp"
+      ]
+    },
+    {
+      "id": "produto-13",
+      "name": "Recipiente Difusor de Aroma",
+      "price": 24.99,
+      "description": "Difusor de Ambiente Canelado ✨\r\nO toque de elegância e a atmosfera perfeita que faltavam no seu espaço.\r\n✨ Design canelado premium com textura em relevo e varetas difusoras inclusas\r\n🤍 Estética minimalista pura que decora perfeitamente salas, lavabos ou quartos\r\n🛒 Deixe sua casa com visual de revista e perfume o seu lar com estilo 👇",
+      "category": "Decoração",
+      "images": [
+        "images/products/p13-1.webp",
+        "images/products/p13-2.webp",
+        "images/products/p13-3.webp",
+        "images/products/p13-4.webp"
+      ]
+    },
+    {
+      "id": "produto-14",
+      "name": "Kit porta baton abridor de lata",
+      "price": 12.99,
+      "description": "Kit Chaveiro Porta-Batom + Abridor 💄🎀\r\nO combo perfeito de utilidade e fofura para levar sempre com você.\r\n✨ Dupla funcionalidade: estojo protetor para batom e acessório abridor de latas integrado\r\n🤍 Design super detalhado com relevos de corações e um laço delicado\r\n🛒 Proteja suas unhas no dia a dia e tenha seu batom sempre à mão 👇",
+      "category": "Beleza",
+      "images": [
+        "images/products/p14-1.webp",
+        "images/products/p14-2.webp",
+        "images/products/p14-3.webp",
+        "images/products/p14-4.webp",
+        "images/products/p14-5.webp"
+      ]
+    },
+    {
+      "id": "produto-15",
+      "name": "Organizador de Banheiro Canelado",
+      "price": 27.99,
+      "description": "Organizador Duplo de Banheiro Canelado 🧼✨\r\nO segredo para manter seus itens essenciais organizados com visual de hotel.\r\n✨ Design funcional dois-em-um: compartimento com abertura inteligente para discos de algodão e nicho prático para hastes flexíveis\r\n🌿 Textura canelada elegante que traz linhas simétricas e um toque moderno para a bancada.\r\n🛒 Deixe sua rotina de skincare mais ágil e decore seu ambiente com estilo 👇",
+      "category": "Banheiro",
+      "images": [
+        "images/products/p15-1.webp",
+        "images/products/p15-2.webp"
+      ]
+    },
+    {
+      "id": "produto-16",
+      "name": "Porta-copos de folha de Monstera",
+      "price": 47.99,
+      "description": "Conjunto de Porta-Copos folha de Monstera 🌿🍹\r\nO descanso de copo que se transforma em uma linda peça de decoração quando não está em uso.\r\n✨ Design inteligente e funcional: porta-copos em formato de folhas tropicais que se encaixam verticalmente na base organizadora\r\n🌿 Estética inspirada na natureza que imita uma mini planta para decorar mesas de centro ou aparadores\r\n🛒 Proteja seus móveis com originalidade e dê um toque natural ao seu lar 👇",
+      "category": "Cozinha",
+      "images": [
+        "images/products/p16-1.webp",
+        "images/products/p16-2.webp",
+        "images/products/p16-3.webp"
+      ]
+    },
+    {
+      "id": "produto-17",
+      "name": "Kit 4 gancho automatico",
+      "price": 19.99,
+      "description": "A união perfeita entre minimalismo contemporâneo e utilidade inteligente.\r\n✨ Sistema de encaixe por fricção: basta deslizar o tecido na abertura interna para manter toalhas ou panos de prato firmes e organizados\r\n🏛️ Design em arco com textura canelada elegante que transforma um simples suporte em uma peça de destaque na parede\r\n🛒 Diga adeus aos ganchos tradicionais e dê um upgrade no seu ambiente 👇",
+      "category": "Banheiro",
+      "images": [
+        "images/products/p17-1.webp",
+        "images/products/p17-2.webp",
+        "images/products/p17-3.webp",
+        "images/products/p17-4.webp",
+        "images/products/p17-5.webp",
+        "images/products/p17-6.webp",
+        "images/products/p17-7.webp"
+      ]
+    },
+    {
+      "id": "produto-18",
+      "name": "Velociraptor Flexivel",
+      "price": 30,
+      "description": "Traga a pré-história para a sua mesa com este incrível Dinossauro Esqueleto totalmente articulado! Com um design detalhado que simula fósseis reais, mas com uma pegada moderna e divertida, ele é perfeito tanto para decorar seu espaço geek quanto para entreter as crianças. Graças à tecnologia de impressão 3D, cada vértebra e membro se move com fluidez, tornando-o um excelente brinquedo antiestresse (fidget toy).\r\n\r\n🛠️ Diferenciais do Produto\r\n100% Articulado: Corpo, cauda e pernas totalmente móveis, permitindo criar diversas poses dinâmicas.\r\n\r\nTextura e Acabamento Premium: Impresso em alta resolução com filamento de excelente qualidade, garantindo resistência e um toque suave.\r\n\r\nDesign Exclusivo: Visual de fóssil estilizado que encanta colecionadores de todas as idades.\r\n\r\nEco-Friendly: Produzido em plástico biodegradável (PLA), seguro para o ambiente e para a sua família.",
+      "category": "Brinquedos",
+      "images": [
+        "images/products/p18-1.webp",
+        "images/products/p18-2.webp"
+      ]
+    },
+    {
+      "id": "produto-19",
+      "name": "Caneca suporte Monster",
+      "price": 46.5,
+      "description": "Eleve o nível do seu setup ou da sua mesa de trabalho com a Caneca Suporte Monster Energy! Desenvolvida especialmente para os apaixonados por adrenalina e pela marca, essa caneca funciona como um coldre perfeito para a sua lata de energético favorita, unindo estilo geek, pegada industrial e muita utilidade.\r\n\r\nO design vazado com o icônico logotipo da garra permite que você veja a lata por dentro, criando um contraste animal dependendo da cor do sabor do Monster que você estiver bebendo!\r\n\r\n🛠️ Diferenciais do Produto\r\nDesign Funcional (2 em 1): Use diretamente como uma caneca estilizada ou insira sua lata de 473ml perfeitamente dentro dela para servir de suporte térmico.\r\n\r\nErgonomia Confortável: Alça reforçada com encaixe anatômico para os dedos, garantindo total firmeza na hora do gole.\r\n\r\nBrinde Incluso: Acompanha um chaveiro exclusivo emborrachado Monster Energy preso por corrente metálica na alça.\r\n\r\nAcabamento High-Gloss: Impressa em alta resolução com linhas de camada super suaves e um brilho metálico discreto que destaca a peça na mesa.",
+      "category": "Cozinha",
+      "images": [
+        "images/products/p19-1.webp",
+        "images/products/p19-2.webp",
+        "images/products/p19-3.webp",
+        "images/products/p19-4.webp"
+      ]
+    },
+    {
+      "id": "produto-20",
+      "name": "Porta Joias",
+      "price": 30,
+      "description": "Leve a delicadeza e a organização das flores de cerejeira para a sua rotina! O Porta-Joias foi projetado para quem ama unir estética e funcionalidade. Com um design compacto e romântico, ele traz lindos relevos de flores de sakura em toda a sua superfície externa, sendo a escolha perfeita para decorar sua penteadeira ou te acompanhar em viagens.\r\n\r\nO grande diferencial está no seu sistema inteligente de camadas: ele possui uma placa organizadora de brincos removível, revelando divisórias inferiores extras para anéis, pulseiras e colares de forma totalmente otimizada.\r\n\r\n🛠️ Diferenciais do Produto\r\nDesign Inteligente de Camadas: Placa superior com furos sob medida para brincos de tarraxa ou argolas, totalmente removível para dar acesso ao fundo da caixinha.\r\n\r\nDivisórias Inferiores: Três compartimentos na base para organizar peças maiores como correntes, pingentes e anéis sem embaraçar.\r\n\r\nFechamento Seguro: Sistema de trava frontal integrado em clique, garantindo que o porta-joias não abra sozinho dentro da bolsa ou mala.\r\n\r\nTextura em Relevo Premium: Flores de sakura esculpidas em alta definição na tampa e nas laterais, dando uma experiência tátil única e acabamento impecável.",
+      "category": "Acessórios",
+      "images": [
+        "images/products/p20-1.webp",
+        "images/products/p20-2.webp",
+        "images/products/p20-3.webp",
+        "images/products/p20-4.webp"
+      ]
+    }
+  ],
+  "settings": {
+    "whatsapp": "",
+    "bannerTitle": "Feito para surpreender.",
+    "bannerSubtitle": "Peças criativas e detalhes que fazem a diferença.",
+    "bannerEnabled": true
+  }
+}
