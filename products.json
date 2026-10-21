@@ -14,7 +14,11 @@
       "description": "Suporte para canetas com calendário ou calendário porta-canetas, espero que todos gostem",
       "price": 32,
       "category": "Decoração",
-      "images": []
+      "images": [
+        "images/products/mid-a81457c0-ac9d-44eb-8e66-cd414557c75f-e6fe2ada.webp",
+        "images/products/mid-a81457c0-ac9d-44eb-8e66-cd414557c75f-3683dd7e.webp",
+        "images/products/mid-a81457c0-ac9d-44eb-8e66-cd414557c75f-2c68be47.webp"
+      ]
     },
     {
       "id": "mid-fcb3b915-3daf-429d-8fba-0b7d963eb120",
