@@ -1,1 +1,28 @@
-const CACHE='mid-store-v2-imagens-otimizadas',SHELL=['./','./index.html','./styles.css','./app.js','./config.js','./icon.svg','./manifest.webmanifest'];self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(SHELL)));self.skipWaiting()});self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))));self.clients.claim()});self.addEventListener('fetch',e=>{let req=e.request;if(req.method!=='GET'||new URL(req.url).origin!==location.origin)return;if(new URL(req.url).pathname.endsWith('products.json')){e.respondWith(fetch(req,{cache:'no-store'}).then(r=>{let c=r.clone();caches.open(CACHE).then(cache=>cache.put(req,c));return r}).catch(()=>caches.match(req)));return}e.respondWith(caches.match(req).then(c=>c||fetch(req).then(r=>{if(r.ok)caches.open(CACHE).then(cache=>cache.put(req,r.clone()));return r})))})
+const CACHE='mid-store-v3-fotos-multidispositivo';
+const SHELL=['./','./index.html','./styles.css','./app.js','./config.js','./icon.svg','./manifest.webmanifest'];
+self.addEventListener('install',event=>{
+  event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL)));
+  self.skipWaiting();
+});
+self.addEventListener('activate',event=>{
+  event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(key=>caches.delete(key)))));
+  self.clients.claim();
+});
+self.addEventListener('fetch',event=>{
+  const request=event.request;
+  if(request.method!=='GET'||new URL(request.url).origin!==location.origin)return;
+  const path=new URL(request.url).pathname;
+  const isProductData=path.endsWith('/products.json');
+  const isShell=SHELL.some(p=>new URL(p,self.registration.scope).pathname===path);
+  if(isProductData||isShell){
+    event.respondWith(fetch(request,{cache:'no-store'}).then(response=>{
+      if(response.ok){const copy=response.clone();caches.open(CACHE).then(cache=>cache.put(request,copy)).catch(()=>{});}
+      return response;
+    }).catch(async()=>await caches.match(request)||new Response('Sem conexão.',{status:503})));
+    return;
+  }
+  event.respondWith(caches.match(request).then(cached=>cached||fetch(request).then(response=>{
+    if(response.ok){const copy=response.clone();caches.open(CACHE).then(cache=>cache.put(request,copy)).catch(()=>{});}
+    return response;
+  })));
+});
