@@ -9,6 +9,17 @@
   ],
   "products": [
     {
+      "id": "mid-4251adf4-2cdf-4c6b-8ce3-3a157e961986",
+      "name": "Porta condimentos",
+      "description": "Dê um toque de elegância, charme e muita praticidade à sua mesa posta ou cozinha com este lindo conjunto de porta-condimentos! Perfeito para organizar e servir temperos com estilo.  ",
+      "price": 40,
+      "category": "Cozinha",
+      "images": [
+        "images/products/mid-4251adf4-2cdf-4c6b-8ce3-3a157e961986-3d6f9d8e.webp",
+        "images/products/mid-4251adf4-2cdf-4c6b-8ce3-3a157e961986-5e5da449.webp"
+      ]
+    },
+    {
       "id": "mid-d86a28a4-5cb8-4107-825b-ee3af12fc880",
       "name": "Porta Palitos",
       "description": "Traga mais praticidade, charme e organização para a sua mesa ou bancada com este suporte canelado multiuso! Perfeito para o uso diário, ele combina um design moderno com uma excelente funcionalidade.  ",
