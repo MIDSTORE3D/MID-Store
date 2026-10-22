@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-8e58aad6-50ea-47ae-8c2c-9b12d2fca336",
+      "name": "Suporte para Garrafa de Vinho - Boneco de Neve",
+      "description": "Surpreenda os seus convidados e adicione um toque de diversão, charme e originalidade à sua mesa com este incrível suporte para garrafa de vinho em formato de boneco de neve! Perfeito para as celebrações de fim de ano ou para os amantes de uma boa decoração temática. ",
+      "price": 55,
+      "category": "Natal",
+      "images": [
+        "images/products/mid-8e58aad6-50ea-47ae-8c2c-9b12d2fca336-1728cc0a.webp",
+        "images/products/mid-8e58aad6-50ea-47ae-8c2c-9b12d2fca336-53867235.webp",
+        "images/products/mid-8e58aad6-50ea-47ae-8c2c-9b12d2fca336-85daa5a3.webp"
+      ]
+    },
+    {
       "id": "mid-c5a1bd0d-98c5-49ac-a5c9-fb17ecc4d01e",
       "name": "Calendário do Advento",
       "description": "Torne a contagem decrescente para o Natal ainda mais mágica e emocionante com este deslumbrante Calendário do Advento em formato de lareira! Perfeito para envolver a família no espírito festivo e decorar a casa com muito charme e originalidade. ",
