@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-b9df865e-8887-46c2-ae10-56f1f9a352e8",
+      "name": "Bandeija Papai Noel",
+      "description": "Traga todo o espírito mágico e festivo do Natal para a sua casa com esta adorável bandeja temática decorada com o rosto do Pai Natal! Perfeita para organizar pequenos objetos ou para servir com muito charme durante as festividades de fim de ano.  ",
+      "price": 28,
+      "category": "Natal",
+      "images": [
+        "images/products/mid-b9df865e-8887-46c2-ae10-56f1f9a352e8-e2d6d53b.webp",
+        "images/products/mid-b9df865e-8887-46c2-ae10-56f1f9a352e8-8f88027c.webp"
+      ]
+    },
+    {
       "id": "mid-2a134d75-43d2-4696-9c78-d493a39bb7dd",
       "name": "Porta Latas Monster",
       "description": "Mostre toda a sua energia e estilo gamer com este incrível suporte temático inspirado na Monster Energy! Com um design arrojado e imponente, ele é perfeito para quem curte decorações marcantes, esportes radicais ou o universo dos jogos.  ",
