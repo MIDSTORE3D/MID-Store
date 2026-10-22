@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-44753457-c905-4eed-8431-c7daebe738d2",
+      "name": "Luminária Decorativa Natalina",
+      "description": "Traga toda a magia, o encanto e o aconchego do Natal para a sua casa com esta maravilhosa luminária decorativa temática! Perfeita para iluminar e transformar qualquer ambiente com um clima festivo inconfundível.  ",
+      "price": 30,
+      "category": "Natal",
+      "images": [
+        "images/products/mid-44753457-c905-4eed-8431-c7daebe738d2-45f7b293.webp",
+        "images/products/mid-44753457-c905-4eed-8431-c7daebe738d2-15ee0984.webp",
+        "images/products/mid-44753457-c905-4eed-8431-c7daebe738d2-9f577029.webp",
+        "images/products/mid-44753457-c905-4eed-8431-c7daebe738d2-03dffdaf.webp"
+      ]
+    },
+    {
       "id": "mid-b9df865e-8887-46c2-ae10-56f1f9a352e8",
       "name": "Bandeija Papai Noel",
       "description": "Traga todo o espírito mágico e festivo do Natal para a sua casa com esta adorável bandeja temática decorada com o rosto do Pai Natal! Perfeita para organizar pequenos objetos ou para servir com muito charme durante as festividades de fim de ano.  ",
