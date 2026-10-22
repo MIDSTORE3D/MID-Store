@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-c23c549a-e473-401a-ab40-fa9251db04b8",
+      "name": "Organizador de Jóias Moderno",
+      "description": "Mantenha as suas joias e acessórios sempre organizados com muito luxo e sofisticação utilizando este lindo organizador multiuso! Perfeito para dar um toque de requinte a toucadores, cómodas ou bancadas.",
+      "price": 53,
+      "category": "Beleza",
+      "images": [
+        "images/products/mid-c23c549a-e473-401a-ab40-fa9251db04b8-9b3b7fd9.webp",
+        "images/products/mid-c23c549a-e473-401a-ab40-fa9251db04b8-a3bcce68.webp",
+        "images/products/mid-c23c549a-e473-401a-ab40-fa9251db04b8-2cce033d.webp",
+        "images/products/mid-c23c549a-e473-401a-ab40-fa9251db04b8-7d00918a.webp"
+      ]
+    },
+    {
       "id": "mid-49916686-1d51-43f4-afa1-a4d8b3364ade",
       "name": "Porta Lenços - Bolo de Morango",
       "description": "Dê um toque de doçura, criatividade e muita fofura à sua decoração com este adorável porta-lenços inspirado em um bolo decorado! Perfeito para alegrar qualquer ambiente com um estilo lúdico e original.  ",
