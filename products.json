@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-985fa63a-3d9c-4a4e-9d2e-f72e29342bf7",
+      "name": "Tigela Boneco de Neve",
+      "description": "Traga toda a alegria e a magia do Natal para a sua mesa com esta adorável tigela decorativa em formato de boneco de neve! Perfeita para servir guloseimas, biscoitos ou doces com muita criatividade e fofura.  ",
+      "price": 50,
+      "category": "Natal",
+      "images": [
+        "images/products/mid-985fa63a-3d9c-4a4e-9d2e-f72e29342bf7-cd9bd443.webp",
+        "images/products/mid-985fa63a-3d9c-4a4e-9d2e-f72e29342bf7-b0f67f71.webp"
+      ]
+    },
+    {
       "id": "mid-41a3dba0-a79c-4d8c-9c58-0066f4b0ba00",
       "name": "Suporte para Lenço de Papel",
       "description": "Traga todo o charme, a elegância e o espírito festivo para a sua mesa posta com este lindo suporte para guardanapos decorado com uma árvore de Natal! Perfeito para encantar os convidados e tornar as refeições de fim de ano ainda mais especiais.  ",
