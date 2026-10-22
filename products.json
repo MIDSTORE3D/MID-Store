@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-c1663260-ee64-4502-bbf2-e10523b62517",
+      "name": "Enfeite Decorativo Natalino",
+      "description": "Traga toda a elegância, sofisticação e o encanto mágico do Natal para a sua decoração com este deslumbrante conjunto de esculturas de renas estilizadas! Perfeitas para criar um ambiente acolhedor e requintado nas festividades de fim de ano.  ",
+      "price": 17,
+      "category": "Natal",
+      "images": [
+        "images/products/mid-c1663260-ee64-4502-bbf2-e10523b62517-96dbc093.webp",
+        "images/products/mid-c1663260-ee64-4502-bbf2-e10523b62517-73313a3e.webp",
+        "images/products/mid-c1663260-ee64-4502-bbf2-e10523b62517-c095f454.webp",
+        "images/products/mid-c1663260-ee64-4502-bbf2-e10523b62517-d13b6e29.webp"
+      ]
+    },
+    {
       "id": "mid-c23c549a-e473-401a-ab40-fa9251db04b8",
       "name": "Organizador de Jóias Moderno",
       "description": "Mantenha as suas joias e acessórios sempre organizados com muito luxo e sofisticação utilizando este lindo organizador multiuso! Perfeito para dar um toque de requinte a toucadores, cómodas ou bancadas.",
