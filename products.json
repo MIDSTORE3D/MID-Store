@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-c5a1bd0d-98c5-49ac-a5c9-fb17ecc4d01e",
+      "name": "Calendário do Advento",
+      "description": "Torne a contagem decrescente para o Natal ainda mais mágica e emocionante com este deslumbrante Calendário do Advento em formato de lareira! Perfeito para envolver a família no espírito festivo e decorar a casa com muito charme e originalidade. ",
+      "price": 80,
+      "category": "Natal",
+      "images": [
+        "images/products/mid-c5a1bd0d-98c5-49ac-a5c9-fb17ecc4d01e-c1a0f233.webp",
+        "images/products/mid-c5a1bd0d-98c5-49ac-a5c9-fb17ecc4d01e-bdc74cf8.webp",
+        "images/products/mid-c5a1bd0d-98c5-49ac-a5c9-fb17ecc4d01e-8dab6891.webp"
+      ]
+    },
+    {
       "id": "mid-2b32cc0b-b352-473c-b9f1-a9a0d979f47e",
       "name": "Kit de Porta Copos",
       "description": "Dê um toque de diversão, personalidade e muito estilo natalino às suas pausas para o café ou chá com este incrível conjunto de porta-copos temático do Grinch! Perfeito para surpreender os convidados e proteger os móveis com muita criatividade. ",
