@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-ed3b30ef-0128-406c-9132-89c17aa13212",
+      "name": "Petisqueira de Árvore de Natal",
+      "description": "Surpreenda os seus convidados e traga muita diversão e criatividade para a mesa posta com esta incrível petisqueira temática em formato de árvore de Natal! Perfeita para servir aperitivos, queijos, embutidos e petiscos de forma única nas festas de fim de ano.",
+      "price": 7350,
+      "category": "Natal",
+      "images": [
+        "images/products/mid-ed3b30ef-0128-406c-9132-89c17aa13212-4041fe0f.webp",
+        "images/products/mid-ed3b30ef-0128-406c-9132-89c17aa13212-23e8c273.webp"
+      ]
+    },
+    {
       "id": "mid-41a3dba0-a79c-4d8c-9c58-0066f4b0ba00",
       "name": "Suporte para Lenço de Papel",
       "description": "Traga todo o charme, a elegância e o espírito festivo para a sua mesa posta com este lindo suporte para guardanapos decorado com uma árvore de Natal! Perfeito para encantar os convidados e tornar as refeições de fim de ano ainda mais especiais.  ",
