@@ -9,6 +9,18 @@
   ],
   "products": [
     {
+      "id": "mid-2a134d75-43d2-4696-9c78-d493a39bb7dd",
+      "name": "Porta Latas Monster",
+      "description": "Mostre toda a sua energia e estilo gamer com este incrível suporte temático inspirado na Monster Energy! Com um design arrojado e imponente, ele é perfeito para quem curte decorações marcantes, esportes radicais ou o universo dos jogos.  ",
+      "price": 60,
+      "category": "Cozinha",
+      "images": [
+        "images/products/mid-2a134d75-43d2-4696-9c78-d493a39bb7dd-fb27bca0.webp",
+        "images/products/mid-2a134d75-43d2-4696-9c78-d493a39bb7dd-d04a5e01.webp",
+        "images/products/mid-2a134d75-43d2-4696-9c78-d493a39bb7dd-8f0caf6a.webp"
+      ]
+    },
+    {
       "id": "mid-4251adf4-2cdf-4c6b-8ce3-3a157e961986",
       "name": "Porta condimentos",
       "description": "Dê um toque de elegância, charme e muita praticidade à sua mesa posta ou cozinha com este lindo conjunto de porta-condimentos! Perfeito para organizar e servir temperos com estilo.  ",
