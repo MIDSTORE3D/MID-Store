@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-49916686-1d51-43f4-afa1-a4d8b3364ade",
+      "name": "Porta Lenços - Bolo de Morango",
+      "description": "Dê um toque de doçura, criatividade e muita fofura à sua decoração com este adorável porta-lenços inspirado em um bolo decorado! Perfeito para alegrar qualquer ambiente com um estilo lúdico e original.  ",
+      "price": 55,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-49916686-1d51-43f4-afa1-a4d8b3364ade-e62f68e6.webp",
+        "images/products/mid-49916686-1d51-43f4-afa1-a4d8b3364ade-f69c9750.webp"
+      ]
+    },
+    {
       "id": "mid-44753457-c905-4eed-8431-c7daebe738d2",
       "name": "Luminária Decorativa Natalina",
       "description": "Traga toda a magia, o encanto e o aconchego do Natal para a sua casa com esta maravilhosa luminária decorativa temática! Perfeita para iluminar e transformar qualquer ambiente com um clima festivo inconfundível.  ",
