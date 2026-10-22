@@ -1,5 +1,5 @@
-const CACHE='mid-store-v7-enquadramento-imagens';
-const SHELL=['./','./index.html','./styles.css','./app.js','./photo-picker-fix.js','./config.js','./icon.svg','./manifest.webmanifest'];
+const CACHE='mid-store-v8-galeria-zoom-clientes';
+const SHELL=['./','./index.html','./styles.css','./app.js','./photo-picker-fix.js','./product-gallery.js','./product-gallery.css','./config.js','./icon.svg','./manifest.webmanifest'];
 self.addEventListener('install',event=>{
   event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL)));
   self.skipWaiting();

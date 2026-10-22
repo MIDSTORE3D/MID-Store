@@ -1,0 +1,28 @@
+/* MID Store — galeria ampliada dos produtos (sem alterar zoom da página) */
+.mid-main-gallery-image{cursor:zoom-in;touch-action:pan-y;-webkit-user-select:none;user-select:none;-webkit-touch-callout:none}
+.mid-main-gallery-image:focus-visible{outline:3px solid #f08ab5;outline-offset:4px}
+.mid-gallery-page-controls{display:flex;align-items:center;justify-content:center;gap:14px;margin:10px auto 0;color:#eed7e3}
+.mid-gallery-page-btn,.mid-zoom-control{background:#322334;color:#fff;border:1px solid #86617a;border-radius:11px;cursor:pointer}
+.mid-gallery-page-btn{font-size:27px;width:42px;height:38px;line-height:1}
+.mid-gallery-page-counter{font-size:13px;min-width:54px;text-align:center;font-weight:700}
+.mid-gallery-tip{text-align:center;color:#c3acbc;font-size:12px;margin-top:10px}
+.mid-gallery-open{overflow:hidden!important}
+.mid-zoom-overlay{position:fixed;inset:0;z-index:30000;background:rgba(8,7,13,.985);display:grid;grid-template-rows:auto minmax(0,1fr) auto;overscroll-behavior:contain;color:#fff;touch-action:none;-webkit-user-select:none;user-select:none}
+.mid-zoom-top{min-height:60px;display:flex;align-items:center;justify-content:space-between;gap:15px;padding:9px 16px;position:relative;z-index:2}
+.mid-zoom-top span{font-size:13px;font-weight:700;color:#f2d0e1}
+.mid-zoom-control{min-height:40px;min-width:44px;padding:9px 13px;font-size:15px;font-weight:700}
+.mid-zoom-control:focus-visible{outline:3px solid #f08ab5;outline-offset:2px}
+.mid-zoom-stage{position:relative;overflow:hidden;display:flex;justify-content:center;align-items:center;min-height:0;touch-action:none;overscroll-behavior:contain;cursor:grab}
+.mid-zoom-image{display:block;max-width:100%;max-height:100%;width:auto;height:auto;object-fit:contain;transform-origin:center center;will-change:transform;pointer-events:none;-webkit-user-drag:none;user-select:none}
+.mid-zoom-bottom{padding:10px 16px max(14px,env(safe-area-inset-bottom));display:flex;gap:12px;align-items:center;justify-content:center;min-height:62px;position:relative;z-index:2}
+.mid-zoom-arrow{font-size:30px;line-height:1;padding:3px 15px}
+.mid-zoom-help{font-size:12px;color:#d3b9cb;text-align:center;line-height:1.5;max-width:310px}
+.mid-zoom-reset{font-size:12px;white-space:nowrap}
+@media(max-width:520px){
+  .mid-zoom-top{min-height:54px;padding:6px 14px}
+  .mid-zoom-bottom{flex-wrap:wrap;gap:8px;padding:8px 10px max(12px,env(safe-area-inset-bottom))}
+  .mid-zoom-help{order:-1;flex:0 0 100%;max-width:none}
+  .mid-zoom-arrow{font-size:27px}
+  .mid-zoom-reset{min-height:40px}
+}
+@media(prefers-reduced-motion:reduce){.mid-zoom-image{will-change:auto}}
