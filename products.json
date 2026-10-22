@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-41a3dba0-a79c-4d8c-9c58-0066f4b0ba00",
+      "name": "Suporte para Lenço de Papel",
+      "description": "Traga todo o charme, a elegância e o espírito festivo para a sua mesa posta com este lindo suporte para guardanapos decorado com uma árvore de Natal! Perfeito para encantar os convidados e tornar as refeições de fim de ano ainda mais especiais.  ",
+      "price": 10,
+      "category": "Natal",
+      "images": [
+        "images/products/mid-41a3dba0-a79c-4d8c-9c58-0066f4b0ba00-ef8d1d08.webp",
+        "images/products/mid-41a3dba0-a79c-4d8c-9c58-0066f4b0ba00-602db37a.webp",
+        "images/products/mid-41a3dba0-a79c-4d8c-9c58-0066f4b0ba00-c2315e04.webp",
+        "images/products/mid-41a3dba0-a79c-4d8c-9c58-0066f4b0ba00-cb0ca49c.webp"
+      ]
+    },
+    {
       "id": "mid-c1663260-ee64-4502-bbf2-e10523b62517",
       "name": "Enfeite Decorativo Natalino",
       "description": "Traga toda a elegância, sofisticação e o encanto mágico do Natal para a sua decoração com este deslumbrante conjunto de esculturas de renas estilizadas! Perfeitas para criar um ambiente acolhedor e requintado nas festividades de fim de ano.  ",
