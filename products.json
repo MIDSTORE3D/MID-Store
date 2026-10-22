@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-2b32cc0b-b352-473c-b9f1-a9a0d979f47e",
+      "name": "Kit de Porta Copos",
+      "description": "Dê um toque de diversão, personalidade e muito estilo natalino às suas pausas para o café ou chá com este incrível conjunto de porta-copos temático do Grinch! Perfeito para surpreender os convidados e proteger os móveis com muita criatividade. ",
+      "price": 35,
+      "category": "Natal",
+      "images": [
+        "images/products/mid-2b32cc0b-b352-473c-b9f1-a9a0d979f47e-00db403d.webp",
+        "images/products/mid-2b32cc0b-b352-473c-b9f1-a9a0d979f47e-41d8b077.webp",
+        "images/products/mid-2b32cc0b-b352-473c-b9f1-a9a0d979f47e-81d7d34a.webp"
+      ]
+    },
+    {
       "id": "mid-985fa63a-3d9c-4a4e-9d2e-f72e29342bf7",
       "name": "Tigela Boneco de Neve",
       "description": "Traga toda a alegria e a magia do Natal para a sua mesa com esta adorável tigela decorativa em formato de boneco de neve! Perfeita para servir guloseimas, biscoitos ou doces com muita criatividade e fofura.  ",
