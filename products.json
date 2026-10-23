@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-a8fccae6-2533-4690-946a-517d4d31e7eb",
+      "name": "Caixa de Jóias Borboleta com Gavetas",
+      "description": "Traga toda a delicadeza, magia e máxima organização para a sua penteadeira ou toucador com este deslumbrante porta-jóias em formato de borboleta! Perfeito para guardar pequenas joias, anéis e acessórios com uma estética lúdica e encantadora.  ",
+      "price": 66,
+      "category": "Beleza",
+      "images": [
+        "images/products/mid-a8fccae6-2533-4690-946a-517d4d31e7eb-0ab7a58e.webp",
+        "images/products/mid-a8fccae6-2533-4690-946a-517d4d31e7eb-06a31884.webp",
+        "images/products/mid-a8fccae6-2533-4690-946a-517d4d31e7eb-545bd188.webp"
+      ]
+    },
+    {
       "id": "mid-3d4344a6-2da7-4687-ac2c-6262b1a204ed",
       "name": "Organizador Rotativo para Produtos de Beleza",
       "description": "Capacidade para acomodar um kit completo de produtos de beleza Zhiben para uso diário (loção, creme, sérum, óleo e batom)",
