@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-4902cf63-aaff-4aea-8fb8-5c3c9e9cba4f",
+      "name": "Suporte para Escova de Dentes",
+      "description": "Mantenha seu banheiro organizado com este Suporte para Escova de Dentes, inspirado no estilo de design limpo e atemporal Japandi. Ele oferece uma maneira simples e elegante de manter suas escovas de dentes bem organizadas e fáceis de alcançar.",
+      "price": 20,
+      "category": "Banheiro",
+      "images": [
+        "images/products/mid-4902cf63-aaff-4aea-8fb8-5c3c9e9cba4f-f6ee5199.webp",
+        "images/products/mid-4902cf63-aaff-4aea-8fb8-5c3c9e9cba4f-47fd554b.webp",
+        "images/products/mid-4902cf63-aaff-4aea-8fb8-5c3c9e9cba4f-aa236ec5.webp"
+      ]
+    },
+    {
       "id": "mid-3e777c7a-aa5d-42ad-b4d1-884da370209b",
       "name": "Organizador de Banheiro Minimalista",
       "description": "Traga um toque de sofisticação natural, elegância e máxima organização para a sua casa de banho com este deslumbrante suporte porta-escovas com textura fluida! Perfeito para manter escovas, pastas de dentes e acessórios de higiene sempre arrumados com muito estilo.  ",
