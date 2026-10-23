@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-bf4b4292-0519-4f8b-b728-25600d2a5aa2",
+      "name": "Caixa de Enrolar Cabo USB",
+      "description": "​Diga adeus aos fios emaranhados com muito charme e fofura! Este adorável organizador de cabos em formato de macaron combina a estética irresistível da alta pastelaria francesa com a máxima praticidade para o seu dia a dia.  ",
+      "price": 10,
+      "category": "Acessórios",
+      "images": [
+        "images/products/mid-bf4b4292-0519-4f8b-b728-25600d2a5aa2-233dffca.webp",
+        "images/products/mid-bf4b4292-0519-4f8b-b728-25600d2a5aa2-8b9ddf0f.webp",
+        "images/products/mid-bf4b4292-0519-4f8b-b728-25600d2a5aa2-54a6976d.webp"
+      ]
+    },
+    {
       "id": "mid-e20a954b-bd48-42c1-ae94-ad0a09ed96a1",
       "name": "Suporte para Cápsulas Xícara de Café",
       "description": "Organizador de cápsulas de café elegante e funcional em forma de xícara de café, projetado para guardar suas cápsulas favoritas de forma organizada e acessível. As ranhuras verticais facilitam a visualização e seleção do seu sabor desejado, enquanto a base resistente garante estabilidade em qualquer bancada. Seu acabamento preto elegante combina perfeitamente com estilos de cozinha modernos e clássicos, tornando-o tanto uma solução prática de armazenamento quanto um toque decorativo para amantes de café.",
