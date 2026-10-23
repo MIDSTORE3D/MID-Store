@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-169ad6a4-670d-4b07-b5ca-48a27e3486bc",
+      "name": "Porta Lapis -  Gatinho",
+      "description": "Traga toda a fofura, charme e alegria para a sua escrivaninha ou mesa de estudo com este adorável organizador em formato de gatinho! Perfeito para manter as suas canetas, lápis e materiais de escritório sempre arrumados com um toque de pura ternura.",
+      "price": 20,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-169ad6a4-670d-4b07-b5ca-48a27e3486bc-164a1fe1.webp",
+        "images/products/mid-169ad6a4-670d-4b07-b5ca-48a27e3486bc-1afce6e7.webp"
+      ]
+    },
+    {
       "id": "mid-fa0d86c2-3fae-4e01-8162-a8988e94e9b0",
       "name": "Porta-Lata Coozie de Letra Personalizada",
       "description": "Adicione um toque de originalidade, charme e máxima utilidade aos seus eventos, festas ou reuniões com este incrível dispenser de bebidas personalizado em formato de barril! Perfeito para servir água, sumos ou refrescos com muito estilo e elegância.  ",
