@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-2004c8b1-fda7-469c-8c9f-bca418a3c049",
+      "name": "Organizador Inspirado em Harry Potter",
+      "description": "Embarque numa viagem mágica e traga todo o encanto do universo bruxo para a sua penteadeira ou escrivaninha com este deslumbrante organizador temático da Plataforma 9 ¾! Perfeito para fãs de magia que não abrem mão de estilo e organização.",
+      "price": 23,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-2004c8b1-fda7-469c-8c9f-bca418a3c049-c254eb9f.webp",
+        "images/products/mid-2004c8b1-fda7-469c-8c9f-bca418a3c049-59084cad.webp"
+      ]
+    },
+    {
       "id": "mid-95a01048-fca2-4b66-9504-8ffdcbdb003d",
       "name": "Copo de Drenagem Canelado",
       "description": "O exterior com ranhuras modernas agrega estilo e rigidez, enquanto o bico de drenagem frontal integrado permite que o excesso de água saia diretamente do copo — ajudando a evitar o acúmulo de água no interior.",
