@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-0dd4fb2f-eb52-46ed-810a-6a687a98ac6b",
+      "name": "Porta papel Higiênico+caixa p/ Lenço",
+      "description": "Traga máxima elegância, funcionalidade inteligente e organização impecável para a sua casa de banho com este versátil suporte para papel higiênico com caixa de armazenamento! Perfeito para otimizar o espaço enquanto decora o ambiente com um toque moderno e acolhedor.  ",
+      "price": 60,
+      "category": "Banheiro",
+      "images": [
+        "images/products/mid-0dd4fb2f-eb52-46ed-810a-6a687a98ac6b-62383bf5.webp",
+        "images/products/mid-0dd4fb2f-eb52-46ed-810a-6a687a98ac6b-9b852458.webp",
+        "images/products/mid-0dd4fb2f-eb52-46ed-810a-6a687a98ac6b-dc644092.webp"
+      ]
+    },
+    {
       "id": "mid-7615f6a4-1f03-43ba-8c78-bedbe8f06435",
       "name": "Chaveiro 3 em 1 - Papai Noel",
       "description": "Deixe o Natal ainda mais divertido com este chaveiro de Papai Noel multifuncional, perfeito para presentear amigos, familiares e clientes!",
