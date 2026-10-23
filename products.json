@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-b197686c-a987-4e98-81ee-570f1a123cc9",
+      "name": "Porta Cotonetes",
+      "description": "Adicione um toque de elegância, organização e charme à sua casa de banho ou toucador com este lindo pote organizador canelado! Perfeito para armazenar pequenos itens de uso diário com total sofisticação.",
+      "price": 20,
+      "category": "Banheiro",
+      "images": [
+        "images/products/mid-b197686c-a987-4e98-81ee-570f1a123cc9-2167f5e5.webp",
+        "images/products/mid-b197686c-a987-4e98-81ee-570f1a123cc9-c5a04adc.webp",
+        "images/products/mid-b197686c-a987-4e98-81ee-570f1a123cc9-0a5a200d.webp"
+      ]
+    },
+    {
       "id": "mid-27dd09d1-3c2c-4691-aeae-b86848768f1b",
       "name": "Bandeija Decorativa Canelada",
       "description": "Adicione um toque de elegância, cor e organização ao seu espaço com este tabuleiro oval decorativo. Uma peça moderna e sofisticada, perfeita para otimizar a arrumação e dar um charme especial a qualquer ambiente.",
