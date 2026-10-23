@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-27dd09d1-3c2c-4691-aeae-b86848768f1b",
+      "name": "Bandeija Decorativa Canelada",
+      "description": "Adicione um toque de elegância, cor e organização ao seu espaço com este tabuleiro oval decorativo. Uma peça moderna e sofisticada, perfeita para otimizar a arrumação e dar um charme especial a qualquer ambiente.",
+      "price": 20,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-27dd09d1-3c2c-4691-aeae-b86848768f1b-aa2c7913.webp",
+        "images/products/mid-27dd09d1-3c2c-4691-aeae-b86848768f1b-cfebe67e.webp",
+        "images/products/mid-27dd09d1-3c2c-4691-aeae-b86848768f1b-9a7045a8.webp"
+      ]
+    },
+    {
       "id": "mid-b09da9a3-2c71-489e-8e54-4352fded6ecc",
       "name": "Bandeija Organizadora",
       "description": "Mantenha a sua secretária, toucador ou mesa de entrada sempre organizada e cheia de estilo com este tabuleiro oval decorativo. Uma peça versátil que combina um design moderno e sofisticado para otimizar o seu espaço.  ",
