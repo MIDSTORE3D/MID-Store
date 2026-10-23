@@ -10,6 +10,20 @@
   ],
   "products": [
     {
+      "id": "mid-a51ddb0d-faeb-497c-aaeb-3bf86c9967e2",
+      "name": "Suporte para Cotonete",
+      "description": "Traga elegância, requinte e máxima organização para a sua casa de banho ou toucador com este belíssimo conjunto de organizadores com textura geométrica! Perfeito para manter pequenos acessórios e itens de higiene sempre arrumados com um toque de charme único.  ",
+      "price": 40,
+      "category": "Banheiro",
+      "images": [
+        "images/products/mid-a51ddb0d-faeb-497c-aaeb-3bf86c9967e2-52c18598.webp",
+        "images/products/mid-a51ddb0d-faeb-497c-aaeb-3bf86c9967e2-17592368.webp",
+        "images/products/mid-a51ddb0d-faeb-497c-aaeb-3bf86c9967e2-fb4d7eeb.webp",
+        "images/products/mid-a51ddb0d-faeb-497c-aaeb-3bf86c9967e2-cb21e67a.webp",
+        "images/products/mid-a51ddb0d-faeb-497c-aaeb-3bf86c9967e2-06c1d24a.webp"
+      ]
+    },
+    {
       "id": "mid-836b3477-742c-47bd-ad95-8f6bf0e1f66c",
       "name": "Kit Organizador de Bancada",
       "description": "Traga um toque de sofisticação, harmonia e máxima organização para a sua penteadeira, toucador ou aparador com este belíssimo conjunto organizador texturizado! Perfeito para manter joias, relógios e pequenos acessórios sempre arrumados com muito estilo.  ",
