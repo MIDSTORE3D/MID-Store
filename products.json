@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-21556175-8fca-4299-9c3d-a069acd0298b",
+      "name": "Porta Chaves",
+      "description": "Mantenha a sua entrada ou corredor sempre organizados com muito estilo e sofisticação utilizando este versátil organizador de parede multifuncional! Perfeito para centralizar os itens essenciais do dia a dia num só lugar.",
+      "price": 25,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-21556175-8fca-4299-9c3d-a069acd0298b-f7069ce5.webp",
+        "images/products/mid-21556175-8fca-4299-9c3d-a069acd0298b-5462ff00.webp"
+      ]
+    },
+    {
       "id": "mid-ccbcbdae-8b49-46c1-a79a-05c6359d3b4d",
       "name": "Suporte Escorredor para Sabonete",
       "description": "É uma solução compacta e prática para a pia do seu banheiro ou cozinha. Use-o como porta-sabonete, suporte para escova de dentes, porta-escova de louça ou bandeja de secagem mini. Projetado com dois compartimentos verticais e uma base inclinada com sulcos de drenagem para manter a água longe de suas superfícies.",
