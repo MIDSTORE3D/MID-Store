@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-3d9d13d6-e344-437d-b0ff-ea4fd75473d2",
+      "name": "Suporte para Utensílios de Cozinha",
+      "description": "O Suporte de Utensílios de Cozinha – Para Colheres e Tampas da Cubisten Lab é uma ferramenta de cozinha versátil e prática, projetada para manter sua área de cozimento limpa, organizada e eficiente.\n​O suporte oferece espaço para múltiplos utensílios, como colheres, espátulas, pinças, batedores e muito mais. Ele também segura firmemente tampas de panelas e frigideiras sem deixar líquidos, vapor ou molhos escorrerem na bancada.",
+      "price": 27,
+      "category": "Cozinha",
+      "images": [
+        "images/products/mid-3d9d13d6-e344-437d-b0ff-ea4fd75473d2-97497aa8.webp",
+        "images/products/mid-3d9d13d6-e344-437d-b0ff-ea4fd75473d2-979b67f9.webp",
+        "images/products/mid-3d9d13d6-e344-437d-b0ff-ea4fd75473d2-de83940d.webp"
+      ]
+    },
+    {
       "id": "mid-69591595-40ea-4f85-9420-986d2dff4375",
       "name": "Suporte de Papel Toalha com Pés",
       "description": "Traga elegância moderna, sofisticação e máxima praticidade para a sua cozinha ou área gourmet com este deslumbrante porta-rolo de papel toalha com textura canelada! Perfeito para manter o papel toalha sempre protegido, acessível e exposto como um verdadeiro item de decoração.  ",
