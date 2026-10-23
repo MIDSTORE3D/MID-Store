@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-3646a69e-6aa1-41d7-a928-9bde22bcf7af",
+      "name": "Tigela de Natal Multi peças",
+      "description": "Esta Tigela Decorativa de Árvore de Natal é composta por vários segmentos individuais que, juntos, formam um pinheiro festivo. Cada peça pode ser usada separadamente ou combinada – ideal para servir com estilo biscoitos, lanches, nozes, doces ou pequenas guloseimas na época de Natal.",
+      "price": 44,
+      "category": "Cozinha",
+      "images": [
+        "images/products/mid-3646a69e-6aa1-41d7-a928-9bde22bcf7af-a0bee409.webp",
+        "images/products/mid-3646a69e-6aa1-41d7-a928-9bde22bcf7af-791c2191.webp"
+      ]
+    },
+    {
       "id": "mid-3d9d13d6-e344-437d-b0ff-ea4fd75473d2",
       "name": "Suporte para Utensílios de Cozinha",
       "description": "O Suporte de Utensílios de Cozinha – Para Colheres e Tampas da Cubisten Lab é uma ferramenta de cozinha versátil e prática, projetada para manter sua área de cozimento limpa, organizada e eficiente.\n​O suporte oferece espaço para múltiplos utensílios, como colheres, espátulas, pinças, batedores e muito mais. Ele também segura firmemente tampas de panelas e frigideiras sem deixar líquidos, vapor ou molhos escorrerem na bancada.",
