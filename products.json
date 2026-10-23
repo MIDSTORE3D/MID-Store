@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-69591595-40ea-4f85-9420-986d2dff4375",
+      "name": "Suporte de Papel Toalha com Pés",
+      "description": "Traga elegância moderna, sofisticação e máxima praticidade para a sua cozinha ou área gourmet com este deslumbrante porta-rolo de papel toalha com textura canelada! Perfeito para manter o papel toalha sempre protegido, acessível e exposto como um verdadeiro item de decoração.  ",
+      "price": 46,
+      "category": "Cozinha",
+      "images": [
+        "images/products/mid-69591595-40ea-4f85-9420-986d2dff4375-4e1a0c64.webp",
+        "images/products/mid-69591595-40ea-4f85-9420-986d2dff4375-64545718.webp",
+        "images/products/mid-69591595-40ea-4f85-9420-986d2dff4375-fedf7a28.webp",
+        "images/products/mid-69591595-40ea-4f85-9420-986d2dff4375-da3ace31.webp"
+      ]
+    },
+    {
       "id": "mid-2b44c63e-4276-45bf-9797-ef710d4497b5",
       "name": "Dispenser de Palito de Dente",
       "description": "Mantenha sua mesa organizada com este Dispenser de Palitos de Dente, inspirado no estilo de design Japandi limpo e atemporal. Ele oferece uma maneira simples e elegante de manter os palitos de dente sempre à disposição.",
