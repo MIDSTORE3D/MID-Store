@@ -10,6 +10,20 @@
   ],
   "products": [
     {
+      "id": "mid-282e5ca2-c912-4b73-a72c-90fad6557e24",
+      "name": "Cesto Organizador",
+      "description": "Traga elegância, frescura e muita organização para a sua cozinha ou mesa de jantar com esta bela fruteira redonda com tampa! Perfeita para armazenar frutas com estilo, mantendo o ambiente sempre arrumado e sofisticado.  ",
+      "price": 39,
+      "category": "Cozinha",
+      "images": [
+        "images/products/mid-282e5ca2-c912-4b73-a72c-90fad6557e24-504d9beb.webp",
+        "images/products/mid-282e5ca2-c912-4b73-a72c-90fad6557e24-cd5721b1.webp",
+        "images/products/mid-282e5ca2-c912-4b73-a72c-90fad6557e24-f23242a3.webp",
+        "images/products/mid-282e5ca2-c912-4b73-a72c-90fad6557e24-078a60b5.webp",
+        "images/products/mid-282e5ca2-c912-4b73-a72c-90fad6557e24-678c8030.webp"
+      ]
+    },
+    {
       "id": "mid-3812ed02-fbf6-405f-83ea-5c77f67cfa27",
       "name": "Cesto Organizador com Alça",
       "description": "Traga um toque de aconchego, elegância e muita funcionalidade para a decoração da sua casa com esta bela cesta decorativa com textura entrançada! Perfeita para organizar e embelezar qualquer ambiente com um visual clássico e artesanal.  ",
