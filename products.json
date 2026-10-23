@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-5263bf05-c0bc-49e3-89ae-d084347b2f50",
+      "name": "Kit floral com Tampa",
+      "description": "Dê um toque de delicadeza, cor e organização ao seu espaço com este conjunto de recipientes decorativos com tampa e tabuleiro. Uma peça encantadora e funcional, perfeita para manter o seu toucador, casa de banho ou quarto sempre arrumados com muito estilo.  ",
+      "price": 30,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-5263bf05-c0bc-49e3-89ae-d084347b2f50-23afa2f5.webp",
+        "images/products/mid-5263bf05-c0bc-49e3-89ae-d084347b2f50-7e0bc148.webp"
+      ]
+    },
+    {
       "id": "mid-70d5eb8e-29dc-4209-a99e-8252f01b8018",
       "name": "Suporte para Pincel de Maquiagem",
       "description": "Transforme a sua rotina de beleza e mantenha os seus pincéis sempre protegidos e organizados com este suporte dispensador retrátil para maquilhagem. Uma solução inovadora e moderna que poupa espaço e traz máxima praticidade para a sua bancada ou toucador.  ",
