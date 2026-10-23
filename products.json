@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-ec3b1f65-07fd-4478-9959-cf0e169369eb",
+      "name": "Abelha Articulada",
+      "description": "Adicione um toque de diversão e originalidade à sua coleção ou decoração com esta adorável abelha articulada impressa em 3D! Uma peça interativa e colorida, perfeita para encantar crianças e adultos.  ",
+      "price": 18,
+      "category": "Coleções",
+      "images": [
+        "images/products/mid-ec3b1f65-07fd-4478-9959-cf0e169369eb-be478cba.webp",
+        "images/products/mid-ec3b1f65-07fd-4478-9959-cf0e169369eb-6479444a.webp",
+        "images/products/mid-ec3b1f65-07fd-4478-9959-cf0e169369eb-6bc8e5f3.webp"
+      ]
+    },
+    {
       "id": "mid-222e72c6-5134-4647-a728-bd429231e9ae",
       "name": "Organizador de Rolos",
       "description": "Otimize o espaço da sua cozinha e mantenha os essenciais sempre à mão com este suporte organizador de parede para rolos. Uma solução inteligente, discreta e moderna para acabar com a desarrumação nas gavetas.",
