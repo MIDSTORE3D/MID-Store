@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-836b3477-742c-47bd-ad95-8f6bf0e1f66c",
+      "name": "Kit Organizador de Bancada",
+      "description": "Traga um toque de sofisticação, harmonia e máxima organização para a sua penteadeira, toucador ou aparador com este belíssimo conjunto organizador texturizado! Perfeito para manter joias, relógios e pequenos acessórios sempre arrumados com muito estilo.  ",
+      "price": 30,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-836b3477-742c-47bd-ad95-8f6bf0e1f66c-7c14935e.webp",
+        "images/products/mid-836b3477-742c-47bd-ad95-8f6bf0e1f66c-b4025f9d.webp",
+        "images/products/mid-836b3477-742c-47bd-ad95-8f6bf0e1f66c-2508515a.webp"
+      ]
+    },
+    {
       "id": "mid-4902cf63-aaff-4aea-8fb8-5c3c9e9cba4f",
       "name": "Suporte para Escova de Dentes",
       "description": "Mantenha seu banheiro organizado com este Suporte para Escova de Dentes, inspirado no estilo de design limpo e atemporal Japandi. Ele oferece uma maneira simples e elegante de manter suas escovas de dentes bem organizadas e fáceis de alcançar.",
