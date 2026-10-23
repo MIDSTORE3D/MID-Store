@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-eb4a7a9d-956e-4edf-8cad-b2f6345b7824",
+      "name": "Organizador de Mesa",
+      "description": "Mantenha a sua mesa de trabalho, toucador ou secretária perfeitamente organizada com este suporte organizador multiusos. Uma peça moderna e funcional que une compartimentos abertos e um recipiente fechado para otimizar o seu espaço.  ",
+      "price": 10,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-eb4a7a9d-956e-4edf-8cad-b2f6345b7824-d17700a1.webp",
+        "images/products/mid-eb4a7a9d-956e-4edf-8cad-b2f6345b7824-9c2b240a.webp"
+      ]
+    },
+    {
       "id": "mid-2e2a1eab-039b-4eca-a246-ea3070312017",
       "name": "Suporte para Petiscos",
       "description": "Surpreenda os seus convidados e dê um toque de originalidade à sua mesa festiva com este suporte para aperitivos em formato de árvore de Natal! Uma forma divertida e elegante de servir petiscos, queijos, enchidos ou aperitivos durante as celebrações de fim de ano.  ",
