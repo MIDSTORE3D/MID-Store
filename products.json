@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-7038fae1-f757-404c-874f-6e45c1ad2a33",
+      "name": "Porta Algodão",
+      "description": "Eleve o nível da decoração e da organização do seu espaço com este conjunto de recipientes com tampa e tabuleiro a combinar. Uma peça versátil e moderna, perfeita para manter os seus acessórios arrumados com muito estilo e bom gosto.  ",
+      "price": 35.2,
+      "category": "Banheiro",
+      "images": [
+        "images/products/mid-7038fae1-f757-404c-874f-6e45c1ad2a33-4f1b2349.webp",
+        "images/products/mid-7038fae1-f757-404c-874f-6e45c1ad2a33-c544be59.webp"
+      ]
+    },
+    {
       "id": "mid-48a60312-3c82-4389-ae60-20290c95063e",
       "name": "Caixas Organizadoras",
       "description": "Dê um toque de requinte e modernidade à sua decoração com estas caixas organizadoras com padrão texturizado e suporte. Uma peça sofisticada que une o design contemporâneo à máxima utilidade para manter o seu espaço arrumado com muito estilo. ",
