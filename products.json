@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-c1d48dc7-4a12-4358-9472-dbd785f95b21",
+      "name": "Tetris Balance",
+      "description": "Traga muita diversão, interatividade e um toque de nostalgia gamer para a sua casa ou espaço de lazer com este incrível jogo Tetris Balance! Perfeito para desafiar amigos e familiares enquanto decora o ambiente com peças coloridas e criativas.  ",
+      "price": 80,
+      "category": "Coleções",
+      "images": [
+        "images/products/mid-c1d48dc7-4a12-4358-9472-dbd785f95b21-b98462ca.webp",
+        "images/products/mid-c1d48dc7-4a12-4358-9472-dbd785f95b21-4146f753.webp",
+        "images/products/mid-c1d48dc7-4a12-4358-9472-dbd785f95b21-b2eaaea8.webp",
+        "images/products/mid-c1d48dc7-4a12-4358-9472-dbd785f95b21-de14c13b.webp"
+      ]
+    },
+    {
       "id": "mid-208be22c-603e-4e6c-9b7d-0592b1b6335d",
       "name": "Organizador Floral de Mesa",
       "description": "Adicione um toque de natureza e charme elegante a qualquer ambiente com este deslumbrante organizador em forma de flor.\nProjetado para combinar perfeitamente estética com uma praticidade incrível, este design floral eleva qualquer penteadeira, mesa ou prateleira, mantendo seus itens essenciais bem organizados. É o companheiro diário definitivo!",
