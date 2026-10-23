@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-9253d1cc-3668-4eb6-9f27-e636addbb6e2",
+      "name": "Prateleira Lua Crescente",
+      "description": "Traga um toque de magia, misticismo e elegância para a decoração do seu espaço com este deslumbrante expositor em formato de lua! Perfeito para organizar e expor pequenos cristais, miniaturas, bonecos ou acessórios com um visual encantador e moderno.  ",
+      "price": 25,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-9253d1cc-3668-4eb6-9f27-e636addbb6e2-ff18572c.webp",
+        "images/products/mid-9253d1cc-3668-4eb6-9f27-e636addbb6e2-dfab31b3.webp",
+        "images/products/mid-9253d1cc-3668-4eb6-9f27-e636addbb6e2-c34fb03c.webp",
+        "images/products/mid-9253d1cc-3668-4eb6-9f27-e636addbb6e2-6fb7e603.webp"
+      ]
+    },
+    {
       "id": "mid-a51ddb0d-faeb-497c-aaeb-3bf86c9967e2",
       "name": "Suporte para Cotonete",
       "description": "Traga elegância, requinte e máxima organização para a sua casa de banho ou toucador com este belíssimo conjunto de organizadores com textura geométrica! Perfeito para manter pequenos acessórios e itens de higiene sempre arrumados com um toque de charme único.  ",
