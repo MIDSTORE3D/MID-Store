@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-c169619f-3a90-4c7f-b4ab-e612565c131c",
+      "name": "Dispensador de Lenços Umedecidos",
+      "description": "Mantenha os seus toalhetes húmidos sempre frescos, organizados e acessíveis com este dispensador de armazenamento conveniente. Uma solução moderna e sofisticada que combina praticidade e um design minimalista para qualquer divisão da casa.  ",
+      "price": 40,
+      "category": "Banheiro",
+      "images": [
+        "images/products/mid-c169619f-3a90-4c7f-b4ab-e612565c131c-3c1efd04.webp",
+        "images/products/mid-c169619f-3a90-4c7f-b4ab-e612565c131c-fc0ff61f.webp"
+      ]
+    },
+    {
       "id": "mid-f48a8d51-3af1-489d-93d3-5ce17b38117a",
       "name": "Organizador de Alimentos",
       "description": "Mantenha a sua cozinha organizada, funcional e com os alimentos sempre frescos com este organizador multiusos de bancada. Uma peça inteligente que combina design moderno e praticidade para o dia a dia.  ",
