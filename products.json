@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-ec0fa8fe-fdbb-4a91-ae30-424020c2fcb0",
+      "name": "Suporte Giratório para Cápsulas de Café  Nespresso",
+      "description": "Possui uma base giratória suave e comporta até 36 cápsulas Nespresso.",
+      "price": 60,
+      "category": "Cozinha",
+      "images": [
+        "images/products/mid-ec0fa8fe-fdbb-4a91-ae30-424020c2fcb0-60535d11.webp",
+        "images/products/mid-ec0fa8fe-fdbb-4a91-ae30-424020c2fcb0-78af085c.webp",
+        "images/products/mid-ec0fa8fe-fdbb-4a91-ae30-424020c2fcb0-5131362f.webp"
+      ]
+    },
+    {
       "id": "mid-eed73d3f-a83a-4e32-b9c9-9411cf004b86",
       "name": "Suporte para Cápsulas de Café",
       "description": "Este suporte de cápsulas Nespresso com design moderno é simplesmente bom demais para não querer ter em casa. Ele comporta um máximo de 21 cápsulas, fica seguro sem ocupar muito espaço.",
