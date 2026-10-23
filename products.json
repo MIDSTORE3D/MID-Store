@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-c21bfd3e-6043-4275-b28e-fe8820cf0b8e",
+      "name": "Caixa Organizadora Retangular",
+      "description": "Traga um toque de puro charme, elegância clássica e muita organização para a sua bancada, toucador ou casa de banho com esta deslumbrante caixa organizadora com textura capitone! Perfeita para manter os seus acessórios de beleza e itens essenciais arrumados com uma estética sofisticada.  ",
+      "price": 30,
+      "category": "Beleza",
+      "images": [
+        "images/products/mid-c21bfd3e-6043-4275-b28e-fe8820cf0b8e-194362b2.webp",
+        "images/products/mid-c21bfd3e-6043-4275-b28e-fe8820cf0b8e-8f3c3304.webp",
+        "images/products/mid-c21bfd3e-6043-4275-b28e-fe8820cf0b8e-33d53381.webp",
+        "images/products/mid-c21bfd3e-6043-4275-b28e-fe8820cf0b8e-875b0547.webp"
+      ]
+    },
+    {
       "id": "mid-b6148234-ccaf-4980-893f-5ff6ff959231",
       "name": "Organizador Giratório Duplo",
       "description": "Traga máxima praticidade, otimização de espaço e muita elegância para a sua bancada ou toucador com este incrível organizador giratório de dois andares! Perfeito para manter os seus produtos de beleza, óleos essenciais e itens de uso diário sempre arrumados e ao alcance da mão.",
