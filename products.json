@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-58319b5a-d6e2-43a3-a1e0-bfd5b05b31ea",
+      "name": "Plaquinhas para Colorir (acompanha canetinhas)",
+      "description": "Desenhos para colorir de todos os personagens do Bob Esponja ",
+      "price": 25,
+      "category": "Coleções",
+      "images": [
+        "images/products/mid-58319b5a-d6e2-43a3-a1e0-bfd5b05b31ea-8a0ac69c.webp",
+        "images/products/mid-58319b5a-d6e2-43a3-a1e0-bfd5b05b31ea-bc817e47.webp"
+      ]
+    },
+    {
       "id": "mid-77c58ff6-b3e2-4b0e-99d5-782d689ac441",
       "name": "Kit Gatos Curiosos",
       "description": "Traga um toque de charme felino divertido para sua casa com este conjunto de quatro decorações de parede Gatos Curiosos. Cada painel apresenta um gato diferente espiando no quadro, criando uma composição divertida que fica ótima exibida junta ou individualmente.",
