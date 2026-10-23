@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-8dd1b3ef-1ad9-4a82-b482-30d49768b150",
+      "name": "Vasos Decorativos - Pequeno",
+      "description": "Traga paz, harmonia e muita fofura para a decoração da sua casa com este encantador conjunto de vasos decorativos! Perfeito para criar um ambiente acolhedor e cheio de boas energias com as suas plantas favoritas.  ",
+      "price": 14,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-8dd1b3ef-1ad9-4a82-b482-30d49768b150-3f81a019.webp",
+        "images/products/mid-8dd1b3ef-1ad9-4a82-b482-30d49768b150-e146169c.webp",
+        "images/products/mid-8dd1b3ef-1ad9-4a82-b482-30d49768b150-adcded89.webp"
+      ]
+    },
+    {
       "id": "mid-14151d0b-7fa6-4758-8a37-3f87be40c3ba",
       "name": "Porta Canetas Gato Dormindo",
       "description": "Um pequeno gato dormindo aninhado dentro de um organizador macio inspirado em uma bola de lã.\n​\n​Perfeito como porta-canetas, organizador de mesa, pequeno vaso de plantas ou recipiente decorativo para guardar seus itens favoritos.",
