@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-77c58ff6-b3e2-4b0e-99d5-782d689ac441",
+      "name": "Kit Gatos Curiosos",
+      "description": "Traga um toque de charme felino divertido para sua casa com este conjunto de quatro decorações de parede Gatos Curiosos. Cada painel apresenta um gato diferente espiando no quadro, criando uma composição divertida que fica ótima exibida junta ou individualmente.",
+      "price": 40,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-77c58ff6-b3e2-4b0e-99d5-782d689ac441-8a73cc87.webp",
+        "images/products/mid-77c58ff6-b3e2-4b0e-99d5-782d689ac441-8ba78c51.webp"
+      ]
+    },
+    {
       "id": "mid-fb6477bd-d14d-45d6-8365-89ecf07b720c",
       "name": "Luminária com Led (sem tomada)",
       "description": "Traga um toque de encanto natural, aconchego e muita sofisticação para a decoração da sua casa com esta deslumbrante luminária decorativa inspirada na natureza! Perfeita para criar uma atmosfera acolhedora e iluminar o ambiente com um charme único.  ",
