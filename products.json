@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-c9b62b11-a7d3-491f-b4fc-017f6348339b",
+      "name": "Organizador de Jóias e Acessórios",
+      "description": "Traga máxima sofisticação, organização impecável e um visual moderno para a sua penteadeira ou toucador com este deslumbrante organizador de joias em formato de arco! Perfeito para expor e proteger colares, brincos e anéis com um charme incomparável.",
+      "price": 45,
+      "category": "Beleza",
+      "images": [
+        "images/products/mid-c9b62b11-a7d3-491f-b4fc-017f6348339b-d5f34a24.webp",
+        "images/products/mid-c9b62b11-a7d3-491f-b4fc-017f6348339b-8345969a.webp",
+        "images/products/mid-c9b62b11-a7d3-491f-b4fc-017f6348339b-89e20945.webp",
+        "images/products/mid-c9b62b11-a7d3-491f-b4fc-017f6348339b-9dcf1cbe.webp"
+      ]
+    },
+    {
       "id": "mid-b23bb217-842f-4922-8358-5b75734e0e1a",
       "name": "Porta Lapis Animais",
       "description": "Traga toda a fofura, alegria e organização para a escrivaninha, o quarto infantil ou o espaço de estudo com este adorável conjunto de organizadores temáticos! Perfeito para guardar lápis, canetas, tesouras e materiais de papelaria com um visual encantador.  ",
