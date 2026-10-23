@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-98700ab3-4fc7-4961-9077-0626d75bbc27",
+      "name": "Saboneteira Moderna",
+      "description": "Esta saboneteira elegante e funcional foi projetada para manter seu sabonete seco e sua bancada limpa. Seu design de várias partes permite que você brinque com as cores para combinar perfeitamente com a decoração do seu banheiro.",
+      "price": 19,
+      "category": "Banheiro",
+      "images": [
+        "images/products/mid-98700ab3-4fc7-4961-9077-0626d75bbc27-bbdb2fa2.webp",
+        "images/products/mid-98700ab3-4fc7-4961-9077-0626d75bbc27-cc773dda.webp"
+      ]
+    },
+    {
       "id": "mid-322f8ff9-5850-4f4b-9fc6-f59d33e60414",
       "name": "Porta Chaves Minimalista",
       "description": "Adicione um toque de design contemporâneo à sua entrada com este porta-chaves de parede inspirado na tipografia. Este design empilha as letras da palavra \"HOME\" em um bloco sólido e geométrico, mesclando estética e funcionalidade em uma única peça compacta.",
