@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-5a49aa75-32d3-4b74-9a4c-250baeda7006",
+      "name": "Caixa de Jóias Personalizável",
+      "description": "Traga elegância discreta, proteção e máxima organização para as suas peças favoritas com esta sofisticada caixa organizadora para joias! Perfeita para manter anéis, brincos e pequenos acessórios impecavelmente arrumados, seja na sua penteadeira ou em viagens.",
+      "price": 30,
+      "category": "Beleza",
+      "images": [
+        "images/products/mid-5a49aa75-32d3-4b74-9a4c-250baeda7006-ec4936ce.webp",
+        "images/products/mid-5a49aa75-32d3-4b74-9a4c-250baeda7006-72ea0e1e.webp",
+        "images/products/mid-5a49aa75-32d3-4b74-9a4c-250baeda7006-8a5e9ea7.webp"
+      ]
+    },
+    {
       "id": "mid-c9b62b11-a7d3-491f-b4fc-017f6348339b",
       "name": "Organizador de Jóias e Acessórios",
       "description": "Traga máxima sofisticação, organização impecável e um visual moderno para a sua penteadeira ou toucador com este deslumbrante organizador de joias em formato de arco! Perfeito para expor e proteger colares, brincos e anéis com um charme incomparável.",
