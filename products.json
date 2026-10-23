@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-f2d8d941-3d29-480b-b217-a713aae32a3e",
+      "name": "Suporte para Cápsulas Dolce Gusto",
+      "description": "Traga elegância, praticidade e muita sofisticação para o seu cantinho do café com esta incrível torre organizadora para cápsulas Dolce Gusto! Perfeita para manter as suas cápsulas favoritas sempre organizadas, acessíveis e expostas com muito estilo.",
+      "price": 46,
+      "category": "Cozinha",
+      "images": [
+        "images/products/mid-f2d8d941-3d29-480b-b217-a713aae32a3e-a9e826a3.webp",
+        "images/products/mid-f2d8d941-3d29-480b-b217-a713aae32a3e-35bf17d1.webp"
+      ]
+    },
+    {
       "id": "mid-ec0fa8fe-fdbb-4a91-ae30-424020c2fcb0",
       "name": "Suporte Giratório para Cápsulas de Café  Nespresso",
       "description": "Possui uma base giratória suave e comporta até 36 cápsulas Nespresso.",
