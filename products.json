@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-005c7014-d6e2-46f4-ac5f-3e81f426dce4",
+      "name": "Porta Escova e Pasta de Dentes - Cerejeira",
+      "description": "Organize seu banheiro com charme e funcionalidade usando este Suporte para Escova & Pasta de Dente Flor de Cerejeira. Inspirado na beleza das flores de cerejeira, ele combina uma estética suave com detalhes práticos que tornam as rotinas diárias mais fáceis e bonitas.",
+      "price": 37,
+      "category": "Banheiro",
+      "images": [
+        "images/products/mid-005c7014-d6e2-46f4-ac5f-3e81f426dce4-7ac04f38.webp",
+        "images/products/mid-005c7014-d6e2-46f4-ac5f-3e81f426dce4-8fd7fc27.webp"
+      ]
+    },
+    {
       "id": "mid-2004c8b1-fda7-469c-8c9f-bca418a3c049",
       "name": "Organizador Inspirado em Harry Potter",
       "description": "Embarque numa viagem mágica e traga todo o encanto do universo bruxo para a sua penteadeira ou escrivaninha com este deslumbrante organizador temático da Plataforma 9 ¾! Perfeito para fãs de magia que não abrem mão de estilo e organização.",
