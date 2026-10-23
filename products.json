@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-db72d35e-bb3b-4ee9-9dfa-508c5255fa43",
+      "name": "Suporte para Papel Toalha",
+      "description": "​Traga mais praticidade, elegância e organização para a sua cozinha ou área gourmet com este moderno suporte para papel toalha! Perfeito para manter o rolo sempre acessível, protegido e com um visual impecável na bancada.",
+      "price": 50,
+      "category": "Cozinha",
+      "images": [
+        "images/products/mid-db72d35e-bb3b-4ee9-9dfa-508c5255fa43-9f342640.webp",
+        "images/products/mid-db72d35e-bb3b-4ee9-9dfa-508c5255fa43-bd1869f9.webp"
+      ]
+    },
+    {
       "id": "mid-4b0a6779-c889-4a5d-91bb-52b3b669dd92",
       "name": "Kit Organizador Duplo(cotonete - Algodão)",
       "description": "Traga máxima praticidade, elegância e organização para a sua bancada ou casa de banho com este incrível conjunto de porta-objetos! Perfeito para manter os seus itens essenciais de higiene e beleza sempre arrumados e acessíveis.  ",
