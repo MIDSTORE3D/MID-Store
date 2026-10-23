@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-d73c48e6-1aaf-4482-ad4b-2734186af618",
+      "name": "Porta Absorvente",
+      "description": "ele armazena absorventes maxi, enquanto mantém uma estética organizada e semelhante a um spa em sua bancada ou dentro de um armário.\n",
+      "price": 35,
+      "category": "Banheiro",
+      "images": [
+        "images/products/mid-d73c48e6-1aaf-4482-ad4b-2734186af618-e08e6467.webp",
+        "images/products/mid-d73c48e6-1aaf-4482-ad4b-2734186af618-42f8f7ea.webp"
+      ]
+    },
+    {
       "id": "mid-0278a210-ce11-440e-a03f-37d5560221ae",
       "name": "Dispensador de absorvente",
       "description": "Traga máxima elegância, organização e praticidade para a sua casa.",
