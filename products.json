@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-60c91b58-1e1e-435a-82ad-abb484029c11",
+      "name": "Caixa de Armazenamento para Absorventes",
+      "description": "Mantenha seus itens essenciais organizados e de fácil acesso com esta Caixa Organizadora para Absorventes e Protetores Diários, projetada para praticidade, higiene e facilidade de acesso.",
+      "price": 46,
+      "category": "Banheiro",
+      "images": [
+        "images/products/mid-60c91b58-1e1e-435a-82ad-abb484029c11-60dc6db6.webp",
+        "images/products/mid-60c91b58-1e1e-435a-82ad-abb484029c11-9bf20454.webp"
+      ]
+    },
+    {
       "id": "mid-58319b5a-d6e2-43a3-a1e0-bfd5b05b31ea",
       "name": "Plaquinhas para Colorir (acompanha canetinhas)",
       "description": "Desenhos para colorir de todos os personagens do Bob Esponja ",
