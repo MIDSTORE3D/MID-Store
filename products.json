@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-ec5f1e7a-55c9-478b-b7a4-16e946bda1e2",
+      "name": "Porta Utensílios de Cozinha Casa de Gengibre",
+      "description": "Traga todo o aconchego, a magia e a doçura do Natal para a sua cozinha com este encantador suporte decorativo em formato de casinha de gengibre! Perfeito para organizar utensílios culinários enquanto transforma a decoração da sua bancada com um toque lúdico e irresistível.  ",
+      "price": 70,
+      "category": "Natal",
+      "images": [
+        "images/products/mid-ec5f1e7a-55c9-478b-b7a4-16e946bda1e2-6471b64a.webp",
+        "images/products/mid-ec5f1e7a-55c9-478b-b7a4-16e946bda1e2-528390f1.webp"
+      ]
+    },
+    {
       "id": "mid-931b1811-b017-404c-a367-e2a168dd9748",
       "name": "Porta Copos Papai Noel - Kit com 3",
       "description": "Celebre a estação com esta coleção de porta-copos \"Papai Noel e Amigos\"! Projetados com um charmoso estilo de relevo 2.5D, estes porta-copos apresentam uma clássica borda com arabescos de estilo vintage e adoráveis cenas natalinas. O conjunto vem completo com um suporte entalhado projetado sob medida, transformando seus porta-copos em uma peça de exibição festiva quando não estiverem em uso.",
