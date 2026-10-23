@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-4b0a6779-c889-4a5d-91bb-52b3b669dd92",
+      "name": "Kit Organizador Duplo(cotonete - Algodão)",
+      "description": "Traga máxima praticidade, elegância e organização para a sua bancada ou casa de banho com este incrível conjunto de porta-objetos! Perfeito para manter os seus itens essenciais de higiene e beleza sempre arrumados e acessíveis.  ",
+      "price": 37,
+      "category": "Banheiro",
+      "images": [
+        "images/products/mid-4b0a6779-c889-4a5d-91bb-52b3b669dd92-615ef0e4.webp",
+        "images/products/mid-4b0a6779-c889-4a5d-91bb-52b3b669dd92-51605eed.webp",
+        "images/products/mid-4b0a6779-c889-4a5d-91bb-52b3b669dd92-e3cf6dc8.webp"
+      ]
+    },
+    {
       "id": "mid-b197686c-a987-4e98-81ee-570f1a123cc9",
       "name": "Porta Cotonetes",
       "description": "Adicione um toque de elegância, organização e charme à sua casa de banho ou toucador com este lindo pote organizador canelado! Perfeito para armazenar pequenos itens de uso diário com total sofisticação.",
