@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-8d5653b4-fbe9-4bee-b76e-19e15ceb4fa6",
+      "name": "Porta Pincéis Orelha de Gato",
+      "description": "Traga toda a fofura e o encanto para a sua penteadeira ou escrivaninha com este adorável organizador em formato de gatinho! Perfeito para manter os seus acessórios de maquilhagem e itens essenciais sempre arrumados com muito estilo.  ",
+      "price": 30,
+      "category": "Beleza",
+      "images": [
+        "images/products/mid-8d5653b4-fbe9-4bee-b76e-19e15ceb4fa6-5b9c7415.webp",
+        "images/products/mid-8d5653b4-fbe9-4bee-b76e-19e15ceb4fa6-04358d4b.webp"
+      ]
+    },
+    {
       "id": "mid-005c7014-d6e2-46f4-ac5f-3e81f426dce4",
       "name": "Porta Escova e Pasta de Dentes - Cerejeira",
       "description": "Organize seu banheiro com charme e funcionalidade usando este Suporte para Escova & Pasta de Dente Flor de Cerejeira. Inspirado na beleza das flores de cerejeira, ele combina uma estética suave com detalhes práticos que tornam as rotinas diárias mais fáceis e bonitas.",
