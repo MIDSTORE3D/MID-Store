@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-3d4344a6-2da7-4687-ac2c-6262b1a204ed",
+      "name": "Organizador Rotativo para Produtos de Beleza",
+      "description": "Capacidade para acomodar um kit completo de produtos de beleza Zhiben para uso diário (loção, creme, sérum, óleo e batom)",
+      "price": 25,
+      "category": "Beleza",
+      "images": [
+        "images/products/mid-3d4344a6-2da7-4687-ac2c-6262b1a204ed-0b66aeb5.webp",
+        "images/products/mid-3d4344a6-2da7-4687-ac2c-6262b1a204ed-b8d171dd.webp"
+      ]
+    },
+    {
       "id": "mid-271dd66b-44d0-431d-b5ee-0cb7cbf4e878",
       "name": "Suporte para Pente",
       "description": "​Traga um toque de elegância orgânica, sofisticação e máxima organização para a sua casa de banho ou toucador com este belíssimo suporte organizador texturizado! Perfeito para armazenar escovas de cabelo, pentes e acessórios com um charme único.  ",
