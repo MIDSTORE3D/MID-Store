@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-15ec5d25-dfda-4376-8b35-fe5ade486a63",
+      "name": "Gancho de Parede Dobrável",
+      "description": "Traga um toque de sofisticação moderna, minimalismo e máxima funcionalidade para a sua entrada, corredor ou quarto com este incrível gancho de parede retrátil! Perfeito para otimizar espaço enquanto decora as paredes com um estilo elegante e inteligente.  ",
+      "price": 10,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-15ec5d25-dfda-4376-8b35-fe5ade486a63-7b403d85.webp",
+        "images/products/mid-15ec5d25-dfda-4376-8b35-fe5ade486a63-3c24b555.webp"
+      ]
+    },
+    {
       "id": "mid-5a49aa75-32d3-4b74-9a4c-250baeda7006",
       "name": "Caixa de Jóias Personalizável",
       "description": "Traga elegância discreta, proteção e máxima organização para as suas peças favoritas com esta sofisticada caixa organizadora para joias! Perfeita para manter anéis, brincos e pequenos acessórios impecavelmente arrumados, seja na sua penteadeira ou em viagens.",
