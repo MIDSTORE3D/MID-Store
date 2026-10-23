@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-f48a8d51-3af1-489d-93d3-5ce17b38117a",
+      "name": "Organizador de Alimentos",
+      "description": "Mantenha a sua cozinha organizada, funcional e com os alimentos sempre frescos com este organizador multiusos de bancada. Uma peça inteligente que combina design moderno e praticidade para o dia a dia.  ",
+      "price": 30,
+      "category": "Cozinha",
+      "images": [
+        "images/products/mid-f48a8d51-3af1-489d-93d3-5ce17b38117a-08528402.webp",
+        "images/products/mid-f48a8d51-3af1-489d-93d3-5ce17b38117a-f24b0cca.webp",
+        "images/products/mid-f48a8d51-3af1-489d-93d3-5ce17b38117a-44b576e0.webp"
+      ]
+    },
+    {
       "id": "mid-ec3b1f65-07fd-4478-9959-cf0e169369eb",
       "name": "Abelha Articulada",
       "description": "Adicione um toque de diversão e originalidade à sua coleção ou decoração com esta adorável abelha articulada impressa em 3D! Uma peça interativa e colorida, perfeita para encantar crianças e adultos.  ",
