@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-f07ed214-00e4-4b5a-ae7f-8a80efaef3c2",
+      "name": "Prateleira Derretida",
+      "description": "Adicione um toque de originalidade, estilo moderno e um visual contemporâneo único a qualquer divisão com esta incrível prateleira de parede com efeito de derretimento! Perfeita para quem adora decoração ousada e cheia de personalidade.  ",
+      "price": 36,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-f07ed214-00e4-4b5a-ae7f-8a80efaef3c2-bf175582.webp",
+        "images/products/mid-f07ed214-00e4-4b5a-ae7f-8a80efaef3c2-590d364f.webp"
+      ]
+    },
+    {
       "id": "mid-21556175-8fca-4299-9c3d-a069acd0298b",
       "name": "Porta Chaves",
       "description": "Mantenha a sua entrada ou corredor sempre organizados com muito estilo e sofisticação utilizando este versátil organizador de parede multifuncional! Perfeito para centralizar os itens essenciais do dia a dia num só lugar.",
