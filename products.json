@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-2b44c63e-4276-45bf-9797-ef710d4497b5",
+      "name": "Dispenser de Palito de Dente",
+      "description": "Mantenha sua mesa organizada com este Dispenser de Palitos de Dente, inspirado no estilo de design Japandi limpo e atemporal. Ele oferece uma maneira simples e elegante de manter os palitos de dente sempre à disposição.",
+      "price": 18,
+      "category": "Cozinha",
+      "images": [
+        "images/products/mid-2b44c63e-4276-45bf-9797-ef710d4497b5-64f17538.webp",
+        "images/products/mid-2b44c63e-4276-45bf-9797-ef710d4497b5-e18589fc.webp",
+        "images/products/mid-2b44c63e-4276-45bf-9797-ef710d4497b5-c3dae390.webp"
+      ]
+    },
+    {
       "id": "mid-b0064e2b-aa8d-4b93-90f5-0bb589b13264",
       "name": "Organizador de Pia Compacto Canelado com Bandeja de Drenagem",
       "description": "Mantenha a área da sua pia organizada sem sacrificar espaço valioso na bancada. Este organizador compacto para pia de cozinha combina armazenamento prático com um design Japandi com listras limpas que se encaixa perfeitamente em cozinhas modernas.",
