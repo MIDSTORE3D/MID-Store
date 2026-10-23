@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-6b19ca43-2772-4a28-a91a-24ccbf4cb474",
+      "name": "Porta Jóias Árvore",
+      "description": "Traga elegância, sofisticação e máxima organização para a sua penteadeira ou toucador com este deslumbrante porta-jóias em formato de árvore com gaveta! Perfeito para expor e proteger as suas peças favoritas com um charme incomparável.  ",
+      "price": 45,
+      "category": "Beleza",
+      "images": [
+        "images/products/mid-6b19ca43-2772-4a28-a91a-24ccbf4cb474-1842de93.webp",
+        "images/products/mid-6b19ca43-2772-4a28-a91a-24ccbf4cb474-f6755789.webp",
+        "images/products/mid-6b19ca43-2772-4a28-a91a-24ccbf4cb474-ae30352c.webp",
+        "images/products/mid-6b19ca43-2772-4a28-a91a-24ccbf4cb474-f4f8043e.webp"
+      ]
+    },
+    {
       "id": "mid-4d7ba3a5-96c3-4626-b0c5-1da43ea2b379",
       "name": "Caixa com Gavetas",
       "description": "Adicione um toque de pura fofura, cor e organização para a sua escrivaninha, penteadeira ou cantinho criativo com este adorável mini gaveteiro temático! Perfeito para guardar pequenos acessórios, artigos de papelaria ou jóias com muito estilo e diversão.",
