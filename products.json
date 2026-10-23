@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-1e151f3c-6c31-4641-a2a1-ed4c02ee3572",
+      "name": "Organizador para Banheiro",
+      "description": "Um conjunto organizador limpo, feminino e moderno com textura canelada suave e um detalhe de laço fofo na frente. É simples, funcional e adiciona um toque decorativo sutil sem ser exagerado. Este conjunto é perfeito para coisas como cotonetes, ferramentas de maquiagem ou itens essenciais de banheiro do dia a dia e ainda melhor como parte de um conjunto combinando",
+      "price": 42,
+      "category": "Banheiro",
+      "images": [
+        "images/products/mid-1e151f3c-6c31-4641-a2a1-ed4c02ee3572-b4d579ff.webp",
+        "images/products/mid-1e151f3c-6c31-4641-a2a1-ed4c02ee3572-673639a9.webp",
+        "images/products/mid-1e151f3c-6c31-4641-a2a1-ed4c02ee3572-f64f2835.webp"
+      ]
+    },
+    {
       "id": "mid-44e8da18-8ed8-4dfe-85b0-c5c8784069e5",
       "name": "Caixa Organizadora Empilhável",
       "description": "Traga mais elegância, praticidade e organização para qualquer divisão da sua casa com esta bela caixa organizadora retangular canelada! Perfeita para manter os seus acessórios e pequenos objetos arrumados com muito estilo e sofisticação.",
