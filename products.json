@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-2e2a1eab-039b-4eca-a246-ea3070312017",
+      "name": "Suporte para Petiscos",
+      "description": "Surpreenda os seus convidados e dê um toque de originalidade à sua mesa festiva com este suporte para aperitivos em formato de árvore de Natal! Uma forma divertida e elegante de servir petiscos, queijos, enchidos ou aperitivos durante as celebrações de fim de ano.  ",
+      "price": 73.5,
+      "category": "Natal",
+      "images": [
+        "images/products/mid-2e2a1eab-039b-4eca-a246-ea3070312017-28387ed2.webp",
+        "images/products/mid-2e2a1eab-039b-4eca-a246-ea3070312017-fed2729f.webp"
+      ]
+    },
+    {
       "id": "mid-13b15d2b-d78d-4c16-8fa5-b4156f1c9274",
       "name": "Porta Copos Empilhável",
       "description": "Dê um toque de delicadeza, cor e elegância à sua mesa com este conjunto de bases para copos em formato de flor! Perfeitas para proteger as suas superfícies com muito estilo e charme durante as refeições ou momentos de café.  ",
