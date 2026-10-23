@@ -10,6 +10,20 @@
   ],
   "products": [
     {
+      "id": "mid-5f514d06-9184-42c1-934c-b858fd83c65e",
+      "name": "Enfeite Decorativo de Natal - cervo",
+      "description": "Transforme a sua casa num ambiente acolhedor e mágico nesta época festiva com este enfeite decorativo de Natal iluminado. Com um design encantador em formato de círculo com laço, esta peça combina elementos tradicionais de inverno para criar uma atmosfera de puro aconchego.",
+      "price": 15,
+      "category": "Natal",
+      "images": [
+        "images/products/mid-5f514d06-9184-42c1-934c-b858fd83c65e-11b5be82.webp",
+        "images/products/mid-5f514d06-9184-42c1-934c-b858fd83c65e-1c80e099.webp",
+        "images/products/mid-5f514d06-9184-42c1-934c-b858fd83c65e-c22bf956.webp",
+        "images/products/mid-5f514d06-9184-42c1-934c-b858fd83c65e-7c595e70.webp",
+        "images/products/mid-5f514d06-9184-42c1-934c-b858fd83c65e-5d17edc7.webp"
+      ]
+    },
+    {
       "id": "mid-af4af233-2107-4d24-879b-692b8bb92483",
       "name": "Vaso Poligonais",
       "description": "Traga mais elegância e estilo para a sua decoração com este vaso decorativo com padrão texturizado e suporte inclinado. Uma peça moderna e sofisticada, perfeita para dar destaque às suas plantas favoritas e valorizar qualquer ambiente da casa. ",
