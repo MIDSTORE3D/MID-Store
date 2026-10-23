@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-13b15d2b-d78d-4c16-8fa5-b4156f1c9274",
+      "name": "Porta Copos Empilhável",
+      "description": "Dê um toque de delicadeza, cor e elegância à sua mesa com este conjunto de bases para copos em formato de flor! Perfeitas para proteger as suas superfícies com muito estilo e charme durante as refeições ou momentos de café.  ",
+      "price": 19.6,
+      "category": "Cozinha",
+      "images": [
+        "images/products/mid-13b15d2b-d78d-4c16-8fa5-b4156f1c9274-9ca9ba3b.webp",
+        "images/products/mid-13b15d2b-d78d-4c16-8fa5-b4156f1c9274-336ea932.webp",
+        "images/products/mid-13b15d2b-d78d-4c16-8fa5-b4156f1c9274-351105ef.webp",
+        "images/products/mid-13b15d2b-d78d-4c16-8fa5-b4156f1c9274-c0ba3be1.webp"
+      ]
+    },
+    {
       "id": "mid-a3785445-25cb-4676-855f-744297674a17",
       "name": "Saleiro e Pimenteiro",
       "description": "Deixe a sua bancada de cozinha mais organizada, elegante e cheia de charme com este conjunto de recipientes multiusos",
