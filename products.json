@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-95a01048-fca2-4b66-9504-8ffdcbdb003d",
+      "name": "Copo de Drenagem Canelado",
+      "description": "O exterior com ranhuras modernas agrega estilo e rigidez, enquanto o bico de drenagem frontal integrado permite que o excesso de água saia diretamente do copo — ajudando a evitar o acúmulo de água no interior.",
+      "price": 26,
+      "category": "Cozinha",
+      "images": [
+        "images/products/mid-95a01048-fca2-4b66-9504-8ffdcbdb003d-27f8d6ff.webp",
+        "images/products/mid-95a01048-fca2-4b66-9504-8ffdcbdb003d-bd4933ac.webp"
+      ]
+    },
+    {
       "id": "mid-1627512a-9852-41e6-81b0-d4ffe5359e4a",
       "name": "Moldura Bolha 4x6\"(10x15cm) De Mesa/Para Parede",
       "description": "Adicione um toque moderno e estético ao seu espaço com este Porta-Retrato Bolha Com um design moderno e esférico, ele se integra perfeitamente a qualquer estilo de decoração — do minimalista ao eclético",
