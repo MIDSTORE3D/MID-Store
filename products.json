@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-322f8ff9-5850-4f4b-9fc6-f59d33e60414",
+      "name": "Porta Chaves Minimalista",
+      "description": "Adicione um toque de design contemporâneo à sua entrada com este porta-chaves de parede inspirado na tipografia. Este design empilha as letras da palavra \"HOME\" em um bloco sólido e geométrico, mesclando estética e funcionalidade em uma única peça compacta.",
+      "price": 19,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-322f8ff9-5850-4f4b-9fc6-f59d33e60414-18b850de.webp",
+        "images/products/mid-322f8ff9-5850-4f4b-9fc6-f59d33e60414-2b1a2e92.webp"
+      ]
+    },
+    {
       "id": "mid-363b828c-cff1-4092-b6c6-6e1d7ae98d7d",
       "name": "Suporte para Lata  inspirado no Redbull c/ tampa",
       "description": "Traga mais estilo, praticidade e diversão para os seus momentos de lazer com esta incrível caneca porta-lata temática! Perfeita para manter a sua bebida favorita sempre fresca e com um visual cheio de personalidade.",
