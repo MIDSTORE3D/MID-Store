@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-e0eade5b-e24a-4ad9-8a81-a542a3c52724",
+      "name": "Pote Organizador",
+      "description": "Adicione um toque de romantismo, charme e muita delicadeza à sua organização com este lindo pote multiuso texturizado com corações! Perfeito para guardar pequenos objetos, algodão, acessórios ou doces com muito estilo.",
+      "price": 28,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-e0eade5b-e24a-4ad9-8a81-a542a3c52724-fed2016d.webp",
+        "images/products/mid-e0eade5b-e24a-4ad9-8a81-a542a3c52724-3cf2befb.webp",
+        "images/products/mid-e0eade5b-e24a-4ad9-8a81-a542a3c52724-244b357f.webp",
+        "images/products/mid-e0eade5b-e24a-4ad9-8a81-a542a3c52724-339810ac.webp"
+      ]
+    },
+    {
       "id": "mid-385ee7f3-058f-4cbd-ba53-2758fb7c7b77",
       "name": "Organizador Multiuso",
       "description": "Traga muita fofura, charme e organização para a sua escrivaninha, estante ou mesa de centro com este adorável organizador em formato de gatinho! Perfeito para manter os seus itens essenciais sempre arrumados com muito estilo.  ",
