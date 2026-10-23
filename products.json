@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-fa0d86c2-3fae-4e01-8162-a8988e94e9b0",
+      "name": "Porta-Lata Coozie de Letra Personalizada",
+      "description": "Adicione um toque de originalidade, charme e máxima utilidade aos seus eventos, festas ou reuniões com este incrível dispenser de bebidas personalizado em formato de barril! Perfeito para servir água, sumos ou refrescos com muito estilo e elegância.  ",
+      "price": 50,
+      "category": "Cozinha",
+      "images": [
+        "images/products/mid-fa0d86c2-3fae-4e01-8162-a8988e94e9b0-85f16fb7.webp",
+        "images/products/mid-fa0d86c2-3fae-4e01-8162-a8988e94e9b0-fd127cca.webp",
+        "images/products/mid-fa0d86c2-3fae-4e01-8162-a8988e94e9b0-e380c6ae.webp"
+      ]
+    },
+    {
       "id": "mid-c21bfd3e-6043-4275-b28e-fe8820cf0b8e",
       "name": "Caixa Organizadora Retangular",
       "description": "Traga um toque de puro charme, elegância clássica e muita organização para a sua bancada, toucador ou casa de banho com esta deslumbrante caixa organizadora com textura capitone! Perfeita para manter os seus acessórios de beleza e itens essenciais arrumados com uma estética sofisticada.  ",
