@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-3e777c7a-aa5d-42ad-b4d1-884da370209b",
+      "name": "Organizador de Banheiro Minimalista",
+      "description": "Traga um toque de sofisticação natural, elegância e máxima organização para a sua casa de banho com este deslumbrante suporte porta-escovas com textura fluida! Perfeito para manter escovas, pastas de dentes e acessórios de higiene sempre arrumados com muito estilo.  ",
+      "price": 40,
+      "category": "Banheiro",
+      "images": [
+        "images/products/mid-3e777c7a-aa5d-42ad-b4d1-884da370209b-5b5d4424.webp",
+        "images/products/mid-3e777c7a-aa5d-42ad-b4d1-884da370209b-b21a64c1.webp",
+        "images/products/mid-3e777c7a-aa5d-42ad-b4d1-884da370209b-21cffc91.webp"
+      ]
+    },
+    {
       "id": "mid-60885e5b-20dd-475b-97ed-ad8009378ca2",
       "name": "Difusor de Aromas",
       "description": "Traga um toque de elegância natural, aconchego e sofisticação para a decoração da sua casa com este belo vaso e difusor de aromas texturizado! Perfeito para perfumar e embelezar qualquer ambiente com um estilo minimalista e intemporal.  ",
