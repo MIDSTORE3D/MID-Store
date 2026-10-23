@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-760046a3-3b28-4504-9414-3c0a9b2a62c1",
+      "name": "Organizador Temático Livros de Cristais",
+      "description": "Traga um toque de mistério, elegância e muita personalidade para a sua penteadeira ou escrivaninha com este deslumbrante organizador em formato de livros com cristais! Perfeito para quem ama uma estética sofisticada, gótica suave ou cheia de encanto literário.  ",
+      "price": 36,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-760046a3-3b28-4504-9414-3c0a9b2a62c1-b896ffce.webp",
+        "images/products/mid-760046a3-3b28-4504-9414-3c0a9b2a62c1-7a8bb8d3.webp"
+      ]
+    },
+    {
       "id": "mid-98700ab3-4fc7-4961-9077-0626d75bbc27",
       "name": "Saboneteira Moderna",
       "description": "Esta saboneteira elegante e funcional foi projetada para manter seu sabonete seco e sua bancada limpa. Seu design de várias partes permite que você brinque com as cores para combinar perfeitamente com a decoração do seu banheiro.",
