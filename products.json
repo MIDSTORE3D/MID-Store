@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-208be22c-603e-4e6c-9b7d-0592b1b6335d",
+      "name": "Organizador Floral de Mesa",
+      "description": "Adicione um toque de natureza e charme elegante a qualquer ambiente com este deslumbrante organizador em forma de flor.\nProjetado para combinar perfeitamente estética com uma praticidade incrível, este design floral eleva qualquer penteadeira, mesa ou prateleira, mantendo seus itens essenciais bem organizados. É o companheiro diário definitivo!",
+      "price": 36,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-208be22c-603e-4e6c-9b7d-0592b1b6335d-74977db7.webp",
+        "images/products/mid-208be22c-603e-4e6c-9b7d-0592b1b6335d-6033036f.webp"
+      ]
+    },
+    {
       "id": "mid-a8fccae6-2533-4690-946a-517d4d31e7eb",
       "name": "Caixa de Jóias Borboleta com Gavetas",
       "description": "Traga toda a delicadeza, magia e máxima organização para a sua penteadeira ou toucador com este deslumbrante porta-jóias em formato de borboleta! Perfeito para guardar pequenas joias, anéis e acessórios com uma estética lúdica e encantadora.  ",
