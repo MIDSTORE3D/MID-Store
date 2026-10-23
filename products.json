@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-5ce9a4b8-d09c-43ef-acbd-13562716fca4",
+      "name": "Porta objetos - Coração",
+      "description": "Traga mais charme, organização e delicadeza para a sua bancada, toucador ou escritório com este lindo organizador multiuso texturizado! Prático e elegante, ele é perfeito para manter os seus acessórios sempre à mão.",
+      "price": 12,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-5ce9a4b8-d09c-43ef-acbd-13562716fca4-abb6a194.webp",
+        "images/products/mid-5ce9a4b8-d09c-43ef-acbd-13562716fca4-fe9f7f81.webp"
+      ]
+    },
+    {
       "id": "mid-e0eade5b-e24a-4ad9-8a81-a542a3c52724",
       "name": "Pote Organizador",
       "description": "Adicione um toque de romantismo, charme e muita delicadeza à sua organização com este lindo pote multiuso texturizado com corações! Perfeito para guardar pequenos objetos, algodão, acessórios ou doces com muito estilo.",
