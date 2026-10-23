@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-b0064e2b-aa8d-4b93-90f5-0bb589b13264",
+      "name": "Organizador de Pia Compacto Canelado com Bandeja de Drenagem",
+      "description": "Mantenha a área da sua pia organizada sem sacrificar espaço valioso na bancada. Este organizador compacto para pia de cozinha combina armazenamento prático com um design Japandi com listras limpas que se encaixa perfeitamente em cozinhas modernas.",
+      "price": 38,
+      "category": "Cozinha",
+      "images": [
+        "images/products/mid-b0064e2b-aa8d-4b93-90f5-0bb589b13264-9036013e.webp",
+        "images/products/mid-b0064e2b-aa8d-4b93-90f5-0bb589b13264-d9f89f2d.webp",
+        "images/products/mid-b0064e2b-aa8d-4b93-90f5-0bb589b13264-06948e2a.webp",
+        "images/products/mid-b0064e2b-aa8d-4b93-90f5-0bb589b13264-f427d2f0.webp"
+      ]
+    },
+    {
       "id": "mid-0dd4fb2f-eb52-46ed-810a-6a687a98ac6b",
       "name": "Porta papel Higiênico+caixa p/ Lenço",
       "description": "Traga máxima elegância, funcionalidade inteligente e organização impecável para a sua casa de banho com este versátil suporte para papel higiênico com caixa de armazenamento! Perfeito para otimizar o espaço enquanto decora o ambiente com um toque moderno e acolhedor.  ",
