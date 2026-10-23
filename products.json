@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-fb6477bd-d14d-45d6-8365-89ecf07b720c",
+      "name": "Luminária com Led (sem tomada)",
+      "description": "Traga um toque de encanto natural, aconchego e muita sofisticação para a decoração da sua casa com esta deslumbrante luminária decorativa inspirada na natureza! Perfeita para criar uma atmosfera acolhedora e iluminar o ambiente com um charme único.  ",
+      "price": 45,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-fb6477bd-d14d-45d6-8365-89ecf07b720c-0a4b5719.webp",
+        "images/products/mid-fb6477bd-d14d-45d6-8365-89ecf07b720c-e1981070.webp",
+        "images/products/mid-fb6477bd-d14d-45d6-8365-89ecf07b720c-dc299875.webp",
+        "images/products/mid-fb6477bd-d14d-45d6-8365-89ecf07b720c-5d543959.webp"
+      ]
+    },
+    {
       "id": "mid-c1d48dc7-4a12-4358-9472-dbd785f95b21",
       "name": "Tetris Balance",
       "description": "Traga muita diversão, interatividade e um toque de nostalgia gamer para a sua casa ou espaço de lazer com este incrível jogo Tetris Balance! Perfeito para desafiar amigos e familiares enquanto decora o ambiente com peças coloridas e criativas.  ",
