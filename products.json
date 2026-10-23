@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-60885e5b-20dd-475b-97ed-ad8009378ca2",
+      "name": "Difusor de Aromas",
+      "description": "Traga um toque de elegância natural, aconchego e sofisticação para a decoração da sua casa com este belo vaso e difusor de aromas texturizado! Perfeito para perfumar e embelezar qualquer ambiente com um estilo minimalista e intemporal.  ",
+      "price": 22,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-60885e5b-20dd-475b-97ed-ad8009378ca2-b1ebd8d9.webp",
+        "images/products/mid-60885e5b-20dd-475b-97ed-ad8009378ca2-13f01ce1.webp"
+      ]
+    },
+    {
       "id": "mid-761192cc-82ba-4dce-8a1d-1b2038fa2223",
       "name": "Porta Papel Higiênico c/ Prateleira",
       "description": "​Traga máxima praticidade, organização inteligente e um toque de elegância moderna para a sua casa de banho com este versátil suporte para papel higiênico com prateleira! Perfeito para aliar utilidade e estilo em cada detalhe do ambiente.  ",
