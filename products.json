@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-1627512a-9852-41e6-81b0-d4ffe5359e4a",
+      "name": "Moldura Bolha 4x6\"(10x15cm) De Mesa/Para Parede",
+      "description": "Adicione um toque moderno e estético ao seu espaço com este Porta-Retrato Bolha Com um design moderno e esférico, ele se integra perfeitamente a qualquer estilo de decoração — do minimalista ao eclético",
+      "price": 38,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-1627512a-9852-41e6-81b0-d4ffe5359e4a-556f1aff.webp",
+        "images/products/mid-1627512a-9852-41e6-81b0-d4ffe5359e4a-9c2d9b17.webp",
+        "images/products/mid-1627512a-9852-41e6-81b0-d4ffe5359e4a-8ed0c86f.webp",
+        "images/products/mid-1627512a-9852-41e6-81b0-d4ffe5359e4a-6d323671.webp"
+      ]
+    },
+    {
       "id": "mid-55e2fbba-fb6d-4366-a128-e09d32941e3e",
       "name": "Vaso Redondo",
       "description": "Traga um toque de modernidade, delicadeza e muita cor para a decoração da sua casa com este encantador cachepô decorativo com textura de bolhas! Perfeito para iluminar qualquer ambiente e dar destaque às suas plantas favoritas.  ",
