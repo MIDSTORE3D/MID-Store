@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-44e8da18-8ed8-4dfe-85b0-c5c8784069e5",
+      "name": "Caixa Organizadora Empilhável",
+      "description": "Traga mais elegância, praticidade e organização para qualquer divisão da sua casa com esta bela caixa organizadora retangular canelada! Perfeita para manter os seus acessórios e pequenos objetos arrumados com muito estilo e sofisticação.",
+      "price": 45,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-44e8da18-8ed8-4dfe-85b0-c5c8784069e5-f93fc456.webp",
+        "images/products/mid-44e8da18-8ed8-4dfe-85b0-c5c8784069e5-9554dee7.webp",
+        "images/products/mid-44e8da18-8ed8-4dfe-85b0-c5c8784069e5-2b31fd00.webp"
+      ]
+    },
+    {
       "id": "mid-db72d35e-bb3b-4ee9-9dfa-508c5255fa43",
       "name": "Suporte para Papel Toalha",
       "description": "​Traga mais praticidade, elegância e organização para a sua cozinha ou área gourmet com este moderno suporte para papel toalha! Perfeito para manter o rolo sempre acessível, protegido e com um visual impecável na bancada.",
