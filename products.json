@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-b6148234-ccaf-4980-893f-5ff6ff959231",
+      "name": "Organizador Giratório Duplo",
+      "description": "Traga máxima praticidade, otimização de espaço e muita elegância para a sua bancada ou toucador com este incrível organizador giratório de dois andares! Perfeito para manter os seus produtos de beleza, óleos essenciais e itens de uso diário sempre arrumados e ao alcance da mão.",
+      "price": 60,
+      "category": "Beleza",
+      "images": [
+        "images/products/mid-b6148234-ccaf-4980-893f-5ff6ff959231-d23f9ec2.webp",
+        "images/products/mid-b6148234-ccaf-4980-893f-5ff6ff959231-0c183c13.webp"
+      ]
+    },
+    {
       "id": "mid-282e5ca2-c912-4b73-a72c-90fad6557e24",
       "name": "Cesto Organizador",
       "description": "Traga elegância, frescura e muita organização para a sua cozinha ou mesa de jantar com esta bela fruteira redonda com tampa! Perfeita para armazenar frutas com estilo, mantendo o ambiente sempre arrumado e sofisticado.  ",
