@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-3812ed02-fbf6-405f-83ea-5c77f67cfa27",
+      "name": "Cesto Organizador com Alça",
+      "description": "Traga um toque de aconchego, elegância e muita funcionalidade para a decoração da sua casa com esta bela cesta decorativa com textura entrançada! Perfeita para organizar e embelezar qualquer ambiente com um visual clássico e artesanal.  ",
+      "price": 38,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-3812ed02-fbf6-405f-83ea-5c77f67cfa27-fe2119d8.webp",
+        "images/products/mid-3812ed02-fbf6-405f-83ea-5c77f67cfa27-10686752.webp",
+        "images/products/mid-3812ed02-fbf6-405f-83ea-5c77f67cfa27-4f078784.webp",
+        "images/products/mid-3812ed02-fbf6-405f-83ea-5c77f67cfa27-7e6d27e3.webp"
+      ]
+    },
+    {
       "id": "mid-5dd5a95a-d807-4d8e-af82-d4e4ae9b4aff",
       "name": "Vasos Decorativos - Grande",
       "description": "Traga paz, harmonia e muita fofura para a decoração da sua casa com este encantador conjunto de vasos decorativos! Perfeito para criar um ambiente acolhedor e cheio de boas energias com as suas plantas favoritas.  ",
