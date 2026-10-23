@@ -10,6 +10,20 @@
   ],
   "products": [
     {
+      "id": "mid-ac157985-5be3-4075-adf6-421a5fd6790a",
+      "name": "Kit Organizadores de Bancada Canelados para Algodão e Acessórios",
+      "description": "Traga elegância, organização e um toque de spa para a sua casa de banho ou toucador com este deslumbrante conjunto de organizadores com textura canelada! Perfeito para manter discos de algodão e pequenos itens de skincare sempre arrumados e acessíveis com muito estilo.  ",
+      "price": 40,
+      "category": "Banheiro",
+      "images": [
+        "images/products/mid-ac157985-5be3-4075-adf6-421a5fd6790a-39887d30.webp",
+        "images/products/mid-ac157985-5be3-4075-adf6-421a5fd6790a-9dcc8290.webp",
+        "images/products/mid-ac157985-5be3-4075-adf6-421a5fd6790a-5ef5b6b2.webp",
+        "images/products/mid-ac157985-5be3-4075-adf6-421a5fd6790a-5dbd67cb.webp",
+        "images/products/mid-ac157985-5be3-4075-adf6-421a5fd6790a-afaee7f5.webp"
+      ]
+    },
+    {
       "id": "mid-15ec5d25-dfda-4376-8b35-fe5ade486a63",
       "name": "Gancho de Parede Dobrável",
       "description": "Traga um toque de sofisticação moderna, minimalismo e máxima funcionalidade para a sua entrada, corredor ou quarto com este incrível gancho de parede retrátil! Perfeito para otimizar espaço enquanto decora as paredes com um estilo elegante e inteligente.  ",
