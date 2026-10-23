@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-766b02de-527c-47df-8b57-b8b055f22989",
+      "name": "Porta Chaves - Home",
+      "description": "Organize suas chaves com estilo e um toque acolhedor com este porta-chaves 3D. Desenhado com a encantadora frase \"Home Sweet Home\", este porta-chaves não é apenas funcional, mas também uma linda peça decorativa para sua casa.",
+      "price": 9.6,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-766b02de-527c-47df-8b57-b8b055f22989-d134f259.webp",
+        "images/products/mid-766b02de-527c-47df-8b57-b8b055f22989-8a362dd8.webp"
+      ]
+    },
+    {
       "id": "mid-1e151f3c-6c31-4641-a2a1-ed4c02ee3572",
       "name": "Organizador para Banheiro",
       "description": "Um conjunto organizador limpo, feminino e moderno com textura canelada suave e um detalhe de laço fofo na frente. É simples, funcional e adiciona um toque decorativo sutil sem ser exagerado. Este conjunto é perfeito para coisas como cotonetes, ferramentas de maquiagem ou itens essenciais de banheiro do dia a dia e ainda melhor como parte de um conjunto combinando",
