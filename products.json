@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-222e72c6-5134-4647-a728-bd429231e9ae",
+      "name": "Organizador de Rolos",
+      "description": "Otimize o espaço da sua cozinha e mantenha os essenciais sempre à mão com este suporte organizador de parede para rolos. Uma solução inteligente, discreta e moderna para acabar com a desarrumação nas gavetas.",
+      "price": 15,
+      "category": "Cozinha",
+      "images": [
+        "images/products/mid-222e72c6-5134-4647-a728-bd429231e9ae-0df00916.webp",
+        "images/products/mid-222e72c6-5134-4647-a728-bd429231e9ae-f9584747.webp"
+      ]
+    },
+    {
       "id": "mid-5f514d06-9184-42c1-934c-b858fd83c65e",
       "name": "Enfeite Decorativo de Natal - cervo",
       "description": "Transforme a sua casa num ambiente acolhedor e mágico nesta época festiva com este enfeite decorativo de Natal iluminado. Com um design encantador em formato de círculo com laço, esta peça combina elementos tradicionais de inverno para criar uma atmosfera de puro aconchego.",
