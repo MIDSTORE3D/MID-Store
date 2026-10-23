@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-761192cc-82ba-4dce-8a1d-1b2038fa2223",
+      "name": "Porta Papel Higiênico c/ Prateleira",
+      "description": "​Traga máxima praticidade, organização inteligente e um toque de elegância moderna para a sua casa de banho com este versátil suporte para papel higiênico com prateleira! Perfeito para aliar utilidade e estilo em cada detalhe do ambiente.  ",
+      "price": 24,
+      "category": "Banheiro",
+      "images": [
+        "images/products/mid-761192cc-82ba-4dce-8a1d-1b2038fa2223-96712321.webp",
+        "images/products/mid-761192cc-82ba-4dce-8a1d-1b2038fa2223-291cf52d.webp",
+        "images/products/mid-761192cc-82ba-4dce-8a1d-1b2038fa2223-a0cbfdaf.webp"
+      ]
+    },
+    {
       "id": "mid-ac157985-5be3-4075-adf6-421a5fd6790a",
       "name": "Kit Organizadores de Bancada Canelados para Algodão e Acessórios",
       "description": "Traga elegância, organização e um toque de spa para a sua casa de banho ou toucador com este deslumbrante conjunto de organizadores com textura canelada! Perfeito para manter discos de algodão e pequenos itens de skincare sempre arrumados e acessíveis com muito estilo.  ",
