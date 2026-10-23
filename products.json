@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-14151d0b-7fa6-4758-8a37-3f87be40c3ba",
+      "name": "Porta Canetas Gato Dormindo",
+      "description": "Um pequeno gato dormindo aninhado dentro de um organizador macio inspirado em uma bola de lã.\n​\n​Perfeito como porta-canetas, organizador de mesa, pequeno vaso de plantas ou recipiente decorativo para guardar seus itens favoritos.",
+      "price": 35,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-14151d0b-7fa6-4758-8a37-3f87be40c3ba-14ebdefa.webp",
+        "images/products/mid-14151d0b-7fa6-4758-8a37-3f87be40c3ba-1479f75d.webp"
+      ]
+    },
+    {
       "id": "mid-8d5653b4-fbe9-4bee-b76e-19e15ceb4fa6",
       "name": "Porta Pincéis Orelha de Gato",
       "description": "Traga toda a fofura e o encanto para a sua penteadeira ou escrivaninha com este adorável organizador em formato de gatinho! Perfeito para manter os seus acessórios de maquilhagem e itens essenciais sempre arrumados com muito estilo.  ",
