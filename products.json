@@ -10,6 +10,20 @@
   ],
   "products": [
     {
+      "id": "mid-48a60312-3c82-4389-ae60-20290c95063e",
+      "name": "Caixas Organizadoras",
+      "description": "Dê um toque de requinte e modernidade à sua decoração com estas caixas organizadoras com padrão texturizado e suporte. Uma peça sofisticada que une o design contemporâneo à máxima utilidade para manter o seu espaço arrumado com muito estilo. ",
+      "price": 44,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-48a60312-3c82-4389-ae60-20290c95063e-5cab9ca9.webp",
+        "images/products/mid-48a60312-3c82-4389-ae60-20290c95063e-e9c6b2e2.webp",
+        "images/products/mid-48a60312-3c82-4389-ae60-20290c95063e-ea3a4ec8.webp",
+        "images/products/mid-48a60312-3c82-4389-ae60-20290c95063e-d05ef70b.webp",
+        "images/products/mid-48a60312-3c82-4389-ae60-20290c95063e-a651fa5f.webp"
+      ]
+    },
+    {
       "id": "mid-eb4a7a9d-956e-4edf-8cad-b2f6345b7824",
       "name": "Organizador de Mesa",
       "description": "Mantenha a sua mesa de trabalho, toucador ou secretária perfeitamente organizada com este suporte organizador multiusos. Uma peça moderna e funcional que une compartimentos abertos e um recipiente fechado para otimizar o seu espaço.  ",
