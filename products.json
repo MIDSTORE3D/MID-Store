@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-7615f6a4-1f03-43ba-8c78-bedbe8f06435",
+      "name": "Chaveiro 3 em 1 - Papai Noel",
+      "description": "Deixe o Natal ainda mais divertido com este chaveiro de Papai Noel multifuncional, perfeito para presentear amigos, familiares e clientes!",
+      "price": 8,
+      "category": "Natal",
+      "images": [
+        "images/products/mid-7615f6a4-1f03-43ba-8c78-bedbe8f06435-ee6b6b28.webp",
+        "images/products/mid-7615f6a4-1f03-43ba-8c78-bedbe8f06435-581a535f.webp"
+      ]
+    },
+    {
       "id": "mid-d73c48e6-1aaf-4482-ad4b-2734186af618",
       "name": "Porta Absorvente",
       "description": "ele armazena absorventes maxi, enquanto mantém uma estética organizada e semelhante a um spa em sua bancada ou dentro de um armário.\n",
