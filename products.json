@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-af4af233-2107-4d24-879b-692b8bb92483",
+      "name": "Vaso Poligonais",
+      "description": "Traga mais elegância e estilo para a sua decoração com este vaso decorativo com padrão texturizado e suporte inclinado. Uma peça moderna e sofisticada, perfeita para dar destaque às suas plantas favoritas e valorizar qualquer ambiente da casa. ",
+      "price": 30,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-af4af233-2107-4d24-879b-692b8bb92483-6c511458.webp",
+        "images/products/mid-af4af233-2107-4d24-879b-692b8bb92483-1242627c.webp",
+        "images/products/mid-af4af233-2107-4d24-879b-692b8bb92483-c10838a4.webp",
+        "images/products/mid-af4af233-2107-4d24-879b-692b8bb92483-447e313f.webp"
+      ]
+    },
+    {
       "id": "mid-f07ed214-00e4-4b5a-ae7f-8a80efaef3c2",
       "name": "Prateleira Derretida",
       "description": "Adicione um toque de originalidade, estilo moderno e um visual contemporâneo único a qualquer divisão com esta incrível prateleira de parede com efeito de derretimento! Perfeita para quem adora decoração ousada e cheia de personalidade.  ",
