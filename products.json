@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-363b828c-cff1-4092-b6c6-6e1d7ae98d7d",
+      "name": "Suporte para Lata  inspirado no Redbull c/ tampa",
+      "description": "Traga mais estilo, praticidade e diversão para os seus momentos de lazer com esta incrível caneca porta-lata temática! Perfeita para manter a sua bebida favorita sempre fresca e com um visual cheio de personalidade.",
+      "price": 33,
+      "category": "Cozinha",
+      "images": [
+        "images/products/mid-363b828c-cff1-4092-b6c6-6e1d7ae98d7d-956dcd61.webp",
+        "images/products/mid-363b828c-cff1-4092-b6c6-6e1d7ae98d7d-623ace75.webp",
+        "images/products/mid-363b828c-cff1-4092-b6c6-6e1d7ae98d7d-2402d614.webp",
+        "images/products/mid-363b828c-cff1-4092-b6c6-6e1d7ae98d7d-d4349886.webp"
+      ]
+    },
+    {
       "id": "mid-766b02de-527c-47df-8b57-b8b055f22989",
       "name": "Porta Chaves - Home",
       "description": "Organize suas chaves com estilo e um toque acolhedor com este porta-chaves 3D. Desenhado com a encantadora frase \"Home Sweet Home\", este porta-chaves não é apenas funcional, mas também uma linda peça decorativa para sua casa.",
