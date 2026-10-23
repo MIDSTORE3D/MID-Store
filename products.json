@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-55e2fbba-fb6d-4366-a128-e09d32941e3e",
+      "name": "Vaso Redondo",
+      "description": "Traga um toque de modernidade, delicadeza e muita cor para a decoração da sua casa com este encantador cachepô decorativo com textura de bolhas! Perfeito para iluminar qualquer ambiente e dar destaque às suas plantas favoritas.  ",
+      "price": 11,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-55e2fbba-fb6d-4366-a128-e09d32941e3e-ebc8060b.webp",
+        "images/products/mid-55e2fbba-fb6d-4366-a128-e09d32941e3e-aadd02d3.webp",
+        "images/products/mid-55e2fbba-fb6d-4366-a128-e09d32941e3e-a7802b80.webp",
+        "images/products/mid-55e2fbba-fb6d-4366-a128-e09d32941e3e-c36c0964.webp"
+      ]
+    },
+    {
       "id": "mid-760046a3-3b28-4504-9414-3c0a9b2a62c1",
       "name": "Organizador Temático Livros de Cristais",
       "description": "Traga um toque de mistério, elegância e muita personalidade para a sua penteadeira ou escrivaninha com este deslumbrante organizador em formato de livros com cristais! Perfeito para quem ama uma estética sofisticada, gótica suave ou cheia de encanto literário.  ",
