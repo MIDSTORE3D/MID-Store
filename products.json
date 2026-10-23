@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-271dd66b-44d0-431d-b5ee-0cb7cbf4e878",
+      "name": "Suporte para Pente",
+      "description": "​Traga um toque de elegância orgânica, sofisticação e máxima organização para a sua casa de banho ou toucador com este belíssimo suporte organizador texturizado! Perfeito para armazenar escovas de cabelo, pentes e acessórios com um charme único.  ",
+      "price": 22,
+      "category": "Beleza",
+      "images": [
+        "images/products/mid-271dd66b-44d0-431d-b5ee-0cb7cbf4e878-6b7030d4.webp",
+        "images/products/mid-271dd66b-44d0-431d-b5ee-0cb7cbf4e878-22ee24df.webp"
+      ]
+    },
+    {
       "id": "mid-bf4b4292-0519-4f8b-b728-25600d2a5aa2",
       "name": "Caixa de Enrolar Cabo USB",
       "description": "​Diga adeus aos fios emaranhados com muito charme e fofura! Este adorável organizador de cabos em formato de macaron combina a estética irresistível da alta pastelaria francesa com a máxima praticidade para o seu dia a dia.  ",
