@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-e20a954b-bd48-42c1-ae94-ad0a09ed96a1",
+      "name": "Suporte para Cápsulas Xícara de Café",
+      "description": "Organizador de cápsulas de café elegante e funcional em forma de xícara de café, projetado para guardar suas cápsulas favoritas de forma organizada e acessível. As ranhuras verticais facilitam a visualização e seleção do seu sabor desejado, enquanto a base resistente garante estabilidade em qualquer bancada. Seu acabamento preto elegante combina perfeitamente com estilos de cozinha modernos e clássicos, tornando-o tanto uma solução prática de armazenamento quanto um toque decorativo para amantes de café.",
+      "price": 54,
+      "category": "Cozinha",
+      "images": [
+        "images/products/mid-e20a954b-bd48-42c1-ae94-ad0a09ed96a1-c877f0f3.webp",
+        "images/products/mid-e20a954b-bd48-42c1-ae94-ad0a09ed96a1-60811904.webp",
+        "images/products/mid-e20a954b-bd48-42c1-ae94-ad0a09ed96a1-41424905.webp"
+      ]
+    },
+    {
       "id": "mid-f2d8d941-3d29-480b-b217-a713aae32a3e",
       "name": "Suporte para Cápsulas Dolce Gusto",
       "description": "Traga elegância, praticidade e muita sofisticação para o seu cantinho do café com esta incrível torre organizadora para cápsulas Dolce Gusto! Perfeita para manter as suas cápsulas favoritas sempre organizadas, acessíveis e expostas com muito estilo.",
