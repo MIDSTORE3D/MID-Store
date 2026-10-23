@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-b09da9a3-2c71-489e-8e54-4352fded6ecc",
+      "name": "Bandeija Organizadora",
+      "description": "Mantenha a sua secretária, toucador ou mesa de entrada sempre organizada e cheia de estilo com este tabuleiro oval decorativo. Uma peça versátil que combina um design moderno e sofisticado para otimizar o seu espaço.  ",
+      "price": 24,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-b09da9a3-2c71-489e-8e54-4352fded6ecc-5dd4cfb9.webp",
+        "images/products/mid-b09da9a3-2c71-489e-8e54-4352fded6ecc-3212b877.webp"
+      ]
+    },
+    {
       "id": "mid-5263bf05-c0bc-49e3-89ae-d084347b2f50",
       "name": "Kit floral com Tampa",
       "description": "Dê um toque de delicadeza, cor e organização ao seu espaço com este conjunto de recipientes decorativos com tampa e tabuleiro. Uma peça encantadora e funcional, perfeita para manter o seu toucador, casa de banho ou quarto sempre arrumados com muito estilo.  ",
