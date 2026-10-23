@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-385ee7f3-058f-4cbd-ba53-2758fb7c7b77",
+      "name": "Organizador Multiuso",
+      "description": "Traga muita fofura, charme e organização para a sua escrivaninha, estante ou mesa de centro com este adorável organizador em formato de gatinho! Perfeito para manter os seus itens essenciais sempre arrumados com muito estilo.  ",
+      "price": 30,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-385ee7f3-058f-4cbd-ba53-2758fb7c7b77-e6abd2af.webp",
+        "images/products/mid-385ee7f3-058f-4cbd-ba53-2758fb7c7b77-6ad2d63b.webp"
+      ]
+    },
+    {
       "id": "mid-8e58aad6-50ea-47ae-8c2c-9b12d2fca336",
       "name": "Suporte para Garrafa de Vinho - Boneco de Neve",
       "description": "Surpreenda os seus convidados e adicione um toque de diversão, charme e originalidade à sua mesa com este incrível suporte para garrafa de vinho em formato de boneco de neve! Perfeito para as celebrações de fim de ano ou para os amantes de uma boa decoração temática. ",
