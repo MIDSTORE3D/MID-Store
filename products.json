@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-b23bb217-842f-4922-8358-5b75734e0e1a",
+      "name": "Porta Lapis Animais",
+      "description": "Traga toda a fofura, alegria e organização para a escrivaninha, o quarto infantil ou o espaço de estudo com este adorável conjunto de organizadores temáticos! Perfeito para guardar lápis, canetas, tesouras e materiais de papelaria com um visual encantador.  ",
+      "price": 30,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-b23bb217-842f-4922-8358-5b75734e0e1a-7ecbac11.webp",
+        "images/products/mid-b23bb217-842f-4922-8358-5b75734e0e1a-4bec9302.webp",
+        "images/products/mid-b23bb217-842f-4922-8358-5b75734e0e1a-574c63f3.webp"
+      ]
+    },
+    {
       "id": "mid-6b19ca43-2772-4a28-a91a-24ccbf4cb474",
       "name": "Porta Jóias Árvore",
       "description": "Traga elegância, sofisticação e máxima organização para a sua penteadeira ou toucador com este deslumbrante porta-jóias em formato de árvore com gaveta! Perfeito para expor e proteger as suas peças favoritas com um charme incomparável.  ",
