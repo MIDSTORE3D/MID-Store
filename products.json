@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-4d7ba3a5-96c3-4626-b0c5-1da43ea2b379",
+      "name": "Caixa com Gavetas",
+      "description": "Adicione um toque de pura fofura, cor e organização para a sua escrivaninha, penteadeira ou cantinho criativo com este adorável mini gaveteiro temático! Perfeito para guardar pequenos acessórios, artigos de papelaria ou jóias com muito estilo e diversão.",
+      "price": 40,
+      "category": "Decoração",
+      "images": [
+        "images/products/mid-4d7ba3a5-96c3-4626-b0c5-1da43ea2b379-e1998e69.webp",
+        "images/products/mid-4d7ba3a5-96c3-4626-b0c5-1da43ea2b379-505766e1.webp"
+      ]
+    },
+    {
       "id": "mid-176c5929-f95c-4721-9e5a-786b925a410c",
       "name": "Pote de Coração - Pequeno",
       "description": "Adicione um toque de romance, elegância e muita organização aos seus espaços com este encantador conjunto de caixas organizadoras cilíndricas! Perfeitas para manter os seus pertences arrumados com um visual cativante e moderno.  ",
