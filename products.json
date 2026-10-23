@@ -10,6 +10,17 @@
   ],
   "products": [
     {
+      "id": "mid-ccbcbdae-8b49-46c1-a79a-05c6359d3b4d",
+      "name": "Suporte Escorredor para Sabonete",
+      "description": "É uma solução compacta e prática para a pia do seu banheiro ou cozinha. Use-o como porta-sabonete, suporte para escova de dentes, porta-escova de louça ou bandeja de secagem mini. Projetado com dois compartimentos verticais e uma base inclinada com sulcos de drenagem para manter a água longe de suas superfícies.",
+      "price": 20,
+      "category": "Banheiro",
+      "images": [
+        "images/products/mid-ccbcbdae-8b49-46c1-a79a-05c6359d3b4d-ade1d240.webp",
+        "images/products/mid-ccbcbdae-8b49-46c1-a79a-05c6359d3b4d-3d0e2e57.webp"
+      ]
+    },
+    {
       "id": "mid-5ce9a4b8-d09c-43ef-acbd-13562716fca4",
       "name": "Porta objetos - Coração",
       "description": "Traga mais charme, organização e delicadeza para a sua bancada, toucador ou escritório com este lindo organizador multiuso texturizado! Prático e elegante, ele é perfeito para manter os seus acessórios sempre à mão.",
