@@ -1,4 +1,4 @@
-const CACHE='mid-store-v8-galeria-zoom-clientes';
+const CACHE='mid-store-v9-variacoes-de-preco';
 const SHELL=['./','./index.html','./styles.css','./app.js','./photo-picker-fix.js','./product-gallery.js','./product-gallery.css','./config.js','./icon.svg','./manifest.webmanifest'];
 self.addEventListener('install',event=>{
   event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL)));

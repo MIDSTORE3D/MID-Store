@@ -168,6 +168,27 @@
       if(submit){submit.disabled=true;submit.textContent='Preparando imagens…';}
       try{const fd=new FormData(form);if(editing&&!productId)throw Error('Produto não identificado. Abra a edição novamente.');
         const data={name:fd.get('name'),price:Number(fd.get('price')),category:fd.get('category'),description:fd.get('description'),images:[],imageOrder:[]};
+        // Preserva as variações cadastradas no painel ao publicar imagens novas ou existentes.
+        const toggle=form.querySelector('#mid-has-variants');
+        if(toggle){
+          const variants=[];
+          if(toggle.checked){
+            const rows=[...form.querySelectorAll('.mid-variant-row')];
+            if(!rows.length)throw Error('Adicione pelo menos um tamanho / opção.');
+            const names=new Set();
+            for(const row of rows){
+              const label=row.querySelector('.mid-variant-label')?.value.trim()||'';
+              const raw=row.querySelector('.mid-variant-price')?.value.trim()||'';
+              const price=Number(raw);
+              if(!label||!raw||!Number.isFinite(price)||price<0)throw Error('Preencha o tamanho e o preço de cada variação.');
+              const key=label.toLocaleLowerCase('pt-BR');
+              if(names.has(key))throw Error('Há tamanhos / opções repetidos.');
+              names.add(key);variants.push({label,price});
+            }
+            data.price=Math.min(...variants.map(v=>v.price));
+          }
+          data.variants=variants;
+        }
         if(!list.length&&!editing && !confirm('Nenhuma imagem selecionada. Deseja publicar o produto sem imagem?'))return;
         for(let i=0;i<list.length;i++){
           const item=list[i];if(item.kind==='old'){data.imageOrder.push({kind:'old',path:item.path});continue;}
