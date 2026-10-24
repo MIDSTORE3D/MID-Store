@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-648b6c7a-57f6-4d60-81a3-903d27cf29d7",
+      "name": "Porta Escovas de Dentes - Fechamento Automático (vendido separadamente)",
+      "description": "Um suporte de escova de dentes minimalista, impresso no local, projetado para a conveniência do dia a dia\nBasta empurrar a escova de dentes para dentro para fechar a tampa automaticamente\n​Puxe-a para fora naturalmente para abri-la novamente\nSem botões\n​Sem tocar na tampa\n​Apenas um mecanismo simples e satisfatório",
+      "price": 5,
+      "category": "Banheiro",
+      "images": [
+        "images/products/mid-648b6c7a-57f6-4d60-81a3-903d27cf29d7-ab63a785.webp",
+        "images/products/mid-648b6c7a-57f6-4d60-81a3-903d27cf29d7-6c1bb356.webp",
+        "images/products/mid-648b6c7a-57f6-4d60-81a3-903d27cf29d7-b35652ea.webp",
+        "images/products/mid-648b6c7a-57f6-4d60-81a3-903d27cf29d7-ae5f6064.webp"
+      ]
+    },
+    {
       "id": "mid-ec5f1e7a-55c9-478b-b7a4-16e946bda1e2",
       "name": "Porta Utensílios de Cozinha Casa de Gengibre",
       "description": "Traga todo o aconchego, a magia e a doçura do Natal para a sua cozinha com este encantador suporte decorativo em formato de casinha de gengibre! Perfeito para organizar utensílios culinários enquanto transforma a decoração da sua bancada com um toque lúdico e irresistível.  ",
