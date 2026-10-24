@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-64bca21f-3c3d-4fe1-b617-53c57d4387e2",
+      "name": "Trava Portas Gato",
+      "description": "Traga um toque de humor, simpatia e muita funcionalidade para a sua casa com este adorável travão de porta em formato de gatinho! Perfeito para evitar que as portas baterem com o vento, garantindo segurança e uma decoração super divertida.  ",
+      "price": 13,
+      "category": "Decoração",
+      "variants": [],
+      "images": [
+        "images/products/mid-64bca21f-3c3d-4fe1-b617-53c57d4387e2-95feab89.webp",
+        "images/products/mid-64bca21f-3c3d-4fe1-b617-53c57d4387e2-7b899330.webp",
+        "images/products/mid-64bca21f-3c3d-4fe1-b617-53c57d4387e2-84fbaf6f.webp"
+      ]
+    },
+    {
       "id": "mid-c6ba557c-e793-4ddd-b8e0-42a54490b817",
       "name": "Porta Jóias Gato",
       "description": "Traga todo o encanto, a delicadeza e a máxima organização para a sua penteadeira ou toucador com este deslumbrante expositor de joias em formato de gato e árvore! Perfeito para manter colares, pulseiras, anéis e pequenos acessórios sempre arrumados com um toque lúdico e muito sofisticado.  ",
