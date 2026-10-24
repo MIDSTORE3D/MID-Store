@@ -1,15 +1,33 @@
-/* MID Store — botão de compartilhamento do produto */
-.mid-product-share {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-  width: 100%;
-  max-width: 370px;
-  margin-top: 11px;
-  background: #241622;
-  color: #ffe3f1;
-  border: 1px solid #ae688d;
+/* MID Store — ícone de compartilhamento no canto superior direito do produto. */
+.mid-share-topbar{
+  display:flex;
+  align-items:center;
+  justify-content:flex-end;
+  margin:12px 0 -13px;
 }
-.mid-product-share svg {width: 19px;height: 19px;flex-shrink: 0;fill: none;stroke: currentColor;stroke-width: 1.9;stroke-linecap: round;stroke-linejoin: round;}
-.mid-product-share:focus-visible {outline: 2px solid #f08ab5;outline-offset: 3px;}
+.mid-share-topbar + .detail{margin-top:18px;}
+.mid-product-share{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  width:44px;
+  height:44px;
+  padding:0;
+  border:1px solid #77415e;
+  border-radius:12px;
+  background:#241622;
+  color:#ffe3f1;
+  cursor:pointer;
+  transition:background-color .15s,border-color .15s;
+}
+.mid-product-share:hover{background:#382034;border-color:#e875a8;}
+.mid-product-share:focus-visible{outline:2px solid #f08ab5;outline-offset:3px;}
+.mid-product-share svg{
+  width:21px;
+  height:21px;
+  fill:none;
+  stroke:currentColor;
+  stroke-width:1.9;
+  stroke-linecap:round;
+  stroke-linejoin:round;
+}

@@ -1,5 +1,5 @@
-/* MID Store — compartilhar link de produto (Web Share API + copiar link).
-   Funciona com as rotas #/produto/ID, sem exigir mudanças no backend. */
+/* MID Store — compartilhar produto com ícone discreto no topo da página.
+   Mantém o compartilhamento nativo e a alternativa de copiar o link. */
 (()=>{'use strict';
   const view=document.getElementById('view');
   if(!view)return;
@@ -17,7 +17,6 @@
     if(navigator.clipboard && typeof navigator.clipboard.writeText==='function'){
       try{await navigator.clipboard.writeText(url);return true;}catch(_){}
     }
-    // Fallback para navegadores móveis sem Clipboard API.
     const input=document.createElement('textarea');
     input.value=url;
     input.setAttribute('readonly','');
@@ -42,7 +41,6 @@
         await navigator.share({title:name+' | MID Store',text:'Confira este produto na MID Store!',url});
         return;
       }catch(error){
-        // O usuário fechou o menu sem compartilhar; não é um erro.
         if(error?.name==='AbortError')return;
       }
     }
@@ -53,16 +51,18 @@
 
   function mountButton(){
     const detail=view.querySelector('.detail');
-    if(!detail)return;
-    const whatsapp=detail.querySelector('#whatsapp');
-    if(!whatsapp||detail.querySelector('.mid-product-share'))return;
+    if(!detail||view.querySelector('.mid-share-topbar'))return;
+    const bar=document.createElement('div');
+    bar.className='mid-share-topbar';
     const button=document.createElement('button');
     button.type='button';
-    button.className='btn mid-product-share';
-    button.setAttribute('aria-label','Compartilhar link deste produto');
-    button.innerHTML='<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m8.7 10.6 6.6-4.2M8.7 13.4l6.6 4.2"/></svg><span>Compartilhar produto</span>';
+    button.className='mid-product-share';
+    button.setAttribute('aria-label','Compartilhar produto');
+    button.setAttribute('title','Compartilhar produto');
+    button.innerHTML='<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m8.7 10.6 6.6-4.2M8.7 13.4l6.6 4.2"/></svg>';
     button.addEventListener('click',shareProduct);
-    whatsapp.insertAdjacentElement('afterend',button);
+    bar.append(button);
+    detail.before(bar);
   }
   mountButton();
   new MutationObserver(mountButton).observe(view,{childList:true,subtree:true});
