@@ -1,5 +1,5 @@
-const CACHE='mid-store-v9-variacoes-de-preco';
-const SHELL=['./','./index.html','./styles.css','./app.js','./photo-picker-fix.js','./product-gallery.js','./product-gallery.css','./config.js','./icon.svg','./manifest.webmanifest'];
+const CACHE='mid-store-v10-compartilhar-produtos';
+const SHELL=['./','./index.html','./styles.css','./app.js','./photo-picker-fix.js','./product-gallery.js','./product-gallery.css','./product-share.js','./product-share.css','./config.js','./icon.svg','./manifest.webmanifest'];
 self.addEventListener('install',event=>{
   event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL)));
   self.skipWaiting();

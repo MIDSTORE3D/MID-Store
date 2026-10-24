@@ -1,0 +1,15 @@
+/* MID Store — botão de compartilhamento do produto */
+.mid-product-share {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+  max-width: 370px;
+  margin-top: 11px;
+  background: #241622;
+  color: #ffe3f1;
+  border: 1px solid #ae688d;
+}
+.mid-product-share svg {width: 19px;height: 19px;flex-shrink: 0;fill: none;stroke: currentColor;stroke-width: 1.9;stroke-linecap: round;stroke-linejoin: round;}
+.mid-product-share:focus-visible {outline: 2px solid #f08ab5;outline-offset: 3px;}
