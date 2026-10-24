@@ -32,9 +32,35 @@ async function github(env,path,method='GET',data){
 }
 async function loadDB(env){const file=await github(env,'products.json');return {file,db:JSON.parse(from64(file.content.replace(/\s/g,'')))};}
 async function saveDB(env,db,sha){return github(env,'products.json','PUT',{message:'MID Store: atualizar catálogo',content:to64(JSON.stringify(db,null,2)),sha,branch:env.GITHUB_BRANCH||'main'});}
-function validateRecord(data,db){const name=String(data.name||'').trim().slice(0,120),description=String(data.description||'').slice(0,2500),price=Number(data.price),category=String(data.category||'');
-  if(!name||!Number.isFinite(price)||price<0||!db.categories.includes(category))throw Error('Produto inválido: confira nome, preço e categoria.');
-  return {name,description,price,category};
+function validateRecord(data,db){
+  const name=String(data.name||'').trim().slice(0,120);
+  const description=String(data.description||'').slice(0,2500);
+  const category=String(data.category||'');
+  const price=Number(data.price);
+  if(!name||data.price===''||data.price===null||!Number.isFinite(price)||price<0||!db.categories.includes(category))
+    throw Error('Produto inválido: confira nome, preço e categoria.');
+  const record={name,description,price,category};
+  // O campo opcional preserva compatibilidade com aplicativos mais antigos.
+  if(data.variants!==undefined){
+    if(!Array.isArray(data.variants)||data.variants.length>20)
+      throw Error('Use no máximo 20 variações por produto.');
+    const seen=new Set();
+    const variants=[];
+    for(const item of data.variants){
+      const label=typeof item?.label==='string'?item.label.trim():'';
+      const raw=item?.price;
+      const value=Number(raw);
+      if(!label||label.length>60||raw===''||raw===null||raw===undefined||!Number.isFinite(value)||value<0)
+        throw Error('Preencha o nome e preço de cada variação.');
+      const unique=label.toLocaleLowerCase('pt-BR');
+      if(seen.has(unique))throw Error('Há tamanhos / opções com nomes repetidos.');
+      seen.add(unique);
+      variants.push({label,price:value});
+    }
+    record.variants=variants;
+    if(variants.length)record.price=Math.min(...variants.map(v=>v.price));
+  }
+  return record;
 }
 async function saveImages(env,files,id){
   if(!Array.isArray(files)||files.length>8)throw Error('Máximo de 8 imagens por envio.');
