@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-ff62bc34-de4b-4b1e-8f92-e8cd778c9a81",
+      "name": "Porta Chás",
+      "description": "Traga elegância, ordem e um toque de sofisticação para o seu cantinho do chá ou cozinha com este incrível dispensador vertical para saquetas de chá! Perfeito para armazenar as suas saquetas favoritas de forma higiénica, acessível e muito estilosa.  ",
+      "price": 33,
+      "category": "Cozinha",
+      "variants": [],
+      "images": [
+        "images/products/mid-ff62bc34-de4b-4b1e-8f92-e8cd778c9a81-d5553c0f.webp",
+        "images/products/mid-ff62bc34-de4b-4b1e-8f92-e8cd778c9a81-6860417a.webp",
+        "images/products/mid-ff62bc34-de4b-4b1e-8f92-e8cd778c9a81-e0abd139.webp"
+      ]
+    },
+    {
       "id": "mid-64bca21f-3c3d-4fe1-b617-53c57d4387e2",
       "name": "Trava Portas Gato",
       "description": "Traga um toque de humor, simpatia e muita funcionalidade para a sua casa com este adorável travão de porta em formato de gatinho! Perfeito para evitar que as portas baterem com o vento, garantindo segurança e uma decoração super divertida.  ",
