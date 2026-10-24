@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-c6ba557c-e793-4ddd-b8e0-42a54490b817",
+      "name": "Porta Jóias Gato",
+      "description": "Traga todo o encanto, a delicadeza e a máxima organização para a sua penteadeira ou toucador com este deslumbrante expositor de joias em formato de gato e árvore! Perfeito para manter colares, pulseiras, anéis e pequenos acessórios sempre arrumados com um toque lúdico e muito sofisticado.  ",
+      "price": 40,
+      "category": "Beleza",
+      "variants": [],
+      "images": [
+        "images/products/mid-c6ba557c-e793-4ddd-b8e0-42a54490b817-192ffc98.webp",
+        "images/products/mid-c6ba557c-e793-4ddd-b8e0-42a54490b817-11a791a3.webp",
+        "images/products/mid-c6ba557c-e793-4ddd-b8e0-42a54490b817-0b4482bb.webp"
+      ]
+    },
+    {
       "id": "mid-648b6c7a-57f6-4d60-81a3-903d27cf29d7",
       "name": "Porta Escovas de Dentes - Fechamento Automático (vendido separadamente)",
       "description": "Um suporte de escova de dentes minimalista, impresso no local, projetado para a conveniência do dia a dia\nBasta empurrar a escova de dentes para dentro para fechar a tampa automaticamente\n​Puxe-a para fora naturalmente para abri-la novamente\nSem botões\n​Sem tocar na tampa\n​Apenas um mecanismo simples e satisfatório",
