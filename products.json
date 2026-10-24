@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-2fdf294a-8a15-4e49-8a56-fedae379ab7a",
+      "name": "Dispensador de Sacolas Plásticas",
+      "description": "Este tubo de armazenamento ecológico ajuda você a coletar e organizar de forma organizada sacolas plásticas extras em casa. Em vez de deixar as sacolas se acumularem em um canto bagunçado ou jogá-las fora, você pode guardá-las convenientemente e reutilizá-las quando necessário. Isso mantém sua casa mais limpa, organizada e sustentável",
+      "price": 30,
+      "category": "Acessórios",
+      "variants": [],
+      "images": [
+        "images/products/mid-2fdf294a-8a15-4e49-8a56-fedae379ab7a-4297a8b3.webp",
+        "images/products/mid-2fdf294a-8a15-4e49-8a56-fedae379ab7a-648ee468.webp",
+        "images/products/mid-2fdf294a-8a15-4e49-8a56-fedae379ab7a-f19ed349.webp"
+      ]
+    },
+    {
       "id": "mid-ff62bc34-de4b-4b1e-8f92-e8cd778c9a81",
       "name": "Porta Chás",
       "description": "Traga elegância, ordem e um toque de sofisticação para o seu cantinho do chá ou cozinha com este incrível dispensador vertical para saquetas de chá! Perfeito para armazenar as suas saquetas favoritas de forma higiénica, acessível e muito estilosa.  ",
