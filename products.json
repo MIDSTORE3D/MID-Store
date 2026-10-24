@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-e503a672-188e-4273-9ee7-df16c1680450",
+      "name": "Porta Latas Country",
+      "description": "Dê um toque country à sua bebida com este porta-latas em formato de bota! O modelo possui alça integrada, arabescos em alto-relevo, acabamento inspirado em botas western e uma plaqueta frontal que pode ser personalizada.",
+      "price": 80,
+      "category": "Cozinha",
+      "variants": [],
+      "images": [
+        "images/products/mid-e503a672-188e-4273-9ee7-df16c1680450-5d4651af.webp",
+        "images/products/mid-e503a672-188e-4273-9ee7-df16c1680450-62f3086e.webp",
+        "images/products/mid-e503a672-188e-4273-9ee7-df16c1680450-0851bb56.webp"
+      ]
+    },
+    {
       "id": "mid-2fdf294a-8a15-4e49-8a56-fedae379ab7a",
       "name": "Dispensador de Sacolas Plásticas",
       "description": "Este tubo de armazenamento ecológico ajuda você a coletar e organizar de forma organizada sacolas plásticas extras em casa. Em vez de deixar as sacolas se acumularem em um canto bagunçado ou jogá-las fora, você pode guardá-las convenientemente e reutilizá-las quando necessário. Isso mantém sua casa mais limpa, organizada e sustentável",
