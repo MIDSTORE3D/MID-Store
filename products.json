@@ -10,6 +10,21 @@
   ],
   "products": [
     {
+      "id": "mid-6d2b80db-1b8b-48ea-a334-f08897cd8ceb",
+      "name": "Prateleira de Parede em Arco",
+      "description": "Eleve seu espaço com esta moderna prateleira de parede em arco, projetada para combinar estilo e funcionalidade em uma única peça elegante.",
+      "price": 40,
+      "category": "Decoração",
+      "variants": [],
+      "images": [
+        "images/products/mid-6d2b80db-1b8b-48ea-a334-f08897cd8ceb-50f125fa.webp",
+        "images/products/mid-6d2b80db-1b8b-48ea-a334-f08897cd8ceb-fd319a42.webp",
+        "images/products/mid-6d2b80db-1b8b-48ea-a334-f08897cd8ceb-351b1d5d.webp",
+        "images/products/mid-6d2b80db-1b8b-48ea-a334-f08897cd8ceb-7ea75397.webp",
+        "images/products/mid-6d2b80db-1b8b-48ea-a334-f08897cd8ceb-e4382576.webp"
+      ]
+    },
+    {
       "id": "mid-91fa241f-408e-4c7f-8f92-a656586f6920",
       "name": "Conjunto Decorativo",
       "description": "",
