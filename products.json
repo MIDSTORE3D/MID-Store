@@ -1860,6 +1860,18 @@
     "whatsapp": "5511937363676",
     "bannerTitle": "Feito para surpreender.",
     "bannerSubtitle": "Peças criativas e detalhes que fazem a diferença.",
-    "bannerEnabled": true
+    "bannerEnabled": true,
+    "theme": {
+      "background": "#0b0c13",
+      "text": "#f9eff8",
+      "accent": "#e875a8",
+      "accentText": "#260c20",
+      "card": "#16151e",
+      "muted": "#b3aebb",
+      "heroStart": "#24131f",
+      "heroMiddle": "#8d3bba",
+      "heroEnd": "#000000",
+      "heroAngle": 100
+    }
   }
 }
