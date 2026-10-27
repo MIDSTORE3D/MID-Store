@@ -10,6 +10,22 @@
   ],
   "products": [
     {
+      "id": "mid-c45c2686-5b7f-4e6d-b686-87a84bffc4e9",
+      "name": "Moedor de Sal e Pimenta Manual",
+      "description": "Traga elegância escandinava, sofisticação e funcionalidade para a sua mesa de refeições ou bancada com este deslumbrante moedor de temperos refinado! Perfeito para moer grãos frescos com estilo e elevar a apresentação da sua cozinha ou área gourmet.  ",
+      "price": 30,
+      "category": "Cozinha",
+      "variants": [],
+      "images": [
+        "images/products/mid-c45c2686-5b7f-4e6d-b686-87a84bffc4e9-d0d1b7bf.webp",
+        "images/products/mid-c45c2686-5b7f-4e6d-b686-87a84bffc4e9-18403f7b.webp",
+        "images/products/mid-c45c2686-5b7f-4e6d-b686-87a84bffc4e9-91e26d58.webp",
+        "images/products/mid-c45c2686-5b7f-4e6d-b686-87a84bffc4e9-071e8637.webp",
+        "images/products/mid-c45c2686-5b7f-4e6d-b686-87a84bffc4e9-daaa4d9a.webp",
+        "images/products/mid-c45c2686-5b7f-4e6d-b686-87a84bffc4e9-fcf7c589.webp"
+      ]
+    },
+    {
       "id": "mid-2e2dbb44-9ab2-4679-bc12-601246f80075",
       "name": "Fidget Sensorial",
       "description": "Traga foco, relaxamento e um toque de arte cinética para o seu dia a dia com este incrível fidget toy sensorial em espiral! Perfeito para aliviar o stress, acalmar a mente ou simplesmente descontrair as mãos enquanto decora o ambiente com um visual moderno e hipnotizante.",
