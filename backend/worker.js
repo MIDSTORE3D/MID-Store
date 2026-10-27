@@ -121,6 +121,7 @@ export default {async fetch(req,env){
       return reply({token:payload+'.'+await signature(payload,env.SESSION_SECRET)});
     }
     if(!await authenticated(req,env))return reply({error:'Sessão inválida. Faça login novamente.'},401);
+    if(pathname==='/capabilities'&&req.method==='GET')return reply({theme:true,version:1});
     if(pathname==='/products'||pathname.startsWith('/products/')){
       if(!['POST','PUT','DELETE'].includes(req.method))return reply({error:'Método inválido.'},405);
       const {db,file}=await loadDB(env);
@@ -157,7 +158,19 @@ export default {async fetch(req,env){
       const settings=body.settings||{};
       const cats=Array.isArray(body.categories)?body.categories.map(x=>String(x).trim().slice(0,40)).filter(Boolean).slice(0,30):db.categories;
       db.categories=[...new Set(cats)];
-      db.settings={whatsapp:String(settings.whatsapp||'').replace(/\D/g,'').slice(0,20),bannerTitle:String(settings.bannerTitle||'').slice(0,120),bannerSubtitle:String(settings.bannerSubtitle||'').slice(0,300),bannerEnabled:!!settings.bannerEnabled};
+      // Cores opcionais validadas no servidor. Mantém o tema anterior caso o
+      // painel antigo da loja envie configurações sem o campo theme.
+      const themeKeys=['background','text','accent','accentText','card','muted','heroStart','heroMiddle','heroEnd'];
+      const oldTheme=db.settings?.theme&&typeof db.settings.theme==='object'?db.settings.theme:{};
+      const postedTheme=settings.theme&&typeof settings.theme==='object'&&!Array.isArray(settings.theme)?settings.theme:null;
+      const theme={};
+      for(const key of themeKeys){
+        const input=postedTheme&&Object.prototype.hasOwnProperty.call(postedTheme,key)?postedTheme[key]:oldTheme[key];
+        if(typeof input==='string'&&/^#[0-9a-fA-F]{6}$/.test(input))theme[key]=input;
+      }
+      const angle=postedTheme?.heroAngle??oldTheme.heroAngle;
+      if(angle!==undefined&&Number.isFinite(Number(angle)))theme.heroAngle=Math.max(0,Math.min(360,Math.round(Number(angle))));
+      db.settings={whatsapp:String(settings.whatsapp||'').replace(/\D/g,'').slice(0,20),bannerTitle:String(settings.bannerTitle||'').slice(0,120),bannerSubtitle:String(settings.bannerSubtitle||'').slice(0,300),bannerEnabled:!!settings.bannerEnabled,theme};
       await saveDB(env,db,file.sha);return reply({ok:true});
     }
     return reply({error:'Rota inexistente.'},404);
