@@ -1,0 +1,36 @@
+/* MID Store | Personalização de cores e destaque - preserva o tema original por padrão */
+:root {
+  --mid-bg: #0b0c13;
+  --mid-text: #f9eff8;
+  --mid-accent: #e875a8;
+  --mid-accent-text: #260c20;
+  --mid-card: #16151e;
+  --mid-muted: #b3aebb;
+  --mid-hero-start: #24131f;
+  --mid-hero-middle: #32182d;
+  --mid-hero-end: #170f1d;
+  --mid-hero-angle: 110deg;
+}
+html { background: var(--mid-bg); }
+body { color:var(--mid-text); background:radial-gradient(ellipse at 80% 0, color-mix(in srgb, var(--mid-hero-middle) 58%, var(--mid-bg)), transparent 43%),var(--mid-bg); }
+.hero { background:linear-gradient(var(--mid-hero-angle),var(--mid-hero-start) 0%,var(--mid-hero-middle) 55%,var(--mid-hero-end) 100%); }
+.hero:after { color:var(--mid-accent); }
+.logo span,.sectionhead a,.sectionhead a:hover,.eyebrow { color:var(--mid-accent); }
+.top nav a:hover { color:var(--mid-accent); }
+.top nav a { color:var(--mid-muted); }
+.product { background:var(--mid-card); }
+.product:hover { border-color:var(--mid-accent); }
+.pill.active,.btn.primary,#toast { background:var(--mid-accent); color:var(--mid-accent-text); border-color:var(--mid-accent); }
+.mid-option.selected { border-color:var(--mid-accent);box-shadow:0 0 0 1px var(--mid-accent) inset; }
+.mid-variant-toggle input { accent-color:var(--mid-accent); }
+.hero h1,.sectionhead h2,.product h3,.logo,.price { color:var(--mid-text); }
+.hero p,.sectionhead p,.muted,footer { color:var(--mid-muted); }
+.mid-color-panel {grid-column:1/-1;border:1px solid #69445c;padding:18px;border-radius:15px;background:#17131c;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:12px}
+.mid-color-panel h3,.mid-color-panel p,.mid-color-panel .wide {grid-column:1/-1;margin:0}
+.mid-color-panel h3{color:#fff}.mid-color-panel p{color:#b7a7b4;font-size:12px;line-height:1.6}
+.mid-color-panel .field{display:flex;gap:7px;min-width:0;color:#f0d4e1}
+.mid-color-panel input[type=color]{height:46px;cursor:pointer;padding:3px;border-radius:10px;background:#11111a;border:1px solid #665067}
+.mid-color-panel input[type=range]{width:100%;accent-color:#e875a8}
+.mid-color-preview{min-height:100px;padding:22px;border-radius:12px;border:1px solid #65485d;display:grid;align-content:center}
+.mid-color-preview strong{font-size:23px;color:#fff}.mid-color-preview small{color:#e4cddd}
+@media(max-width:630px){.mid-color-panel{grid-template-columns:1fr}.mid-color-panel h3,.mid-color-panel p,.mid-color-panel .wide{grid-column:auto}}
