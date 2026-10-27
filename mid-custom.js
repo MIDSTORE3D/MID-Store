@@ -5,7 +5,7 @@ const root=document.documentElement,view=document.getElementById('view'),cfg=win
 if(!view)return;
 const defaults={background:'#0b0c13',text:'#f9eff8',accent:'#e875a8',accentText:'#260c20',card:'#16151e',muted:'#b3aebb',heroStart:'#24131f',heroMiddle:'#32182d',heroEnd:'#170f1d',heroAngle:110};
 const colors={background:'--mid-bg',text:'--mid-text',accent:'--mid-accent',accentText:'--mid-accent-text',card:'--mid-card',muted:'--mid-muted',heroStart:'--mid-hero-start',heroMiddle:'--mid-hero-middle',heroEnd:'--mid-hero-end'};
-let store={products:[],categories:[],settings:{}},randomOrder=new Map(),selectedHighlights=false,working=false,lastGrid=null,internalCategoryClick=false;
+let store={products:[],categories:[],settings:{}},randomOrder=new Map(),selectedHighlights=/^#\/catalogo(?:$|\?)/.test(location.hash),working=false,lastGrid=null,internalCategoryClick=false,categoryNavigation=false;
 function validHex(value){return typeof value==='string'&&/^#[0-9a-fA-F]{6}$/.test(value)}
 function sanitize(raw){const t={...defaults};if(raw&&typeof raw==='object'&&!Array.isArray(raw)){for(const k of Object.keys(colors))if(validHex(raw[k]))t[k]=raw[k];const a=Number(raw.heroAngle);if(Number.isFinite(a))t.heroAngle=Math.max(0,Math.min(360,Math.round(a)))}return t}
 function themeApply(t){t=sanitize(t);for(const [k,v]of Object.entries(colors))root.style.setProperty(v,t[k]);root.style.setProperty('--mid-hero-angle',t.heroAngle+'deg');return t}
@@ -14,7 +14,7 @@ function shuffle(){const list=store.products.map(p=>String(p.id));for(let i=list
 async function loadStore(){try{const r=await fetch('products.json',{cache:'no-store'});if(!r.ok)throw Error('Não foi possível ler products.json');const data=await r.json();if(!Array.isArray(data.products))throw Error('Catálogo inválido');store=data;shuffle();lastGrid=null;themeApply(data.settings?.theme);schedule()}catch(e){console.warn('MID Store | personalização:',e)}}
 const reserved=s=>/^(todos|destaques)$/i.test(String(s).trim());
 function categoryInject(){view.querySelectorAll('.categories').forEach(group=>{let existing=group.querySelector('[data-mid-highlights]');if(existing)return;const btn=document.createElement('button');btn.className='pill';btn.type='button';btn.dataset.midHighlights='1';btn.textContent='Destaques';const all=group.querySelector('[data-cat="Todos"]');if(all)group.insertBefore(btn,all);else group.prepend(btn);btn.addEventListener('click',()=>{selectedHighlights=true;lastGrid=null;const todos=group.querySelector('[data-cat="Todos"]');if(todos){internalCategoryClick=true;try{todos.click()}finally{internalCategoryClick=false}}else location.hash='#/catalogo';schedule()})})}
-function onCategoryClick(e){if(!internalCategoryClick&&e.target.closest('[data-cat]')){selectedHighlights=false;lastGrid=null}}
+function onCategoryClick(e){if(!internalCategoryClick&&e.target.closest('[data-cat]')){categoryNavigation=!/^#\/catalogo(?:$|\?)/.test(location.hash);selectedHighlights=false;lastGrid=null}}
 view.addEventListener('click',onCategoryClick,true);
 function updateTabs(){view.querySelectorAll('.categories').forEach(group=>{const highlights=group.querySelector('[data-mid-highlights]');if(!highlights)return;const inCatalog=location.hash.replace(/^#\/?/,'').startsWith('catalogo');highlights.classList.toggle('active',selectedHighlights&&inCatalog);if(selectedHighlights&&inCatalog){group.querySelectorAll('[data-cat]').forEach(b=>b.classList.remove('active'))}})}
 function sortGrid(){const route=location.hash.replace(/^#\/?/,'');if(!/^catalogo/.test(route)){lastGrid=null;return}const grid=view.querySelector('#results .grid');if(!grid){lastGrid=null;return}const mode=selectedHighlights?'highlight':'all';if(grid===lastGrid&&grid.dataset.midSortedMode===mode)return;const cards=Array.from(grid.querySelectorAll(':scope > article.product[data-id]'));if(!cards.length)return;
@@ -42,6 +42,19 @@ form.addEventListener('submit',async e=>{e.preventDefault();e.stopImmediatePropa
 function checkEditorClosed(){if(!view.querySelector('#settingsform'))themeApply(store.settings?.theme)}
 function update(){if(working)return;working=true;try{categoryInject();editorFields();updateTabs();sortGrid();checkEditorClosed()}finally{working=false}}
 let scheduled=false;function schedule(){if(scheduled)return;scheduled=true;queueMicrotask(()=>{scheduled=false;update()})}
-new MutationObserver(schedule).observe(view,{childList:true,subtree:true});window.addEventListener('hashchange',()=>{lastGrid=null;schedule()});
+new MutationObserver(schedule).observe(view,{childList:true,subtree:true});
+window.addEventListener('hashchange',()=>{
+ lastGrid=null;
+ // Ao abrir o catálogo pelo menu, banner ou botão "voltar", inicie em Destaques.
+ // Se o visitante clicou especificamente em uma categoria na página inicial,
+ // respeite a categoria escolhida em vez de forçar Destaques.
+ if(/^#\/catalogo(?:$|\?)/.test(location.hash)&&!categoryNavigation){
+  selectedHighlights=true;
+  const all=view.querySelector('.categories [data-cat="Todos"]');
+  if(all){internalCategoryClick=true;try{all.click()}finally{internalCategoryClick=false}}
+ }
+ categoryNavigation=false;
+ schedule();
+});
 loadStore();schedule();
 })();
