@@ -10,6 +10,20 @@
   ],
   "products": [
     {
+      "id": "mid-992e288c-aa13-40b0-97a4-4a10b2cdae84",
+      "name": "Recipiente para Café Com Tampa de Rosca",
+      "description": "Mantenha seu pó de café fresco e sua rotina de preparo organizada com este suporte de pó de café cuidadosamente projetado. Apresentando uma tampa de rosca segura, este recipiente garante um vedamento hermético para preservar o frescor",
+      "price": 50,
+      "category": "Cozinha",
+      "variants": [],
+      "images": [
+        "images/products/mid-992e288c-aa13-40b0-97a4-4a10b2cdae84-5d33d6d9.webp",
+        "images/products/mid-992e288c-aa13-40b0-97a4-4a10b2cdae84-a016a349.webp",
+        "images/products/mid-992e288c-aa13-40b0-97a4-4a10b2cdae84-a0b57aa2.webp",
+        "images/products/mid-992e288c-aa13-40b0-97a4-4a10b2cdae84-11a5b9cc.webp"
+      ]
+    },
+    {
       "id": "mid-c45c2686-5b7f-4e6d-b686-87a84bffc4e9",
       "name": "Moedor de Sal e Pimenta Manual",
       "description": "Traga elegância escandinava, sofisticação e funcionalidade para a sua mesa de refeições ou bancada com este deslumbrante moedor de temperos refinado! Perfeito para moer grãos frescos com estilo e elevar a apresentação da sua cozinha ou área gourmet.  ",
