@@ -10,6 +10,20 @@
   ],
   "products": [
     {
+      "id": "mid-2ffe3f11-5f75-483d-92a6-a77e9d376073",
+      "name": "Luminária Ondulada",
+      "description": "Ilumine o seu espaço com estilo e originalidade. Este candeeiro de mesa une o design contemporâneo à funcionalidade, tornando-se numa peça de destaque para qualquer divisão, seja na sala de estar, no quarto ou no escritório.",
+      "price": 100,
+      "category": "Decoração",
+      "variants": [],
+      "images": [
+        "images/products/mid-2ffe3f11-5f75-483d-92a6-a77e9d376073-637fb106.webp",
+        "images/products/mid-2ffe3f11-5f75-483d-92a6-a77e9d376073-c8c9090a.webp",
+        "images/products/mid-2ffe3f11-5f75-483d-92a6-a77e9d376073-bf1b844e.webp",
+        "images/products/mid-2ffe3f11-5f75-483d-92a6-a77e9d376073-f82f93fb.webp"
+      ]
+    },
+    {
       "id": "mid-992e288c-aa13-40b0-97a4-4a10b2cdae84",
       "name": "Recipiente para Café Com Tampa de Rosca",
       "description": "Mantenha seu pó de café fresco e sua rotina de preparo organizada com este suporte de pó de café cuidadosamente projetado. Apresentando uma tampa de rosca segura, este recipiente garante um vedamento hermético para preservar o frescor",
