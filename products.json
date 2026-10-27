@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-a2cc0985-30c8-49d3-bab7-d3b54aa779bd",
+      "name": "Organizador de Maquiagem - Coração",
+      "description": "Este organizador em forma de coração é um acessório elegante e prático, perfeito para manter seu espaço organizado enquanto adiciona um toque decorativo 💕\nProjetado para amantes de maquiagem, ele guarda facilmente pincéis, batons, rímel e outros itens essenciais de cosméticos. Ao mesmo tempo, seu design versátil o torna ideal como um organizador de mesa para canetas, marcadores, marca-textos ou pequenos materiais de escritório.",
+      "price": 40,
+      "category": "Beleza",
+      "variants": [],
+      "images": [
+        "images/products/mid-a2cc0985-30c8-49d3-bab7-d3b54aa779bd-b57c4cac.webp",
+        "images/products/mid-a2cc0985-30c8-49d3-bab7-d3b54aa779bd-775693b2.webp"
+      ]
+    },
+    {
       "id": "mid-180e45f3-ecd4-4b37-9421-dd477da603e4",
       "name": "Suporte de celular- Coração",
       "description": "Adicione um toque de charme e romantismo à sua secretária ou mesa de cabeceira com este suporte de telemóvel com um elegante design em forma de coração.  ",
