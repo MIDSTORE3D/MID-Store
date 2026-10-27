@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-443e4806-2b1b-4292-90c7-0de9060d7fe8",
+      "name": "Gancho de Parede Minimalista",
+      "description": "Organize a sua entrada, corredor ou quarto com estilo e alegria com este conjunto de ganchos de parede. Combinando um design minimalista com apontamentos de cor, este acessório é ideal para manter o espaço arrumado sem descurar a estética.  ",
+      "price": 4,
+      "category": "Decoração",
+      "variants": [],
+      "images": [
+        "images/products/mid-443e4806-2b1b-4292-90c7-0de9060d7fe8-3dbf1953.webp",
+        "images/products/mid-443e4806-2b1b-4292-90c7-0de9060d7fe8-a72f9cb3.webp"
+      ]
+    },
+    {
       "id": "mid-6d2b80db-1b8b-48ea-a334-f08897cd8ceb",
       "name": "Prateleira de Parede em Arco",
       "description": "Eleve seu espaço com esta moderna prateleira de parede em arco, projetada para combinar estilo e funcionalidade em uma única peça elegante.",
