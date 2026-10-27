@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-180e45f3-ecd4-4b37-9421-dd477da603e4",
+      "name": "Suporte de celular- Coração",
+      "description": "Adicione um toque de charme e romantismo à sua secretária ou mesa de cabeceira com este suporte de telemóvel com um elegante design em forma de coração.  ",
+      "price": 20,
+      "category": "Acessórios",
+      "variants": [],
+      "images": [
+        "images/products/mid-180e45f3-ecd4-4b37-9421-dd477da603e4-a89ecf92.webp",
+        "images/products/mid-180e45f3-ecd4-4b37-9421-dd477da603e4-f7f77446.webp",
+        "images/products/mid-180e45f3-ecd4-4b37-9421-dd477da603e4-8cf05671.webp"
+      ]
+    },
+    {
       "id": "mid-9bd17a03-001c-43cd-914d-9d4fdc7e9b0b",
       "name": "Organizador. De Mesa",
       "description": "Este organizador de mesa combina várias áreas de armazenamento práticas em um design compacto e moderno. Além de um grande porta-canetas, o modelo conta com um suporte inclinado para smartphones (88mm de largura para comparação o iPhone 17 Pro Max tem 78mm de largura) além de dois compartimentos de armazenamento de tamanhos diferentes na área frontal",
