@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-9bd17a03-001c-43cd-914d-9d4fdc7e9b0b",
+      "name": "Organizador. De Mesa",
+      "description": "Este organizador de mesa combina várias áreas de armazenamento práticas em um design compacto e moderno. Além de um grande porta-canetas, o modelo conta com um suporte inclinado para smartphones (88mm de largura para comparação o iPhone 17 Pro Max tem 78mm de largura) além de dois compartimentos de armazenamento de tamanhos diferentes na área frontal",
+      "price": 60,
+      "category": "Decoração",
+      "variants": [],
+      "images": [
+        "images/products/mid-9bd17a03-001c-43cd-914d-9d4fdc7e9b0b-801cac49.webp",
+        "images/products/mid-9bd17a03-001c-43cd-914d-9d4fdc7e9b0b-206d7c33.webp",
+        "images/products/mid-9bd17a03-001c-43cd-914d-9d4fdc7e9b0b-93c89fd4.webp"
+      ]
+    },
+    {
       "id": "mid-4dc734ea-1079-4ea0-a6ad-4023c0df8d7d",
       "name": "Luminária Nuvem",
       "description": "https://www.youtube.com/shorts/M-SamMZwTTc\nInspirada em formações de nuvens suaves e formatos arredondados e macios, a Lâmpada Nuvem explora como a geometria gentil por si só pode moldar e suavizar a luz. As curvas facetadas do abajur criam uma forma calma e escultural que fica bonita mesmo com a lâmpada desligada, e se transforma em um brilho suave e atmosférico quando acesa.",
