@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-61cbdbab-e080-4e8c-83bf-bab52ac63679",
+      "name": "Lavador e Escorredor Rotativo para Alimentos",
+      "description": "Facilite as suas tarefas na cozinha com este prático e inovador lavador rotativo. Ideal para higienizar frutas, legumes e pequenos vegetais de forma rápida, eficiente e sem esforço.",
+      "price": 35,
+      "category": "Cozinha",
+      "variants": [],
+      "images": [
+        "images/products/mid-61cbdbab-e080-4e8c-83bf-bab52ac63679-4a7fb6a0.webp",
+        "images/products/mid-61cbdbab-e080-4e8c-83bf-bab52ac63679-f82585d7.webp",
+        "images/products/mid-61cbdbab-e080-4e8c-83bf-bab52ac63679-9676fe9c.webp"
+      ]
+    },
+    {
       "id": "mid-a2cc0985-30c8-49d3-bab7-d3b54aa779bd",
       "name": "Organizador de Maquiagem - Coração",
       "description": "Este organizador em forma de coração é um acessório elegante e prático, perfeito para manter seu espaço organizado enquanto adiciona um toque decorativo 💕\nProjetado para amantes de maquiagem, ele guarda facilmente pincéis, batons, rímel e outros itens essenciais de cosméticos. Ao mesmo tempo, seu design versátil o torna ideal como um organizador de mesa para canetas, marcadores, marca-textos ou pequenos materiais de escritório.",
