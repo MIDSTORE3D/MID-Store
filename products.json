@@ -10,6 +10,28 @@
   ],
   "products": [
     {
+      "id": "mid-8c2c4d2f-af4e-43a4-a1c8-88c0f15f8006",
+      "name": "Suporte para Utensílios de Cozinha",
+      "description": "Organize sua cozinha com o **Suporte para Utensílios de Cozinha** inspirado no atemporal estilo de design **Japandi**, um estilo simples e minimalista. Ele oferece uma maneira limpa e elegante de guardar seus utensílios de cozinha mais usados",
+      "price": 30,
+      "category": "Cozinha",
+      "variants": [
+        {
+          "label": "Grande",
+          "price": 60
+        },
+        {
+          "label": "Pequeno",
+          "price": 30
+        }
+      ],
+      "images": [
+        "images/products/mid-8c2c4d2f-af4e-43a4-a1c8-88c0f15f8006-77716d10.webp",
+        "images/products/mid-8c2c4d2f-af4e-43a4-a1c8-88c0f15f8006-aecca3e5.webp",
+        "images/products/mid-8c2c4d2f-af4e-43a4-a1c8-88c0f15f8006-2a5a837c.webp"
+      ]
+    },
+    {
       "id": "mid-61cbdbab-e080-4e8c-83bf-bab52ac63679",
       "name": "Lavador e Escorredor Rotativo para Alimentos",
       "description": "Facilite as suas tarefas na cozinha com este prático e inovador lavador rotativo. Ideal para higienizar frutas, legumes e pequenos vegetais de forma rápida, eficiente e sem esforço.",
