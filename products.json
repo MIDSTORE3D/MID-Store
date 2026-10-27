@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-4dc734ea-1079-4ea0-a6ad-4023c0df8d7d",
+      "name": "Luminária Nuvem",
+      "description": "https://www.youtube.com/shorts/M-SamMZwTTc\nInspirada em formações de nuvens suaves e formatos arredondados e macios, a Lâmpada Nuvem explora como a geometria gentil por si só pode moldar e suavizar a luz. As curvas facetadas do abajur criam uma forma calma e escultural que fica bonita mesmo com a lâmpada desligada, e se transforma em um brilho suave e atmosférico quando acesa.",
+      "price": 100,
+      "category": "Decoração",
+      "variants": [],
+      "images": [
+        "images/products/mid-4dc734ea-1079-4ea0-a6ad-4023c0df8d7d-e5d53305.webp",
+        "images/products/mid-4dc734ea-1079-4ea0-a6ad-4023c0df8d7d-3a5e45b6.webp",
+        "images/products/mid-4dc734ea-1079-4ea0-a6ad-4023c0df8d7d-abca8523.webp"
+      ]
+    },
+    {
       "id": "mid-2ffe3f11-5f75-483d-92a6-a77e9d376073",
       "name": "Luminária Ondulada",
       "description": "Ilumine o seu espaço com estilo e originalidade. Este candeeiro de mesa une o design contemporâneo à funcionalidade, tornando-se numa peça de destaque para qualquer divisão, seja na sala de estar, no quarto ou no escritório.",
