@@ -10,6 +10,23 @@
   ],
   "products": [
     {
+      "id": "mid-844cc684-b4d4-4eb1-b36a-99250c38e855",
+      "name": "Boneco de Ação",
+      "description": "​Descubra a combinação perfeita entre arte, interatividade e diversão com esta figura de ação multiarticulada. Com múltiplos pontos de articulação, é o acessório ideal para quem procura uma peça de colecionador, uma ferramenta de apoio ao desenho e modelação, um brinquedo sensorial tipo fidget ou uma peça decorativa única para a secretária.",
+      "price": 10,
+      "category": "Coleções",
+      "variants": [],
+      "images": [
+        "images/products/mid-844cc684-b4d4-4eb1-b36a-99250c38e855-e6e27adc.webp",
+        "images/products/mid-844cc684-b4d4-4eb1-b36a-99250c38e855-c4d17afd.webp",
+        "images/products/mid-844cc684-b4d4-4eb1-b36a-99250c38e855-94241875.webp",
+        "images/products/mid-844cc684-b4d4-4eb1-b36a-99250c38e855-039f2421.webp",
+        "images/products/mid-844cc684-b4d4-4eb1-b36a-99250c38e855-489102c1.webp",
+        "images/products/mid-844cc684-b4d4-4eb1-b36a-99250c38e855-ebd53751.webp",
+        "images/products/mid-844cc684-b4d4-4eb1-b36a-99250c38e855-9d8a810d.webp"
+      ]
+    },
+    {
       "id": "mid-8c0b8f27-441b-4059-bf2d-6b70ef310644",
       "name": "Clip para Vedação com pressão",
       "description": "Este clip oferece uma maneira rápida e segura de vedar sacos de alimentos. Basta liberar para travar e pressionar para abrir. Ideal para pão, lanches, salgadinhos e muito mais. Durável, reutilizável e fácil de usar com uma só mão. Perfeito para armazenamento na cozinha e uso diário.",
