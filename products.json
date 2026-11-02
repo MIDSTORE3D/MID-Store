@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-79921fed-da16-4008-a8e6-719e131e5862",
+      "name": "Caixa Porta Jóias",
+      "description": "​Guarde as suas joias e bijuterias com todo o carinho e sofisticação que elas merecem com esta caixa porta-joias decorativa. Com uma estética delicada e um interior super funcional, é a peça perfeita para proteger as suas joias favoritas enquanto decora o seu toucador ou mesa de cabeceira.",
+      "price": 95,
+      "category": "Beleza",
+      "variants": [],
+      "images": [
+        "images/products/mid-79921fed-da16-4008-a8e6-719e131e5862-89f7e132.webp",
+        "images/products/mid-79921fed-da16-4008-a8e6-719e131e5862-6ce3762f.webp",
+        "images/products/mid-79921fed-da16-4008-a8e6-719e131e5862-b6c2fe94.webp"
+      ]
+    },
+    {
       "id": "mid-36fb9fd3-44bb-44aa-af01-8882355d018b",
       "name": "Bandeija para Pincéis de Maquiagem",
       "description": "Mantenha a sua coleção de pincéis impecavelmente arrumada e sempre à mão com este suporte organizador circular de dois níveis. Uma solução prática, visualmente limpa e de grande capacidade, perfeita para bancadas, toucadores ou mesas de maquilhadores profissionais.",
