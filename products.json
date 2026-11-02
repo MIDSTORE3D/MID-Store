@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-d6957994-6291-4c1f-b780-465cc90c183e",
+      "name": "Ponteira de Lápis Urso Fofo",
+      "description": "Esta fofa ponteira de lápis de urso é projetada para abraçar o lápis com suas patinhas e pernas. Um acessório divertido e simples para a escola, mesas, estojos ou pequenos presentes.",
+      "price": 2,
+      "category": "Acessórios",
+      "variants": [],
+      "images": [
+        "images/products/mid-d6957994-6291-4c1f-b780-465cc90c183e-87c7810a.webp",
+        "images/products/mid-d6957994-6291-4c1f-b780-465cc90c183e-f1eec11e.webp"
+      ]
+    },
+    {
       "id": "mid-7ed3a99d-e312-4e26-9423-6fbef50f90b5",
       "name": "Anjo em Malha",
       "description": "Ilumine a sua casa com uma atmosfera celestial, acolhedora e mágica com este candeeiro decorativo em formato de anjo. Um elemento de decoração encantador que combina design artesanal e iluminação suave, criando um efeito de sombras deslumbrante no ambiente.",
