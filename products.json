@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-d72a65a8-8792-4d68-990f-10ce831970a1",
+      "name": "Kit Higiene para Bebês",
+      "description": "Encante a decoração do quarto do seu bebé com este delicado e elegante kit organizador de higiene. Uma peça funcional e amorosa, perfeita para manter todos os itens essenciais de cuidados diários organizados e sempre à mão na bancada ou fraldário.",
+      "price": 108,
+      "category": "Decoração",
+      "variants": [],
+      "images": [
+        "images/products/mid-d72a65a8-8792-4d68-990f-10ce831970a1-ef0d12a4.webp",
+        "images/products/mid-d72a65a8-8792-4d68-990f-10ce831970a1-222b1cc8.webp"
+      ]
+    },
+    {
       "id": "mid-844cc684-b4d4-4eb1-b36a-99250c38e855",
       "name": "Boneco de Ação",
       "description": "​Descubra a combinação perfeita entre arte, interatividade e diversão com esta figura de ação multiarticulada. Com múltiplos pontos de articulação, é o acessório ideal para quem procura uma peça de colecionador, uma ferramenta de apoio ao desenho e modelação, um brinquedo sensorial tipo fidget ou uma peça decorativa única para a secretária.",
