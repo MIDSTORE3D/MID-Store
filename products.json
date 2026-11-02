@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-1897dbef-51c4-490c-8b54-71f76944f1d2",
+      "name": "Caixa de Jóias Mágica",
+      "description": "Revele toda a beleza e praticidade da sua organização com este organizador extensível de bancada. Na sua versão totalmente aberta, esta peça transforma-se numa flor ou estrela geométrica deslumbrante, mantendo todos os seus pequenos tesouros perfeitamente visíveis e à mão.",
+      "price": 45,
+      "category": "Beleza",
+      "variants": [],
+      "images": [
+        "images/products/mid-1897dbef-51c4-490c-8b54-71f76944f1d2-399d1438.webp",
+        "images/products/mid-1897dbef-51c4-490c-8b54-71f76944f1d2-91a61564.webp"
+      ]
+    },
+    {
       "id": "mid-d6957994-6291-4c1f-b780-465cc90c183e",
       "name": "Ponteira de Lápis Urso Fofo",
       "description": "Esta fofa ponteira de lápis de urso é projetada para abraçar o lápis com suas patinhas e pernas. Um acessório divertido e simples para a escola, mesas, estojos ou pequenos presentes.",
