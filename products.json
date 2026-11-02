@@ -10,6 +10,20 @@
   ],
   "products": [
     {
+      "id": "mid-ad5f1484-7373-46fa-8bc2-8701a031d73d",
+      "name": "Suporte Giratório para Jóias / Maquiagem",
+      "description": "Adicione um toque real, charmoso e super funcional ao seu toucador com este organizador multiusos em formato de coroa. Uma peça completa pensada para manter os seus produtos de beleza e acessórios sempre arrumados e acessíveis.",
+      "price": 74,
+      "category": "Beleza",
+      "variants": [],
+      "images": [
+        "images/products/mid-ad5f1484-7373-46fa-8bc2-8701a031d73d-6f1b5a3c.webp",
+        "images/products/mid-ad5f1484-7373-46fa-8bc2-8701a031d73d-846388e4.webp",
+        "images/products/mid-ad5f1484-7373-46fa-8bc2-8701a031d73d-b497ed8f.webp",
+        "images/products/mid-ad5f1484-7373-46fa-8bc2-8701a031d73d-ae370811.webp"
+      ]
+    },
+    {
       "id": "mid-f80d0564-0f05-48e2-a244-a5a80cfb7b92",
       "name": "Dispenser de Sabonete em Barra",
       "description": "Mantenha a sua casa de banho organizada, limpa e funcional com esta saboneteira de parede moderna. Com um design inteligente que protege o sabonete da água do chuveiro, é a solução ideal para evitar que o sabonete derreta ou acumule resíduos na bancada.",
