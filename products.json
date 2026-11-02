@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-8c0b8f27-441b-4059-bf2d-6b70ef310644",
+      "name": "Clip para Vedação com pressão",
+      "description": "Este clip oferece uma maneira rápida e segura de vedar sacos de alimentos. Basta liberar para travar e pressionar para abrir. Ideal para pão, lanches, salgadinhos e muito mais. Durável, reutilizável e fácil de usar com uma só mão. Perfeito para armazenamento na cozinha e uso diário.",
+      "price": 3,
+      "category": "Cozinha",
+      "variants": [],
+      "images": [
+        "images/products/mid-8c0b8f27-441b-4059-bf2d-6b70ef310644-806dda92.webp",
+        "images/products/mid-8c0b8f27-441b-4059-bf2d-6b70ef310644-7198659e.webp"
+      ]
+    },
+    {
       "id": "mid-6a8640b2-37be-4230-a2b9-3178149f3000",
       "name": "Bandeija Decorativa",
       "description": "",
