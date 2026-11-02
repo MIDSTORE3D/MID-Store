@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-fc7b023d-326e-461a-817a-ea3b99291d80",
+      "name": "Calendário",
+      "description": "​Organize a sua rotina com elegância e estilo com este calendário perpétuo de mesa. Com um design moderno, minimalista e atemporal, é a peça ideal para compor a decoração de escritórios, cantinhos de estudo, receções ou mesas de trabalho, sem nunca perder a validade.",
+      "price": 37,
+      "category": "Decoração",
+      "variants": [],
+      "images": [
+        "images/products/mid-fc7b023d-326e-461a-817a-ea3b99291d80-9bbdb9ec.webp",
+        "images/products/mid-fc7b023d-326e-461a-817a-ea3b99291d80-0c8f3034.webp",
+        "images/products/mid-fc7b023d-326e-461a-817a-ea3b99291d80-025ee063.webp"
+      ]
+    },
+    {
       "id": "mid-79921fed-da16-4008-a8e6-719e131e5862",
       "name": "Caixa Porta Jóias",
       "description": "​Guarde as suas joias e bijuterias com todo o carinho e sofisticação que elas merecem com esta caixa porta-joias decorativa. Com uma estética delicada e um interior super funcional, é a peça perfeita para proteger as suas joias favoritas enquanto decora o seu toucador ou mesa de cabeceira.",
