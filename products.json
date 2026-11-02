@@ -10,6 +10,20 @@
   ],
   "products": [
     {
+      "id": "mid-6a8640b2-37be-4230-a2b9-3178149f3000",
+      "name": "Bandeija Decorativa",
+      "description": "",
+      "price": 18,
+      "category": "Decoração",
+      "variants": [],
+      "images": [
+        "images/products/mid-6a8640b2-37be-4230-a2b9-3178149f3000-4a3d0812.webp",
+        "images/products/mid-6a8640b2-37be-4230-a2b9-3178149f3000-b4e71cec.webp",
+        "images/products/mid-6a8640b2-37be-4230-a2b9-3178149f3000-fefa1351.webp",
+        "images/products/mid-6a8640b2-37be-4230-a2b9-3178149f3000-081141ac.webp"
+      ]
+    },
+    {
       "id": "mid-443e4806-2b1b-4292-90c7-0de9060d7fe8",
       "name": "Gancho de Parede Minimalista",
       "description": "Organize a sua entrada, corredor ou quarto com estilo e alegria com este conjunto de ganchos de parede. Combinando um design minimalista com apontamentos de cor, este acessório é ideal para manter o espaço arrumado sem descurar a estética.  ",
