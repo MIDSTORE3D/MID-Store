@@ -10,6 +10,32 @@
   ],
   "products": [
     {
+      "id": "mid-7ed3a99d-e312-4e26-9423-6fbef50f90b5",
+      "name": "Anjo em Malha",
+      "description": "Ilumine a sua casa com uma atmosfera celestial, acolhedora e mágica com este candeeiro decorativo em formato de anjo. Um elemento de decoração encantador que combina design artesanal e iluminação suave, criando um efeito de sombras deslumbrante no ambiente.",
+      "price": 17,
+      "category": "Decoração",
+      "variants": [
+        {
+          "label": "Pequeno",
+          "price": 17
+        },
+        {
+          "label": "Médio",
+          "price": 21
+        },
+        {
+          "label": "Grande",
+          "price": 27
+        }
+      ],
+      "images": [
+        "images/products/mid-7ed3a99d-e312-4e26-9423-6fbef50f90b5-326feb17.webp",
+        "images/products/mid-7ed3a99d-e312-4e26-9423-6fbef50f90b5-d2a8284c.webp",
+        "images/products/mid-7ed3a99d-e312-4e26-9423-6fbef50f90b5-f3325004.webp"
+      ]
+    },
+    {
       "id": "mid-92a327df-db09-45a5-97ff-0947c732f8d7",
       "name": "Organizador de Banheiro",
       "description": "Mantenha a sua bancada de casa de banho perfeitamente arrumada, funcional e elegante com este suporte organizador de bancada. Projetado com múltiplos compartimentos inteligentes, é a solução ideal para reunir tudo o que precisa na sua rotina diária num só lugar.",
