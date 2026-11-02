@@ -10,6 +10,20 @@
   ],
   "products": [
     {
+      "id": "mid-d54ee0ed-7e59-49e8-851b-da71c2097c7b",
+      "name": "Suporte de Celular 360 Graus",
+      "description": "Garanta o máximo conforto e praticidade no seu dia a dia com este suporte articulado para telemóvel/smartphone. Com um design mecânico inovador, base giratória de 360° e múltiplos pontos de regulação, é o acessório ideal para assistir a vídeos, fazer videochamadas, gravar conteúdos ou trabalhar na secretária.",
+      "price": 24,
+      "category": "Acessórios",
+      "variants": [],
+      "images": [
+        "images/products/mid-d54ee0ed-7e59-49e8-851b-da71c2097c7b-807207a5.webp",
+        "images/products/mid-d54ee0ed-7e59-49e8-851b-da71c2097c7b-da98988f.webp",
+        "images/products/mid-d54ee0ed-7e59-49e8-851b-da71c2097c7b-16169a68.webp",
+        "images/products/mid-d54ee0ed-7e59-49e8-851b-da71c2097c7b-f13efd3b.webp"
+      ]
+    },
+    {
       "id": "mid-ad5f1484-7373-46fa-8bc2-8701a031d73d",
       "name": "Suporte Giratório para Jóias / Maquiagem",
       "description": "Adicione um toque real, charmoso e super funcional ao seu toucador com este organizador multiusos em formato de coroa. Uma peça completa pensada para manter os seus produtos de beleza e acessórios sempre arrumados e acessíveis.",
