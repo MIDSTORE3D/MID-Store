@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-f80d0564-0f05-48e2-a244-a5a80cfb7b92",
+      "name": "Dispenser de Sabonete em Barra",
+      "description": "Mantenha a sua casa de banho organizada, limpa e funcional com esta saboneteira de parede moderna. Com um design inteligente que protege o sabonete da água do chuveiro, é a solução ideal para evitar que o sabonete derreta ou acumule resíduos na bancada.",
+      "price": 44.5,
+      "category": "Banheiro",
+      "variants": [],
+      "images": [
+        "images/products/mid-f80d0564-0f05-48e2-a244-a5a80cfb7b92-d87e40a0.webp",
+        "images/products/mid-f80d0564-0f05-48e2-a244-a5a80cfb7b92-fe98523a.webp",
+        "images/products/mid-f80d0564-0f05-48e2-a244-a5a80cfb7b92-0451b0f7.webp"
+      ]
+    },
+    {
       "id": "mid-d72a65a8-8792-4d68-990f-10ce831970a1",
       "name": "Kit Higiene para Bebês",
       "description": "Encante a decoração do quarto do seu bebé com este delicado e elegante kit organizador de higiene. Uma peça funcional e amorosa, perfeita para manter todos os itens essenciais de cuidados diários organizados e sempre à mão na bancada ou fraldário.",
