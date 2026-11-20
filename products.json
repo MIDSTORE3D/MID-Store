@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-db67ccd4-3961-4991-bac3-074204105080",
+      "name": "Suporte para incenso Gato da Lua",
+      "description": "Traga um toque de misticismo, serenidade e muita poesia para os seus momentos de relaxamento com este deslumbrante incensário artístico em formato de lua e gato! Perfeito para perfumar o ambiente com tranquilidade enquanto decora o espaço com uma peça escultural cheia de encanto.",
+      "price": 46,
+      "category": "Decoração",
+      "variants": [],
+      "images": [
+        "images/products/mid-db67ccd4-3961-4991-bac3-074204105080-dce85d12.webp",
+        "images/products/mid-db67ccd4-3961-4991-bac3-074204105080-d8512371.webp",
+        "images/products/mid-db67ccd4-3961-4991-bac3-074204105080-847416c6.webp"
+      ]
+    },
+    {
       "id": "mid-39938f25-5e34-4cfa-8aad-f68c656adbf4",
       "name": "Suporte para Utensílios de Cozinha",
       "description": "Este é um porta-utensílios versátil adequado para a cozinha, escritório ou sala de estar. Ele pode armazenar utensílios de cozinha, lápis, pincéis, flores ou outros pequenos itens que você deseja ter bem organizados.",
