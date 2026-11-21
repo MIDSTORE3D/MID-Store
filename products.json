@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-0f24251b-f517-4af6-a693-cdd4483c392a",
+      "name": "Nossa Senhora com Led",
+      "description": "Traga paz, acolhimento e um toque de devoção artesanal para o seu lar com este delicado altar decorativo de Nossa Senhora com suporte para vela! Perfeito para compor um cantinho de oração cheio de luz, serenidade e encanto.  ",
+      "price": 30,
+      "category": "Decoração",
+      "variants": [],
+      "images": [
+        "images/products/mid-0f24251b-f517-4af6-a693-cdd4483c392a-740d488a.webp",
+        "images/products/mid-0f24251b-f517-4af6-a693-cdd4483c392a-6f69795b.webp",
+        "images/products/mid-0f24251b-f517-4af6-a693-cdd4483c392a-2f779400.webp"
+      ]
+    },
+    {
       "id": "mid-db67ccd4-3961-4991-bac3-074204105080",
       "name": "Suporte para incenso Gato da Lua",
       "description": "Traga um toque de misticismo, serenidade e muita poesia para os seus momentos de relaxamento com este deslumbrante incensário artístico em formato de lua e gato! Perfeito para perfumar o ambiente com tranquilidade enquanto decora o espaço com uma peça escultural cheia de encanto.",
