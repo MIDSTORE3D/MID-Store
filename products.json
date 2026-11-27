@@ -10,6 +10,31 @@
   ],
   "products": [
     {
+      "id": "mid-5fd14fe4-6cd1-4f55-88bd-ceecfddbdcba",
+      "name": "Conjunto Decorativo de Natal com Textura de Malha",
+      "description": "Traga todo o aconchego e o espírito natalício para a sua casa com este encantador conjunto decorativo. Com um acabamento texturizado que imita malha tricotada, cada peça transmite uma sensação acolhedora e festiva, ideal para compor mesas, aparadores, prateleiras ou escritórios durante a época natalícia.  ",
+      "price": 10,
+      "category": "Natal",
+      "variants": [
+        {
+          "label": "Bonecos",
+          "price": 10
+        },
+        {
+          "label": "Bandeija",
+          "price": 12
+        }
+      ],
+      "images": [
+        "images/products/mid-5fd14fe4-6cd1-4f55-88bd-ceecfddbdcba-427247f9.webp",
+        "images/products/mid-5fd14fe4-6cd1-4f55-88bd-ceecfddbdcba-69a3ba9f.webp",
+        "images/products/mid-5fd14fe4-6cd1-4f55-88bd-ceecfddbdcba-50c89dd6.webp",
+        "images/products/mid-5fd14fe4-6cd1-4f55-88bd-ceecfddbdcba-5b643576.webp",
+        "images/products/mid-5fd14fe4-6cd1-4f55-88bd-ceecfddbdcba-04313610.webp",
+        "images/products/mid-5fd14fe4-6cd1-4f55-88bd-ceecfddbdcba-d7daaa71.webp"
+      ]
+    },
+    {
       "id": "mid-6dd27ded-a03f-40e1-88a6-8c26aa7a33a7",
       "name": "Decoração de Natal com Rena e Led",
       "description": "Com a luz quente as chamas começam a brilhar lindamente e criam um clima de Natal muito aconchegante As duas renas também são suavemente iluminadas pela luz\nSeja na janela no aparador ou como decoração de mesa este modelo é um verdadeiro destaque no período do Advento e Natal",
