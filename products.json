@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-6dd27ded-a03f-40e1-88a6-8c26aa7a33a7",
+      "name": "Decoração de Natal com Rena e Led",
+      "description": "Com a luz quente as chamas começam a brilhar lindamente e criam um clima de Natal muito aconchegante As duas renas também são suavemente iluminadas pela luz\nSeja na janela no aparador ou como decoração de mesa este modelo é um verdadeiro destaque no período do Advento e Natal",
+      "price": 50,
+      "category": "Natal",
+      "variants": [],
+      "images": [
+        "images/products/mid-6dd27ded-a03f-40e1-88a6-8c26aa7a33a7-159d2c78.webp",
+        "images/products/mid-6dd27ded-a03f-40e1-88a6-8c26aa7a33a7-4de4f993.webp"
+      ]
+    },
+    {
       "id": "mid-ae64d866-07c5-46ec-8dbd-2aeedababc96",
       "name": "Kit Cupcake Pão de Gengibre",
       "description": "Adicione um toque doce e aconchegante à sua decoração de festas com este conjunto de Recipientes de Cupcake de Pão de Gengibre! Apresentando uma base de cupcake com ranhuras, tampa com glacê escorrendo e um charmoso boneco de pão de gengibre como alça, eles funcionam perfeitamente tanto como potes de armazenamento festivos para pequenos objetos guloseimas embaladas quanto como decoração sazonal independente.",
