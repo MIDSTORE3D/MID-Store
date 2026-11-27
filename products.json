@@ -10,6 +10,18 @@
   ],
   "products": [
     {
+      "id": "mid-d3b9aaab-ce46-4610-ac04-d67f751f7243",
+      "name": "Caixa Vilã de Natal -2,5 L",
+      "description": "A grande caixa de armazenamento oferece aprox. 2,5 litros de volume e é decorada em volta com uma vila de inverno detalhada com casas, pinheiros e pequenas estrelas. A tampa com o seu grande floco de neve em relevo torna a caixa um destaque especial para o período de Natal.",
+      "price": 90,
+      "category": "Natal",
+      "variants": [],
+      "images": [
+        "images/products/mid-d3b9aaab-ce46-4610-ac04-d67f751f7243-bb89471b.webp",
+        "images/products/mid-d3b9aaab-ce46-4610-ac04-d67f751f7243-ee4d0f5d.webp"
+      ]
+    },
+    {
       "id": "mid-5fd14fe4-6cd1-4f55-88bd-ceecfddbdcba",
       "name": "Conjunto Decorativo de Natal com Textura de Malha",
       "description": "Traga todo o aconchego e o espírito natalício para a sua casa com este encantador conjunto decorativo. Com um acabamento texturizado que imita malha tricotada, cada peça transmite uma sensação acolhedora e festiva, ideal para compor mesas, aparadores, prateleiras ou escritórios durante a época natalícia.  ",
