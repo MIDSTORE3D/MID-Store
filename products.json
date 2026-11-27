@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-ae64d866-07c5-46ec-8dbd-2aeedababc96",
+      "name": "Kit Cupcake Pão de Gengibre",
+      "description": "Adicione um toque doce e aconchegante à sua decoração de festas com este conjunto de Recipientes de Cupcake de Pão de Gengibre! Apresentando uma base de cupcake com ranhuras, tampa com glacê escorrendo e um charmoso boneco de pão de gengibre como alça, eles funcionam perfeitamente tanto como potes de armazenamento festivos para pequenos objetos guloseimas embaladas quanto como decoração sazonal independente.",
+      "price": 90,
+      "category": "Decoração",
+      "variants": [],
+      "images": [
+        "images/products/mid-ae64d866-07c5-46ec-8dbd-2aeedababc96-41f840cb.webp",
+        "images/products/mid-ae64d866-07c5-46ec-8dbd-2aeedababc96-7bcd7193.webp",
+        "images/products/mid-ae64d866-07c5-46ec-8dbd-2aeedababc96-d334fede.webp"
+      ]
+    },
+    {
       "id": "mid-0f24251b-f517-4af6-a693-cdd4483c392a",
       "name": "Nossa Senhora com Led",
       "description": "Traga paz, acolhimento e um toque de devoção artesanal para o seu lar com este delicado altar decorativo de Nossa Senhora com suporte para vela! Perfeito para compor um cantinho de oração cheio de luz, serenidade e encanto.  ",
