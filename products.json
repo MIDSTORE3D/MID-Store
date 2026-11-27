@@ -10,6 +10,19 @@
   ],
   "products": [
     {
+      "id": "mid-b56cfa6e-e4aa-4e66-8d85-32ef2744f47d",
+      "name": "Kit Porta Velas Pão de Gengibre",
+      "description": "Ilumine a sua decoração natalícia com este adorável par de porta-velas inspirados nos clássicos biscoitos de gengibre. Com um design encantador e acabamento detalhado que imita glacé branco e laços vermelhos, estas peças criam um ambiente acolhedor, quente e festivo em qualquer canto da casa.",
+      "price": 43,
+      "category": "Natal",
+      "variants": [],
+      "images": [
+        "images/products/mid-b56cfa6e-e4aa-4e66-8d85-32ef2744f47d-81b25175.webp",
+        "images/products/mid-b56cfa6e-e4aa-4e66-8d85-32ef2744f47d-be476393.webp",
+        "images/products/mid-b56cfa6e-e4aa-4e66-8d85-32ef2744f47d-8904472c.webp"
+      ]
+    },
+    {
       "id": "mid-d3b9aaab-ce46-4610-ac04-d67f751f7243",
       "name": "Caixa Vilã de Natal -2,5 L",
       "description": "A grande caixa de armazenamento oferece aprox. 2,5 litros de volume e é decorada em volta com uma vila de inverno detalhada com casas, pinheiros e pequenas estrelas. A tampa com o seu grande floco de neve em relevo torna a caixa um destaque especial para o período de Natal.",
